@@ -224,9 +224,6 @@
         <taxon id="KF214240|SE_notgiven|Colobus_guereza|no_sub|COL|BWC01|len13592|noregion|UG|1910|">
           <attr name="host">Colobus_guereza</attr>
         </taxon>
-        <taxon id="pSIVgml">
-          <attr name="host">?</attr>
-        </taxon>
         <taxon id="U04005|SE_notgiven|Cercopithecus_aethiops_sabaeus|no_sub|SAB|SAB1|len13592|noregion|SN|19x|">
           <attr name="host">Cercopithecus_aethiops_sabaeus</attr>
         </taxon>
@@ -1300,77 +1297,77 @@
       <taxa idref="taxa" />
         <generalDataType idref="host.dataType" />
     </attributePatterns>
-    <empiricalTreeDistributionModel fileName="h24_0_empTrees_resampled.trees" id="treeModel.1">
+    <empiricalTreeDistributionModel fileName="h24_0_empTrees_resampled.trees" id="treeModel.0">
+      <taxa idref="taxa" />
+    </empiricalTreeDistributionModel>
+    <statistic id="treeModel.0.currentTree" name="Current Tree">
+      <empiricalTreeDistributionModel idref="treeModel.0" />
+    </statistic>
+    <empiricalTreeDistributionModel fileName="h24_1_empTrees_resampled.trees" id="treeModel.1">
       <taxa idref="taxa" />
     </empiricalTreeDistributionModel>
     <statistic id="treeModel.1.currentTree" name="Current Tree">
       <empiricalTreeDistributionModel idref="treeModel.1" />
     </statistic>
-    <empiricalTreeDistributionModel fileName="h24_1_empTrees_resampled.trees" id="treeModel.2">
+    <empiricalTreeDistributionModel fileName="h24_2_empTrees_resampled.trees" id="treeModel.2">
       <taxa idref="taxa" />
     </empiricalTreeDistributionModel>
     <statistic id="treeModel.2.currentTree" name="Current Tree">
       <empiricalTreeDistributionModel idref="treeModel.2" />
     </statistic>
-    <empiricalTreeDistributionModel fileName="h24_2_empTrees_resampled.trees" id="treeModel.3">
+    <empiricalTreeDistributionModel fileName="h24_3_empTrees_resampled.trees" id="treeModel.3">
       <taxa idref="taxa" />
     </empiricalTreeDistributionModel>
     <statistic id="treeModel.3.currentTree" name="Current Tree">
       <empiricalTreeDistributionModel idref="treeModel.3" />
     </statistic>
-    <empiricalTreeDistributionModel fileName="h24_3_empTrees_resampled.trees" id="treeModel.4">
+    <empiricalTreeDistributionModel fileName="h24_4_empTrees_resampled.trees" id="treeModel.4">
       <taxa idref="taxa" />
     </empiricalTreeDistributionModel>
     <statistic id="treeModel.4.currentTree" name="Current Tree">
       <empiricalTreeDistributionModel idref="treeModel.4" />
     </statistic>
-    <empiricalTreeDistributionModel fileName="h24_4_empTrees_resampled.trees" id="treeModel.5">
+    <empiricalTreeDistributionModel fileName="h24_5_empTrees_resampled.trees" id="treeModel.5">
       <taxa idref="taxa" />
     </empiricalTreeDistributionModel>
     <statistic id="treeModel.5.currentTree" name="Current Tree">
       <empiricalTreeDistributionModel idref="treeModel.5" />
     </statistic>
-    <empiricalTreeDistributionModel fileName="h24_5_empTrees_resampled.trees" id="treeModel.6">
+    <empiricalTreeDistributionModel fileName="h24_6_empTrees_resampled.trees" id="treeModel.6">
       <taxa idref="taxa" />
     </empiricalTreeDistributionModel>
     <statistic id="treeModel.6.currentTree" name="Current Tree">
       <empiricalTreeDistributionModel idref="treeModel.6" />
     </statistic>
-    <empiricalTreeDistributionModel fileName="h24_6_empTrees_resampled.trees" id="treeModel.7">
+    <empiricalTreeDistributionModel fileName="h24_7_empTrees_resampled.trees" id="treeModel.7">
       <taxa idref="taxa" />
     </empiricalTreeDistributionModel>
     <statistic id="treeModel.7.currentTree" name="Current Tree">
       <empiricalTreeDistributionModel idref="treeModel.7" />
     </statistic>
-    <empiricalTreeDistributionModel fileName="h24_7_empTrees_resampled.trees" id="treeModel.8">
+    <empiricalTreeDistributionModel fileName="h24_8_empTrees_resampled.trees" id="treeModel.8">
       <taxa idref="taxa" />
     </empiricalTreeDistributionModel>
     <statistic id="treeModel.8.currentTree" name="Current Tree">
       <empiricalTreeDistributionModel idref="treeModel.8" />
     </statistic>
-    <empiricalTreeDistributionModel fileName="h24_8_empTrees_resampled.trees" id="treeModel.9">
+    <empiricalTreeDistributionModel fileName="h24_9_empTrees_resampled.trees" id="treeModel.9">
       <taxa idref="taxa" />
     </empiricalTreeDistributionModel>
     <statistic id="treeModel.9.currentTree" name="Current Tree">
       <empiricalTreeDistributionModel idref="treeModel.9" />
     </statistic>
-    <empiricalTreeDistributionModel fileName="h24_9_empTrees_resampled.trees" id="treeModel.10">
+    <empiricalTreeDistributionModel fileName="h24_10_empTrees_resampled.trees" id="treeModel.10">
       <taxa idref="taxa" />
     </empiricalTreeDistributionModel>
     <statistic id="treeModel.10.currentTree" name="Current Tree">
       <empiricalTreeDistributionModel idref="treeModel.10" />
     </statistic>
-    <empiricalTreeDistributionModel fileName="h24_10_empTrees_resampled.trees" id="treeModel.11">
+    <empiricalTreeDistributionModel fileName="h24_11_empTrees_resampled.trees" id="treeModel.11">
       <taxa idref="taxa" />
     </empiricalTreeDistributionModel>
     <statistic id="treeModel.11.currentTree" name="Current Tree">
       <empiricalTreeDistributionModel idref="treeModel.11" />
-    </statistic>
-    <empiricalTreeDistributionModel fileName="h24_11_empTrees_resampled.trees" id="treeModel.12">
-      <taxa idref="taxa" />
-    </empiricalTreeDistributionModel>
-    <statistic id="treeModel.12.currentTree" name="Current Tree">
-      <empiricalTreeDistributionModel idref="treeModel.12" />
     </statistic>
     <generalSubstitutionModel id="host.model">
       <generalDataType idref="host.dataType" />
@@ -1404,6 +1401,12 @@
           <parameter id="hostSiteModel.mu" lower="0.0" upper="10.0" value="0.1" />
         </mutationRate>
     </siteModel>
+    <ancestralTreeLikelihood id="host.treeLikelihood.0" stateTagName="host.states">
+      <attributePatterns idref="host.pattern" />
+        <treeModel idref="treeModel.0" />
+        <siteModel idref="host.siteModel" />
+        <generalSubstitutionModel idref="host.model" />
+    </ancestralTreeLikelihood>
     <ancestralTreeLikelihood id="host.treeLikelihood.1" stateTagName="host.states">
       <attributePatterns idref="host.pattern" />
         <treeModel idref="treeModel.1" />
@@ -1470,14 +1473,11 @@
         <siteModel idref="host.siteModel" />
         <generalSubstitutionModel idref="host.model" />
     </ancestralTreeLikelihood>
-    <ancestralTreeLikelihood id="host.treeLikelihood.12" stateTagName="host.states">
-      <attributePatterns idref="host.pattern" />
-        <treeModel idref="treeModel.12" />
-        <siteModel idref="host.siteModel" />
-        <generalSubstitutionModel idref="host.model" />
-    </ancestralTreeLikelihood>
     <operators id="operators" optimizationSchedule="log">
       <empiricalTreeDistributionOperator weight="1">
+          <empiricalTreeDistributionModel idref="treeModel.0" />
+        </empiricalTreeDistributionOperator>
+        <empiricalTreeDistributionOperator weight="1">
           <empiricalTreeDistributionModel idref="treeModel.1" />
         </empiricalTreeDistributionOperator>
         <empiricalTreeDistributionOperator weight="1">
@@ -1510,9 +1510,6 @@
         <empiricalTreeDistributionOperator weight="1">
           <empiricalTreeDistributionModel idref="treeModel.11" />
         </empiricalTreeDistributionOperator>
-        <empiricalTreeDistributionOperator weight="1">
-          <empiricalTreeDistributionModel idref="treeModel.12" />
-        </empiricalTreeDistributionOperator>
         <scaleOperator autoOptimize="true" scaleAllIndependently="true" scaleFactor="0.75" weight="45">
           <parameter idref="host.rates" />
         </scaleOperator>
@@ -1527,10 +1524,11 @@
             <parameter idref="hostSiteModel.mu" />
         </bitFlipInSubstitutionModelOperator>
     </operators>
-    <mcmc autoOptimize="true" chainLength="10000000" id="mcmc" operatorAnalysis="hostMatrix_2016-10-03.ops">
+    <mcmc autoOptimize="true" chainLength="25000000" id="mcmc" operatorAnalysis="discreteTraits_2016-10-25.ops">
       <posterior id="posterior">
           <likelihood id="likelihood">
-              <ancestralTreeLikelihood idref="host.treeLikelihood.1" />
+              <ancestralTreeLikelihood idref="host.treeLikelihood.0" />
+            <ancestralTreeLikelihood idref="host.treeLikelihood.1" />
             <ancestralTreeLikelihood idref="host.treeLikelihood.2" />
             <ancestralTreeLikelihood idref="host.treeLikelihood.3" />
             <ancestralTreeLikelihood idref="host.treeLikelihood.4" />
@@ -1541,7 +1539,6 @@
             <ancestralTreeLikelihood idref="host.treeLikelihood.9" />
             <ancestralTreeLikelihood idref="host.treeLikelihood.10" />
             <ancestralTreeLikelihood idref="host.treeLikelihood.11" />
-            <ancestralTreeLikelihood idref="host.treeLikelihood.12" />
             </likelihood>
             <prior id="prior">
               <exponentialPrior mean="20" offset="0">
@@ -1560,88 +1557,88 @@
             </prior>
         </posterior>
         <operators idref="operators" />
-        <logTree fileName="hostMatrix_1_2016-10-03.trees" id="treeFileLog.1" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
+        <logTree fileName="discreteTraits_0_2016-10-25.trees" id="treeFileLog.0" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
+          <treeModel idref="treeModel.0" />
+            <posterior idref="posterior" />
+            <trait name="host.states" tag="host">
+              <ancestralTreeLikelihood idref="host.treeLikelihood.0" />
+            </trait>
+        </logTree>
+        <logTree fileName="discreteTraits_1_2016-10-25.trees" id="treeFileLog.1" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
           <treeModel idref="treeModel.1" />
             <posterior idref="posterior" />
             <trait name="host.states" tag="host">
               <ancestralTreeLikelihood idref="host.treeLikelihood.1" />
             </trait>
         </logTree>
-        <logTree fileName="hostMatrix_2_2016-10-03.trees" id="treeFileLog.2" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
+        <logTree fileName="discreteTraits_2_2016-10-25.trees" id="treeFileLog.2" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
           <treeModel idref="treeModel.2" />
             <posterior idref="posterior" />
             <trait name="host.states" tag="host">
               <ancestralTreeLikelihood idref="host.treeLikelihood.2" />
             </trait>
         </logTree>
-        <logTree fileName="hostMatrix_3_2016-10-03.trees" id="treeFileLog.3" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
+        <logTree fileName="discreteTraits_3_2016-10-25.trees" id="treeFileLog.3" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
           <treeModel idref="treeModel.3" />
             <posterior idref="posterior" />
             <trait name="host.states" tag="host">
               <ancestralTreeLikelihood idref="host.treeLikelihood.3" />
             </trait>
         </logTree>
-        <logTree fileName="hostMatrix_4_2016-10-03.trees" id="treeFileLog.4" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
+        <logTree fileName="discreteTraits_4_2016-10-25.trees" id="treeFileLog.4" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
           <treeModel idref="treeModel.4" />
             <posterior idref="posterior" />
             <trait name="host.states" tag="host">
               <ancestralTreeLikelihood idref="host.treeLikelihood.4" />
             </trait>
         </logTree>
-        <logTree fileName="hostMatrix_5_2016-10-03.trees" id="treeFileLog.5" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
+        <logTree fileName="discreteTraits_5_2016-10-25.trees" id="treeFileLog.5" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
           <treeModel idref="treeModel.5" />
             <posterior idref="posterior" />
             <trait name="host.states" tag="host">
               <ancestralTreeLikelihood idref="host.treeLikelihood.5" />
             </trait>
         </logTree>
-        <logTree fileName="hostMatrix_6_2016-10-03.trees" id="treeFileLog.6" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
+        <logTree fileName="discreteTraits_6_2016-10-25.trees" id="treeFileLog.6" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
           <treeModel idref="treeModel.6" />
             <posterior idref="posterior" />
             <trait name="host.states" tag="host">
               <ancestralTreeLikelihood idref="host.treeLikelihood.6" />
             </trait>
         </logTree>
-        <logTree fileName="hostMatrix_7_2016-10-03.trees" id="treeFileLog.7" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
+        <logTree fileName="discreteTraits_7_2016-10-25.trees" id="treeFileLog.7" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
           <treeModel idref="treeModel.7" />
             <posterior idref="posterior" />
             <trait name="host.states" tag="host">
               <ancestralTreeLikelihood idref="host.treeLikelihood.7" />
             </trait>
         </logTree>
-        <logTree fileName="hostMatrix_8_2016-10-03.trees" id="treeFileLog.8" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
+        <logTree fileName="discreteTraits_8_2016-10-25.trees" id="treeFileLog.8" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
           <treeModel idref="treeModel.8" />
             <posterior idref="posterior" />
             <trait name="host.states" tag="host">
               <ancestralTreeLikelihood idref="host.treeLikelihood.8" />
             </trait>
         </logTree>
-        <logTree fileName="hostMatrix_9_2016-10-03.trees" id="treeFileLog.9" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
+        <logTree fileName="discreteTraits_9_2016-10-25.trees" id="treeFileLog.9" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
           <treeModel idref="treeModel.9" />
             <posterior idref="posterior" />
             <trait name="host.states" tag="host">
               <ancestralTreeLikelihood idref="host.treeLikelihood.9" />
             </trait>
         </logTree>
-        <logTree fileName="hostMatrix_10_2016-10-03.trees" id="treeFileLog.10" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
+        <logTree fileName="discreteTraits_10_2016-10-25.trees" id="treeFileLog.10" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
           <treeModel idref="treeModel.10" />
             <posterior idref="posterior" />
             <trait name="host.states" tag="host">
               <ancestralTreeLikelihood idref="host.treeLikelihood.10" />
             </trait>
         </logTree>
-        <logTree fileName="hostMatrix_11_2016-10-03.trees" id="treeFileLog.11" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
+        <logTree fileName="discreteTraits_11_2016-10-25.trees" id="treeFileLog.11" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
           <treeModel idref="treeModel.11" />
             <posterior idref="posterior" />
             <trait name="host.states" tag="host">
               <ancestralTreeLikelihood idref="host.treeLikelihood.11" />
-            </trait>
-        </logTree>
-        <logTree fileName="hostMatrix_12_2016-10-03.trees" id="treeFileLog.12" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
-          <treeModel idref="treeModel.12" />
-            <posterior idref="posterior" />
-            <trait name="host.states" tag="host">
-              <ancestralTreeLikelihood idref="host.treeLikelihood.12" />
             </trait>
         </logTree>
         <log id="screenLog" logEvery="10000">
@@ -1655,8 +1652,9 @@
               <productStatistic idref="host.nonZeroRates" />
             </column>
         </log>
-        <log fileName="hostMatrix_2016-10-03.log" id="fileLog" logEvery="5000" overwrite="false">
+        <log fileName="discreteTraits_2016-10-25.log" id="fileLog" logEvery="5000" overwrite="false">
           <sumStatistic idref="host.nonZeroRates" />
+            <ancestralTreeLikelihood idref="host.treeLikelihood.0" />
             <ancestralTreeLikelihood idref="host.treeLikelihood.1" />
             <ancestralTreeLikelihood idref="host.treeLikelihood.2" />
             <ancestralTreeLikelihood idref="host.treeLikelihood.3" />
@@ -1668,7 +1666,6 @@
             <ancestralTreeLikelihood idref="host.treeLikelihood.9" />
             <ancestralTreeLikelihood idref="host.treeLikelihood.10" />
             <ancestralTreeLikelihood idref="host.treeLikelihood.11" />
-            <ancestralTreeLikelihood idref="host.treeLikelihood.12" />
             <posterior idref="posterior" />
             <prior idref="prior" />
             <parameter idref="hostSiteModel.mu" />
