@@ -17,18 +17,17 @@ print 'found %d tree files'%len(treeslist)
 figtree_template = '/Users/Sidney/Dropbox/siv/scripts/beastAnalysis/figtreeTemplates/host_figtree_template.txt'
 
 for tree in treeslist:
-	analysis, segment_id, date = tree.split('/')[-1].split('.')[0].split('_')
-	segment_id = str(int(segment_id)-1)
-	filestem = '%s_%s_%s'%('discreteTraits', segment_id, date)
-
+	filestem = tree.split('/')[-1].split('.')[0]
+	print tree.split('/')[-1], filestem
 	cmd = 'treeannotator -burnin %d -heights mean %s %s.mcc'%(int(sys.argv[1]), tree, filestem)
 	os.system(cmd)
 	print 'Found mcc tree for %s'%tree
 
 	if 'hosttemplate' in sys.argv:
-		mcc = '%s_temp.mcc'%filestem
-		mcc_with_template = '%s.mcc'%filestem
+		mcc_with_template = '%s_temp.mcc'%filestem
+		mcc = '%s.mcc'%filestem
 		os.system('cat %s %s > %s'%(mcc, figtree_template, mcc_with_template))
 		os.system('rm %s'%mcc)
+		os.system('mv %s %s'%(mcc_with_template, mcc))
 
 print 'done'
