@@ -1,0 +1,140 @@
+<beast>
+	<!-- insert taxa blocks (unique) here    -->
+	<!-- insert host classes (shared) here  -->
+	<attributePatterns id="host.pattern" attribute="host">
+		<taxa idref="taxa"/>
+		<generalDataType idref="host.dataType"/>
+	</attributePatterns>
+
+	<!-- insert empirical tree distribution model blocks (unique)  here -->
+	<!-- symmetric CTMC model (shared) for discrete state reconstructions; update matrix dimension                 -->
+	
+	<generalSubstitutionModel id="host.model">
+		<generalDataType idref="host.dataType"/>
+		<frequencies>
+			<frequencyModel id="host.frequencyModel" normalize="true">
+				<generalDataType idref="host.dataType"/>
+				<frequencies>
+					<parameter id="host.frequencies" dimension="24"/>
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+		
+	<!-- rates and indicators   (shared); update dimensions                                                 -->
+	<rates>
+		<parameter id="host.rates" dimension="276" value="1.0"/>
+	</rates>
+	
+	<rateIndicator>
+		<parameter id="host.indicators" dimension="276" value="1.0"/>
+	</rateIndicator>
+	</generalSubstitutionModel>
+	
+	<sumStatistic id="host.nonZeroRates" elementwise="true">
+		<parameter idref="host.indicators"/>
+	</sumStatistic>
+	
+	<productStatistic id="host.actualRates" elementwise="false">
+		<parameter idref="host.indicators"/>
+		<parameter idref="host.rates"/>
+	</productStatistic>
+	
+	<!-- site model       (shared)                                                        -->
+
+	<siteModel id="host.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="host.model"/>
+		</substitutionModel>
+		<mutationRate>
+			<parameter id="hostSiteModel.mu" value="0.1" lower="0.0" upper="10.0"/>
+		</mutationRate>
+	</siteModel>
+
+
+	<!-- Define operators            (shared)                                            -->
+	<operators id="operators" optimizationSchedule="log">
+	<!-- insert empirical tree distribution operators (unique) here                       -->
+		<scaleOperator scaleFactor="0.75" weight="45" scaleAllIndependently="true" autoOptimize="true">
+			<parameter idref="host.rates"/>
+		</scaleOperator>
+		<bitFlipOperator weight="20">
+			<parameter idref="host.indicators"/>
+		</bitFlipOperator>
+		<scaleOperator scaleFactor="0.75" weight="5" autoOptimize="true">
+			<parameter idref="hostSiteModel.mu"/>
+		</scaleOperator>
+		<bitFlipInSubstitutionModelOperator scaleFactor="0.75" weight="15" autoOptimize="true">
+			<generalSubstitutionModel idref="host.model"/>
+			<parameter idref="hostSiteModel.mu"/>
+		</bitFlipInSubstitutionModelOperator>
+		
+
+	</operators>
+	<!-- Define MCMC, update output file names                                                           -->
+	<mcmc id="mcmc" chainLength="10000000" autoOptimize="true" operatorAnalysis="lanl14_gag_host.ops">
+		<posterior id="posterior">
+			<likelihood id="likelihood"/>
+	<!-- insert ancestral tree likelihood blocks (unique) here                                                 -->			
+			<prior id="prior">
+				<exponentialPrior mean="20" offset="0">
+					<statistic idref="host.nonZeroRates"/>
+				</exponentialPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="host.frequencies"/>
+				</uniformPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="host.rates"/>
+					</gammaPrior>
+					<parameter idref="host.rates"/>
+				</cachedPrior>
+				<!-- START Discrete Traits Model                                             -->
+				<generalSubstitutionModel idref="host.model"/>
+				<!-- END Discrete Traits Model                                               -->
+			</prior>
+		</posterior>
+		<operators idref="operators"/>
+		
+		<!--    make screenlog block                                       -->
+		<log id="screenLog" logEvery="10000">
+			<column label="Posterior" dp="4" width="12">
+				<posterior idref="posterior"/>
+			</column>
+			<column label="Prior" dp="4" width="12">
+				<prior idref="prior"/>
+			</column>
+			<!-- START Discrete Traits Model                                             -->
+			<column label="host.nonZeroRates" sf="6" width="12">
+				<productStatistic idref="host.nonZeroRates"/>
+			</column>
+
+			<!-- END Discrete Traits Model                                               -->
+
+		</log>
+
+
+		<!-- write log to file                                                       -->
+		<log id="fileLog" logEvery="5000" overwrite="false">
+			<sumStatistic idref="host.nonZeroRates"/>			
+			<!--insert ancestraltreelikelihood(unique) here --> 
+			
+			<posterior idref="posterior"/>
+			<prior idref="prior"/>
+
+			<parameter idref="hostSiteModel.mu"/>
+			<parameter idref="host.rates"/>
+			<parameter idref="host.indicators"/>
+
+			<productStatistic idref="host.actualRates"/>
+
+
+		</log>
+
+
+	</mcmc>
+	<report>
+		<property name="timer">
+			<mcmc idref="mcmc"/>
+		</property>
+	</report>
+</beast>

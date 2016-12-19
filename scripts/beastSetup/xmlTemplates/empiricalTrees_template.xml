@@ -1,0 +1,275 @@
+<?xml version="1.0" standalone="yes"?>
+
+<beast>
+
+	<!-- Insert taxa here         -->
+<!-- 		<taxon id="AY655744|SE_notgiven|Miopithecus_ogouensis|no_sub|TAL|266|len13592|noregion|CM|1900|"/> -->
+
+	<!-- Insert alignment here       -->
+<!-- 
+		<sequence>
+			<taxon idref="AY655744|SE_notgiven|Miopithecus_ogouensis|no_sub|TAL|266|len13592|noregion|CM|1900|"/>
+			~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~TGTCTGCAGAGTGGTCACAGCGTCCTGGGAGACCTTGGCCACCGGTAAAGCGTCCTGGGAGACCTTGCCGGTAAACGCTCAGTAGACATCCCGCTGCTTGCTTCGCG~~~~-A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AGCG~~CTTT~~~~~~AAA~~~~~~~~CATAGCC~~~~~~~~C-AATAAAG~~TGTGTTCA-AAGAGCAGCAGTGTGTGCAGCCCATCTGTTGGAGCCGCGGCGGGTGCTGGTCCCGCGCCCTCGG~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-GTCGAGGGAACTTGGTGGGTGAAGAAATTTACCCACCAGC~~~~TGGCGCCCGAACAGGG~~ACTTGAGAACACCCAGGTTCTCTGTCCTGAGGGCCAAGCGGCTTCGGGGACCGCGGGTTTTGGGTCCCAAAGAAGAGAGAGAAACTCCGAGGGGTCGTGAGAGGACGACAGTTCCGGAGTCGAGCCCCGGATCGGCGAAGACGACGCGCGTCGCAAAGTGAAAGTAAGGTAAGGAGCCGATCGGTCACCCCGGGCGAGTAGCCGCCGTGAGCGAGTGCGGTGCTAGGAAGAGTGGCAGAGAGGCCTAGCTTAACCCAGGGGGGA-GGACGGACGGAGGACTTGCAGGCAGGGGTCTGC-AGGAAGTTCGTGCGTACCTCCAGACAAGCACC~~~~CGGTAGAAAGG~~AGACTGCTCAGGAGGAGCACAG~~~~~~~~GGACCTGCGGGTGGTGTTAAGTGCACACACGGGGCAAG~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-ATGGGGGCACGGCACTCGGCGATGCTCACCGGTAGGGCCTTAGATAAATATGAGAAAGTGAGACTGAGGCCGAAAGGGAAAAAGAAGTATATGGTGAAGCATATTGTATGGGCTTCCAAAGAGATGGAGAGGTTTGGCCTGAGTGACGCCCTGTTAGAGACCAAAGAAGGGTGCGTTAAGATCATAGAAGCCATTTACATGTTAGAACCGAATGGCTCAGAAGGGATAAAGTCTCTCTTTGGAATCGTGTGTGTTCTATACTGCATTCATGCTGGTATAGACATTGAGGATACAGAGCAGGCCAAGGCAGAAGTAAGGAAACGCTGC
+			CACCTA~~~~~~~~-GGGGAGAAAAAGGAA~~-ACAACAGAGGAGGAAAAA~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-GTAAGAAAGGCAACAGTGACATCTAGTGGCCAAACAGGAAATTACCCCATAATAAGAAATGCACAGCAGCAGTATCAACATCAGGCACTGTCACCTAGGCTGCTAAAGACATGGATTGCCACTATAGAGGAGAAAAAATTTGCCCCTGAAACAGTGGCGCTCTTCTCGGCACTAGCGGAAGGGTGCATCCCCTATGACATCAA
+		</sequence>
+ -->
+
+	<!-- The unique patterns from 1 to end                                       -->
+	<!-- npatterns=2152                                                          -->
+	<patterns id="patterns" from="1" strip="false">
+		<alignment idref="alignment"/>
+	</patterns>
+
+	<!-- A prior on the distribution node heights defined given                  -->
+
+	<!-- Using birth-death model on tree: Gernhard T (2008) J Theor Biol, Volume 253, Issue 4, Pages 769-778 In press-->
+	<birthDeathModel id="birthDeath" units="years">
+		<birthMinusDeathRate>
+			<parameter id="birthDeath.meanGrowthRate" value="630.0" lower="0.0"/>
+		</birthMinusDeathRate>
+		<relativeDeathRate>
+			<parameter id="birthDeath.relativeDeathRate" value="0.5" lower="0.0"/>
+		</relativeDeathRate>
+	</birthDeathModel>
+
+	<!-- This is a simple constant population size coalescent model              -->
+	<!-- that is used to generate an initial tree for the chain.                 -->
+	<constantSize id="initialDemo" units="years">
+		<populationSize>
+			<parameter id="initialDemo.popSize" value="100.0"/>
+		</populationSize>
+	</constantSize>
+
+	<!-- Generate a random starting tree under the coalescent process            -->
+	<coalescentSimulator id="startingTree">
+		<taxa idref="taxa"/>
+		<constantSize idref="initialDemo"/>
+	</coalescentSimulator>
+
+	<!-- Generate a tree model                                                   -->
+	<treeModel id="treeModel">
+		<coalescentTree idref="startingTree"/>
+		<rootHeight>
+			<parameter id="treeModel.rootHeight"/>
+		</rootHeight>
+		<nodeHeights internalNodes="true">
+			<parameter id="treeModel.internalNodeHeights"/>
+		</nodeHeights>
+		<nodeHeights internalNodes="true" rootNode="true">
+			<parameter id="treeModel.allInternalNodeHeights"/>
+		</nodeHeights>
+	</treeModel>
+
+	<!-- Generate a speciation likelihood for Yule or Birth Death                -->
+	<speciationLikelihood id="speciation">
+		<model>
+			<birthDeathModel idref="birthDeath"/>
+		</model>
+		<speciesTree>
+			<treeModel idref="treeModel"/>
+		</speciesTree>
+	</speciationLikelihood>
+
+	<!-- The strict clock (Uniform rates across branches)                        -->
+	<strictClockBranchRates id="branchRates">
+		<rate>
+			<parameter id="clock.rate" value="1.0"/>
+		</rate>
+	</strictClockBranchRates>
+
+	<!-- The general time reversible (GTR) substitution model                    -->
+	<gtrModel id="gtr">
+		<frequencies>
+			<frequencyModel dataType="nucleotide">
+				<frequencies>
+					<parameter id="frequencies" value="0.25 0.25 0.25 0.25"/>
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+		<rateAC>
+			<parameter id="ac" value="1.0" lower="0.0"/>
+		</rateAC>
+		<rateAG>
+			<parameter id="ag" value="1.0" lower="0.0"/>
+		</rateAG>
+		<rateAT>
+			<parameter id="at" value="1.0" lower="0.0"/>
+		</rateAT>
+		<rateCG>
+			<parameter id="cg" value="1.0" lower="0.0"/>
+		</rateCG>
+		<rateGT>
+			<parameter id="gt" value="1.0" lower="0.0"/>
+		</rateGT>
+	</gtrModel>
+
+	<!-- site model                                                              -->
+	<siteModel id="siteModel">
+		<substitutionModel>
+			<gtrModel idref="gtr"/>
+		</substitutionModel>
+		<gammaShape gammaCategories="4">
+			<parameter id="alpha" value="0.5" lower="0.0"/>
+		</gammaShape>
+	</siteModel>
+
+	<!-- Likelihood for tree given sequence data                                 -->
+	<treeLikelihood id="treeLikelihood" useAmbiguities="false">
+		<patterns idref="patterns"/>
+		<treeModel idref="treeModel"/>
+		<siteModel idref="siteModel"/>
+		<strictClockBranchRates idref="branchRates"/>
+	</treeLikelihood>
+
+	<!-- Define operators                                                        -->
+	<operators id="operators" optimizationSchedule="default">
+		<scaleOperator scaleFactor="0.75" weight="0.1">
+			<parameter idref="ac"/>
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="0.1">
+			<parameter idref="ag"/>
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="0.1">
+			<parameter idref="at"/>
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="0.1">
+			<parameter idref="cg"/>
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="0.1">
+			<parameter idref="gt"/>
+		</scaleOperator>
+		<deltaExchange delta="0.01" weight="0.1">
+			<parameter idref="frequencies"/>
+		</deltaExchange>
+		<scaleOperator scaleFactor="0.75" weight="0.1">
+			<parameter idref="alpha"/>
+		</scaleOperator>
+		<subtreeSlide size="0.01" gaussian="true" weight="15">
+			<treeModel idref="treeModel"/>
+		</subtreeSlide>
+		<narrowExchange weight="15">
+			<treeModel idref="treeModel"/>
+		</narrowExchange>
+		<wideExchange weight="3">
+			<treeModel idref="treeModel"/>
+		</wideExchange>
+		<wilsonBalding weight="3">
+			<treeModel idref="treeModel"/>
+		</wilsonBalding>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="treeModel.rootHeight"/>
+		</scaleOperator>
+		<uniformOperator weight="30">
+			<parameter idref="treeModel.internalNodeHeights"/>
+		</uniformOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="birthDeath.meanGrowthRate"/>
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="birthDeath.relativeDeathRate"/>
+		</scaleOperator>
+		<upDownOperator scaleFactor="0.75" weight="3">
+			<up>
+			</up>
+			<down>
+				<parameter idref="treeModel.allInternalNodeHeights"/>
+			</down>
+		</upDownOperator>
+	</operators>
+
+<!-- Rename ops outfile -->
+	<!-- Define MCMC                                                             -->
+	<mcmc id="mcmc" chainLength="50000000" autoOptimize="true" operatorAnalysis="h24_d3_k25_1_2317.ops.txt">
+		<posterior id="posterior">
+			<prior id="prior">
+				<gammaPrior shape="0.05" scale="10.0" offset="0.0">
+					<parameter idref="ac"/>
+				</gammaPrior>
+				<gammaPrior shape="0.05" scale="20.0" offset="0.0">
+					<parameter idref="ag"/>
+				</gammaPrior>
+				<gammaPrior shape="0.05" scale="10.0" offset="0.0">
+					<parameter idref="at"/>
+				</gammaPrior>
+				<gammaPrior shape="0.05" scale="10.0" offset="0.0">
+					<parameter idref="cg"/>
+				</gammaPrior>
+				<gammaPrior shape="0.05" scale="10.0" offset="0.0">
+					<parameter idref="gt"/>
+				</gammaPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="frequencies"/>
+				</uniformPrior>
+				<exponentialPrior mean="0.5" offset="0.0">
+					<parameter idref="alpha"/>
+				</exponentialPrior>
+				<uniformPrior lower="0.0" upper="100000.0">
+					<parameter idref="birthDeath.meanGrowthRate"/>
+				</uniformPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="birthDeath.relativeDeathRate"/>
+				</uniformPrior>
+				<speciationLikelihood idref="speciation"/>
+			</prior>
+			<likelihood id="likelihood">
+				<treeLikelihood idref="treeLikelihood"/>
+			</likelihood>
+		</posterior>
+		<operators idref="operators"/>
+
+		<log id="fileLog" logEvery="15000" fileName="h24_d3_k25_1_2317.log.txt" overwrite="false">
+			<posterior idref="posterior"/>
+			<prior idref="prior"/>
+			<likelihood idref="likelihood"/>
+			<parameter idref="treeModel.rootHeight"/>
+			<parameter idref="birthDeath.meanGrowthRate"/>
+			<parameter idref="birthDeath.relativeDeathRate"/>
+			<parameter idref="ac"/>
+			<parameter idref="ag"/>
+			<parameter idref="at"/>
+			<parameter idref="cg"/>
+			<parameter idref="gt"/>
+			<parameter idref="frequencies"/>
+			<parameter idref="alpha"/>
+			<parameter idref="clock.rate"/>
+			<treeLikelihood idref="treeLikelihood"/>
+			<speciationLikelihood idref="speciation"/>
+		</log>
+
+		<!-- write log to screen                                                     -->
+		<log id="screenLog" logEvery="15000">
+			<column label="Posterior" dp="4" width="12">
+				<posterior idref="posterior"/>
+			</column>
+			<column label="Prior" dp="4" width="12">
+				<prior idref="prior"/>
+			</column>
+			<column label="Likelihood" dp="4" width="12">
+				<likelihood idref="likelihood"/>
+			</column>
+			<column label="rootHeight" sf="6" width="12">
+				<parameter idref="treeModel.rootHeight"/>
+			</column>
+			<column label="clock.rate" sf="6" width="12">
+				<parameter idref="clock.rate"/>
+			</column>
+		</log>
+
+<!-- rename log file -->
+		<!-- write log to file                                                       -->
+<!-- rename tree log file -->
+		<!-- write tree log to file                                                  -->
+		<logTree id="treeFileLog" logEvery="15000" nexusFormat="true" fileName="h24_d3_k25_1_2317.trees.txt" sortTranslationTable="true">
+			<treeModel idref="treeModel"/>
+			<trait name="rate" tag="rate">
+				<strictClockBranchRates idref="branchRates"/>
+			</trait>
+			<posterior idref="posterior"/>
+		</logTree>
+	</mcmc>
+	<report>
+		<property name="timer">
+			<mcmc idref="mcmc"/>
+		</property>
+	</report>
+</beast>
