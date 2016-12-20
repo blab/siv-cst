@@ -1,0 +1,546 @@
+<beast>
+  <taxa id="taxa">
+      <taxon id="AF082339|SE_notgiven|Homo_sapiens|no_sub|H2A|ALI|len13592|noregion|PT|19x|" />
+        <taxon id="FJ424866|SE_notgiven|Gorilla_gorilla|no_sub|GOR|SIVgor2139_287|len13592|noregion|CM|1907|" />
+        <taxon id="AJ249239|SE_notgiven|Homo_sapiens|no_sub|H1K|96CM_MP535|len13592|noregion|CM|1996|" />
+        <taxon id="LM999945|SE_id640058|Cercopithecus_aethiops_tantalus|no_sub|TAN|SIVagmTAN-CM545-pol_SIVagmTAN-CM545-pol|len3111|AFRSSA|CAMEROON|2001|" />
+        <taxon id="DQ373066|SE_id107473|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVcpzMT145_SIVcpzMT145|len9208|AFRSSA|CAMEROON|2005|" />
+        <taxon id="FJ424868|SE_id269230|Gorilla_gorilla|gorilla|GOR|SIVgorBQ664_SIVgorBQ664|len1126|AFRSSA|CAMEROON|2004|" />
+        <taxon id="AY169814|SE_notgiven|Homo_sapiens|no_sub|H1O|99USTWLA|len13592|noregion|US|1999|" />
+        <taxon id="KF214246|SE_id562171|Colobus_guereza|no_sub|COL|BWC08_BWC08|len1476|AFRSSA|UGANDA|2010|" />
+        <taxon id="M30931|SE_notgiven|Cercopithecus_aethiops_pygerythrus|no_sub|VER|AGM3|len13592|noregion|DE|19x|" />
+        <taxon id="U58991|SE_notgiven|Cercopithecus_aethiops_tantalus|no_sub|TAN|SIVagmTAN1|len13592|noregion|UG|19x|" />
+        <taxon id="L19252|SE_id258042|Cercopithecus_aethiops_tantalus|no_sub|TAN|AGM40|len1763|AFRSSA|UGANDA||" />
+        <taxon id="AJ302646|SE_notgiven|Homo_sapiens|no_sub|H1O|99SE_MP1299|len13592|noregion|SN|1999|" />
+        <taxon id="HQ179987|SE_notgiven|Homo_sapiens|no_sub|H1P|U14788|len13592|noregion|CM|1906|" />
+        <taxon id="JX860432|SE_notgiven|Cercocebus_atys|no_sub|SMM|SIVsmSL92A|len13592|noregion|SL|1992|" />
+        <taxon id="EF394357|SE_id66135|Pan_troglodytes_schweinfurthii|sub_given|CPZ|TAN2_SIVcpzTAN2|len9346|AFRSSA|TANZANIA|2001|" />
+        <taxon id="KP004990|SE_id634582|Gorilla_gorilla|gorilla|GOR|SIVgor-BPID15_SIVgor-BPID15|len9012|AFRSSA|CAMEROON|2013|" />
+        <taxon id="EF535993|SE_id49836|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVcpzDP943_SIVcpzDP943|len9247|AFRSSA|CAMEROON|2005|" />
+        <taxon id="AY932806|SE_id130297|Cercocebus_atys|atys|SMM|TAI_1_SIVsmTAI1|len1427|AFRSSA|COTEDIVOIRE||" />
+        <taxon id="FJ919724|SE_notgiven|Cercopithecus_neglectus|no_sub|DEB|SIVdeb04CMPF3061|len13592|noregion|CM|1904|" />
+        <taxon id="AF005496|SE_notgiven|Homo_sapiens|no_sub|H1H|056|len13592|noregion|CF|1990|" />
+        <taxon id="L19251|SE_id258043|Cercopithecus_aethiops_tantalus|no_sub|TAN|AGM27|len1712|AFRSSA|UGANDA||" />
+        <taxon id="AJ006022|SE_notgiven|Homo_sapiens|no_sub|H1N|YBF30|len13592|noregion|CM|1995|" />
+        <taxon id="KF214243|SE_id562174|Colobus_guereza|no_sub|COL|BWC03_BWC03|len1482|AFRSSA|UGANDA|2010|" />
+        <taxon id="M30502|SE_notgiven|Homo_sapiens|no_sub|H2A|BEN|len13592|noregion|DE|19x|" />
+        <taxon id="FJ424865|SE_id269233|Gorilla_gorilla|gorilla|GOR|SIVgorCP2139_2con_SIVgorCP2139.2con|len9252|AFRSSA|CAMEROON|2007|" />
+        <taxon id="AJ271369|SE_id148886|Pan_troglodytes_troglodytes|sub_given|CPZ|CAM5|len9261|AFRSSA|CAMEROON|1998|" />
+        <taxon id="AY169803|SE_notgiven|Homo_sapiens|no_sub|H1O|96CMA102|len13592|noregion|CM|1996|" />
+        <taxon id="AY932812|SE_id130291|Cercocebus_atys|atys|SMM|TAI_33_SIVsmTAI33|len1423|AFRSSA|COTEDIVOIRE||" />
+        <taxon id="AY932813|SE_id130290|Cercocebus_atys|atys|SMM|TAI_17_SIVsmTAI17|len1416|AFRSSA|COTEDIVOIRE||" />
+        <taxon id="NC_004455|SE_id1570|Mandrillus_sphinx|no_sub|MND-2|98CM16_SIVmnd-2|len9518|AFRSSA|CAMEROON|1998|" />
+        <taxon id="AF367411|SE_notgiven|Mandrillus_sphinx|no_sub|MND-2|CM16|len13592|noregion|CM|1998|" />
+        <taxon id="KF214244|SE_id562173|Colobus_guereza|no_sub|COL|BWC02_BWC02|len1482|AFRSSA|UGANDA|2010|" />
+        <taxon id="AY523866|SE_notgiven|Cercopithecus_neglectus|no_sub|DEB|CM5|len13592|noregion|CM|1999|" />
+        <taxon id="AB253736|SE_id15193|Cercopithecus_aethiops_pygerythrus|sub_given|VER|TYO-1|len9171|AFRSSA|KENYA||" />
+        <taxon id="AY530889|SE_notgiven|Homo_sapiens|no_sub|H2U|12034|len13592|noregion|FR|1996|" />
+        <taxon id="FJ424864|SE_id269234|Gorilla_gorilla|gorilla|GOR|SIVgorCP2139_1con_SIVgorCP2139.1con|len9252|AFRSSA|CAMEROON|2007|" />
+        <taxon id="AB485668|SE_notgiven|Homo_sapiens|no_sub|H1O|I_2478B|len13592|noregion|US|19x|" />
+        <taxon id="AM745105|SE_notgiven|Piliocolobus_badius|no_sub|WRC|97CI14|len13592|noregion|CI|1997|" />
+        <taxon id="AY159322|SE_notgiven|Mandrillus_sphinx|no_sub|MND-2|5440|len13592|noregion|x|19x|" />
+        <taxon id="L39106|SE_notgiven|Homo_sapiens|no_sub|H102_AG|IBNG|len13592|noregion|NG|19x|" />
+        <taxon id="JN091692|SE_id415365|Pan_troglodytes_schweinfurthii|sub_given|CPZ|UG31_UG31|len5254|AFRSSA|TANZANIA|2009|" />
+        <taxon id="AB485666|SE_notgiven|Homo_sapiens|no_sub|H1O|BCF06|len13592|noregion|CM|1994|" />
+        <taxon id="AF407418|SE_notgiven|Homo_sapiens|no_sub|H1O|VAU|len13592|noregion|FR|1992|" />
+        <taxon id="AY932814|SE_id130289|Cercocebus_atys|atys|SMM|TAI_32_SIVsmTAI32|len1423|AFRSSA|COTEDIVOIRE||" />
+        <taxon id="KP004989|SE_id634583|Gorilla_gorilla|gorilla|GOR|SIVgor-BPID1_SIVgor-BPID1|len9029|AFRSSA|CAMEROON|2012|" />
+        <taxon id="JQ768416|SE_notgiven|Pan_troglodytes_schweinfurthii|sub_given|CPZ|SIVcpzTAN13|len13592|noregion|TZ|1906|" />
+        <taxon id="M31113|SE_notgiven|Homo_sapiens|no_sub|H2A|ST_JSP4_27|len13592|noregion|SN|1986|" />
+        <taxon id="AY532635|SE_notgiven|Homo_sapiens|no_sub|H1N|DJO0131|len13592|noregion|CM|1902|" />
+        <taxon id="L19253|SE_id258041|Cercopithecus_aethiops_tantalus|no_sub|TAN|AGM49|len1773|AFRSSA|UGANDA||" />
+        <taxon id="AF077336|SE_notgiven|Homo_sapiens|no_sub|H1F1|VI850|len13592|noregion|BE|1993|" />
+        <taxon id="KF214240|SE_notgiven|Colobus_guereza|no_sub|COL|BWC01|len13592|noregion|UG|1910|" />
+        <taxon id="L20587|SE_notgiven|Homo_sapiens|no_sub|H1O|ANT70|len13592|noregion|BE|1987|" />
+        <taxon id="U04005|SE_notgiven|Cercopithecus_aethiops_sabaeus|no_sub|SAB|SAB1|len13592|noregion|SN|19x|" />
+        <taxon id="AF349681|SE_id201329|Cercocebus_torquatus|torquatus|RCM|RCMNG409|len5433|AFRSSA|NIGERIA|||" />
+        <taxon id="AF103818|SE_notgiven|Pan_troglodytes_troglodytes|sub_given|CPZ|US_Marilyn|len13592|noregion|US|1985|" />
+        <taxon id="AF382828|SE_notgiven|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVcpzGAB2|len13592|noregion|GA|1988|" />
+        <taxon id="KF214245|SE_id562172|Colobus_guereza|no_sub|COL|BWC05_BWC05|len1476|AFRSSA|UGANDA|2010|" />
+        <taxon id="HM803689|SE_notgiven|Cercocebus_torquatus|no_sub|RCM|SIVrcm_02CM8081|len13592|noregion|CM|1902|" />
+        <taxon id="U54771|SE_notgiven|Homo_sapiens|no_sub|H101_AE|CM240|len13592|noregion|TH|1990|" />
+        <taxon id="AM713177|SE_notgiven|Piliocolobus_badius|no_sub|WRC|98CI04|len13592|noregion|CI|1998|" />
+        <taxon id="JQ866001|SE_notgiven|Pan_troglodytes_schweinfurthii|sub_given|CPZ|BF1167|len13592|noregion|CD|1906|" />
+        <taxon id="AF301156|SE_notgiven|Colobus_guereza|no_sub|COL|CGU1|len13592|noregion|CM|19x|" />
+        <taxon id="AF349680|SE_notgiven|Cercocebus_torquatus|no_sub|RCM|NG411|len13592|noregion|NG|19x|" />
+        <taxon id="L40990|SE_notgiven|Cercopithecus_aethiops_pygerythrus|no_sub|VER|9063|len13592|noregion|KE|19x|" />
+        <taxon id="JX860433|SE_id504432|Cercocebus_atys|atys|SMM|SIVsmSL92B_SIVsmSL92B|len7460|AFRSSA|SIERRALEONE|1992|" />
+        <taxon id="AY932815|SE_id130288|Cercocebus_atys|atys|SMM|TAI_22_SIVsmTAI22|len1423|AFRSSA|COTEDIVOIRE||" />
+        <taxon id="M27470|SE_notgiven|Mandrillus_sphinx|no_sub|MND-1|MNDGB1|len13592|noregion|GA|19x|" />
+        <taxon id="U21135|SE_notgiven|Homo_sapiens|no_sub|H1B|WEAU160_GHOSH|len13592|noregion|US|1990|" />
+        <taxon id="L19250|SE_id258044|Cercopithecus_aethiops_tantalus|no_sub|TAN|AGM17|len1696|AFRSSA|UGANDA||" />
+        <taxon id="AF447763|SE_notgiven|Pan_troglodytes_schweinfurthii|sub_given|CPZ|TAN1|len13592|noregion|TZ|1900|" />
+        <taxon id="KF214242|SE_id562175|Colobus_guereza|no_sub|COL|BWC04_BWC04|len1473|AFRSSA|UGANDA|2010|" />
+        <taxon id="AF334679|SE_notgiven|Cercocebus_atys|no_sub|SMM|SL92B|len13592|noregion|SL|1992|" />
+        <taxon id="L19254|SE_id258040|Cercopithecus_aethiops_tantalus|no_sub|TAN|AGM9|len1765|AFRSSA|UGANDA||" />
+        <taxon id="U27200|SE_notgiven|Homo_sapiens|no_sub|H2B|EHO|len13592|noregion|CI|19x|" />
+        <taxon id="GQ328744|SE_notgiven|Homo_sapiens|no_sub|H1P|RBF168|len13592|noregion|FR|1906|" />
+        <taxon id="U88822|SE_notgiven|Homo_sapiens|no_sub|H1D|84ZR085|len13592|noregion|CD|1984|" />
+        <taxon id="U42720|SE_notgiven|Pan_troglodytes_schweinfurthii|sub_given|CPZ|ANT|len13592|noregion|CD|1990|" />
+        <taxon id="KC693505|SE_notgiven|Homo_sapiens|no_sub|H2U|07IC_TNP3|len13592|noregion|CI|1907|" />
+        <taxon id="AF061642|SE_notgiven|Homo_sapiens|no_sub|H1G|SE6165_G6165|len13592|noregion|SE|1993|" />
+        <taxon id="U46016|SE_notgiven|Homo_sapiens|no_sub|H1C|ETH2220|len13592|noregion|ET|1986|" />
+        <taxon id="KP004991|SE_id634581|Gorilla_gorilla|gorilla|GOR|SIVgor-BQID2_SIVgor-BQID2|len9241|AFRSSA|CAMEROON|2012|" />
+        <taxon id="AM937062|SE_notgiven|Piliocolobus_badius|no_sub|WRC|Pbt_05GM_X02|len13592|noregion|GM|1905|" />
+        <taxon id="JX178450|SE_notgiven|Pan_troglodytes_troglodytes|sub_given|CPZ|LB715|len13592|noregion|CM|1905|" />
+        <taxon id="GQ324962|SE_notgiven|Homo_sapiens|no_sub|H1N|U14296|len13592|noregion|CM|1906|" />
+        <taxon id="AY932816|SE_id130287|Cercocebus_atys|atys|SMM|CI_2_SIVsmCI2|len1516|AFRSSA|COTEDIVOIRE||" />
+        <taxon id="LM999944|SE_id640059|Cercopithecus_aethiops_tantalus|no_sub|TAN|SIVagmTAN-CM545-gag_SIVagmTAN-CM545-gag|len1662|AFRSSA|CAMEROON|2001|" />
+        <taxon id="AF328295|SE_notgiven|Mandrillus_sphinx|no_sub|MND-2|M14|len13592|noregion|GA|19x|" />
+        <taxon id="L20571|SE_notgiven|Homo_sapiens|no_sub|H1O|MVP5180|len13592|noregion|CM|1991|" />
+        <taxon id="AF082394|SE_notgiven|Homo_sapiens|no_sub|H1J|SE9280_7887|len13592|noregion|SE|1993|" />
+        <taxon id="FJ424863|SE_id269235|Gorilla_gorilla|gorilla|GOR|SIVgorCP2135con_SIVgorCP2135con|len9246|AFRSSA|CAMEROON|2007|" />
+        <taxon id="GQ324958|SE_notgiven|Homo_sapiens|no_sub|H1N|U14842|len13592|noregion|CM|1906|" />
+        <taxon id="M62320|SE_notgiven|Homo_sapiens|no_sub|H1A1|U455_U455A|len13592|noregion|UG|1985|" />
+        <taxon id="AY169968|SE_notgiven|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVcpzCAM13|len13592|noregion|CM|1901|" />
+        <taxon id="JX860431|SE_notgiven|Cercocebus_atys|no_sub|SMM|SIVsmLIB1|len13592|noregion|LR|1989|" />
+        <taxon id="JX860430|SE_notgiven|Cercocebus_atys|no_sub|SMM|SIVsmCI2|len13592|noregion|CI|1979|" />
+        <taxon id="AF208027|SE_notgiven|Homo_sapiens|no_sub|H2G|Abt96|len13592|noregion|CI|1992|" />
+        <taxon id="AY523865|SE_notgiven|Cercopithecus_neglectus|no_sub|DEB|CM40|len13592|noregion|CM|1999|" />
+        <taxon id="AF382829|SE_notgiven|Cercopithecus_neglectus|no_sub|RCM|SIVRCMGAB1|len13592|noregion|GA|19x|" />
+        <taxon id="JN091691|SE_notgiven|Pan_troglodytes_schweinfurthii|sub_given|CPZ|TAN5|len13592|noregion|TZ|1906|" />
+        <taxon id="KF214241|SE_notgiven|Colobus_guereza|no_sub|COL|BWC07|len13592|noregion|UG|1910|" />
+        <taxon id="KP004994|SE_id634578|Gorilla_gorilla|gorilla|GOR|SIVgor-BPID2_SIVgor-BPID2|len5586|AFRSSA|CAMEROON|2012|" />
+        <taxon id="GQ324959|SE_notgiven|Homo_sapiens|no_sub|H1N|SJGddd|len13592|noregion|CM|1902|" />
+        <taxon id="X61240|SE_notgiven|Homo_sapiens|no_sub|H2B|D205_ALT|len13592|noregion|GH|1986|" />
+        <taxon id="JN091690|SE_notgiven|Pan_troglodytes_schweinfurthii|sub_given|CPZ|UG38|len13592|noregion|TZ|1909|" />
+        <taxon id="FR686510|SE_id380462|Pan_troglodytes_troglodytes|sub_given|CPZ|Ptt_04Cam155_Ptt-04Cam155|len9899|AFRSSA|CAMEROON|2004|" />
+        <taxon id="FJ424871|SE_notgiven|Gorilla_gorilla|no_sub|GOR|SIVgorCP684con|len13592|noregion|CM|1904|" />
+    </taxa>
+    <alignment dataType="nucleotide" id="alignment">
+      <sequence>
+          <taxon idref="AF082339|SE_notgiven|Homo_sapiens|no_sub|H2A|ALI|len13592|noregion|PT|19x|" />-------agaaggacaattaagtgctggaattgtggaaaggaagggcactcggcaagacaatgccgagcacccagaaaacag---------------------------------------------------------------------------------ggctgctggaaatgtggcaagccaggacatcttatggcaaactgccca---------------------------gaaagacaggctggttt-tttagggcttggcccatgggg---------aaagaagcc---------tcgcaacttccccgtaacccg---------------------agttccgcagggattaacaccaacagcaccccc---------------------agcagagccagcagcggacctgctggagcagtatatgcagcaggggagaaagcaaagagagcagagagagaggccatacaaagaggtgacggaggacttactgcacctcga------------gcagggagagacaccacacaaagaggtgacagaggacttgctgcacctcaattctctctttggaaaagaccagtagtcacagcc</sequence>
+        <sequence>
+          <taxon idref="FJ424866|SE_notgiven|Gorilla_gorilla|no_sub|GOR|SIVgor2139_287|len13592|noregion|CM|1907|" />----aagaagggaccagtaaagtgcttcaattgtgggaaagtaggacatatagcaaaaaattgtagggcacccagaagaaag---------------------------------------------------------------------------------ggatgctggaaatgtgggcaagatgggcaccaaatgaaagactgcagatca------------------------ggcagacaggcgaattt-tttagggaaatactggcctcc---agggggcgagaggcc---------aggcaactatgtgcagaagcaagt---------gcaaccaacagccccaccaat---------------------------------------------------------------------------------------------------------------------------------------------ggaggagggagaaaaggagatgaggaaaccagaaaaggaggaact---------ttatcctctaacttccctcaaatcactctttgggacagaccagtaatacctgtg</sequence>
+        <sequence>
+          <taxon idref="AJ249239|SE_notgiven|Homo_sapiens|no_sub|H1K|96CM_MP535|len13592|noregion|CM|1996|" />----------aaaattgttaagtgcttcaactgtggcaaagaagggcacatagccagaaattgcagggcccctagaaaaaag---------------------------------------------------------------------------------ggctgttggaaatgtgggaaggaaggacatcagatgaaagactgcact---------------------------gagagacaggctaattt-tttagggaaaatctggccttc---ccacaaggggaggcc---------agggaattttcttcagagcagacc---------agagccaacagccccaccagcagagagcttcgggttcggggaggagataac------------------------------------------------------------------------------------------------------------------------cccctctccgaggcagga---gaccaaagacaaggaacagag---ccctcctttaacttccctcaaatcactctttggcaacgacccattgtcacaata</sequence>
+        <sequence>
+          <taxon idref="LM999945|SE_id640058|Cercopithecus_aethiops_tantalus|no_sub|TAN|SIVagmTAN-CM545-pol_SIVagmTAN-CM545-pol|len3111|AFRSSA|CAMEROON|2001|" />------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ttt-tttagggtttggcccatgggg---------cagggggaaacc---caggaatttccctctgacctccctgagaccatc---agctccccttccggagcgggactactcccgcccagaggagaactggtatgccaccag------------------accagtgacacatgggaaggggccagacgacccagcaactgcacttctcaaacagtatgcagtggcagggaggactcagaagaatcagcaaca------------------gaat---------caagggagcccatacgaggaggcttacagctccctcagatctctctttggagaagaccaatgaagaaagtc</sequence>
+        <sequence>
+          <taxon idref="DQ373066|SE_id107473|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVcpzMT145_SIVcpzMT145|len9208|AFRSSA|CAMEROON|2005|" />----------aaaaagattaaatgctttaattgtggaaaagaaggacacctagcaaggaactgcagggcaccccgaagaaag---------------------------------------------------------------------------------ggctgctggaagtgtggacaggagggacatcagatgaaagattgtaat---------------------------caaagaaggattaattt-tttaggaaaaaattggcctcc---ctggggggggaggcc---------agggaactatgtgcaaggcaggaa---------ggaaccaacagctccacctatggaatccttcggatttcaggagga------------------------------------------------------------------------------------------------------------------------------gaagaaagtcaaggaggaggtgagggaggagagcaagccgcc---gtctcctttaacttccctcaaatcactctttggcaacgacccctcatcccagta</sequence>
+        <sequence>
+          <taxon idref="FJ424868|SE_id269230|Gorilla_gorilla|gorilla|GOR|SIVgorBQ664_SIVgorBQ664|len1126|AFRSSA|CAMEROON|2004|" />----aaaaggggaccagttaaatgctataattgtggaaaacagggacatgtagcaaaaaattgcagggcgccgcgaaggaaa---------------------------------------------------------------------------------ggc---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</sequence>
+        <sequence>
+          <taxon idref="AY169814|SE_notgiven|Homo_sapiens|no_sub|H1O|99USTWLA|len13592|noregion|US|1999|" />----------ggacctgtaaaatgtttcaattgtggaaaagagggacatgtagcaagaaattgtcgagcacctagaaagaaa---------------------------------------------------------------------------------ggttgctggaaatgtggacaggaaggtcaccaaatgaaggattgcaggaat------------------------ggaagacaggcaaattt-tttagggaagtactggcctcc---ggggggcgagaggcc---------aggcaattttatgcagaagcaaatgccccctcc------agccccatcagccccaccaatggaggaggtagtgaargg------------------------------------------------------------------------------------gcarga---------raatcagaatcaggggga------------------------gga------ctcgaa---------cgaactctatccgtttgcctccctcaaatccctctttrggacagaccaatagtcacagca</sequence>
+        <sequence>
+          <taxon idref="KF214246|SE_id562171|Colobus_guereza|no_sub|COL|BWC08_BWC08|len1476|AFRSSA|UGANDA|2010|" />-------gtgaaaacagcaaagtgcttccaatgtggagaaatagggcacttacaaaggcagtgtccaaaaa---gagcaggaggcattagaggaggctttagaggaggaagaggaagaggaggaagaggagcgtggggaagaggaagaacctcgggacccccgagatgttttggatgtggtcaattaggacacattcaaagagattgcaca---------------------------agcaagcaggcaaattt-tttagggacaggaagggggat---------ggacttgca---------gacagcaatctttcccccgcc---------------------aatgagcaaacctcagaagagggaaagtca------------------------------------------------------------------------------------------------------------------------------------------------------------------gaagagggaggagaacactctgtatccctccttgaagtctctcttcggagaagaccaattgtaa-----</sequence>
+        <sequence>
+          <taxon idref="M30931|SE_notgiven|Cercopithecus_aethiops_pygerythrus|no_sub|VER|AGM3|len13592|noregion|DE|19x|" />-------agacccccagtaaagtgttacaattgtggaaaatttggccatatgcaaagacaatgccctgaaccaagaaagatg---------------------------------------------------------------------------------agatgcttgaaatgtgggaaaccagggcatttagcaaaagattgcaga------------------------------ggacaggtaaattt-tttagggtatggccggtggat---------gggagcgaaacc---cagaaattttcccgccgctactcttggggtgga---gccaactgcgccccctccaccgagtcc---------------------------------------------------------------------------------atacgaccctgcaaagaagctcctgcagcaatatgcagacaaggggaagcagttgagggaacaaaggaa---------aaaaccaccagcagtgaatcccgattggacagagggatattcttt---gaactccctctttggagaagaccaataaaaacagtt</sequence>
+        <sequence>
+          <taxon idref="U58991|SE_notgiven|Cercopithecus_aethiops_tantalus|no_sub|TAN|SIVagmTAN1|len13592|noregion|UG|19x|" />-agaggcagaggcccaccccgctgcttcaaatgtggacaaattgggcatatacaaaaagattgtccaagagcaggaccaaac---------------------------------------------------------------------------------aaatgcctaaaatgtgggaagccaggacacttagcaaaagattgccgc---------------------------agtggacaggccaattt-tttagggagaatgccaacctg---------gggaacaaagcc---gcgcaattttttaga---gcaaggcggagccgt---------tccgacggctcccccgatgcctgcgcacggattccc---------------------------------------------------------------------cacaggttcgccagctgcgggagcatacgacccagccaggaaactgctggagcagtatgccaaaaaggg------agatcaattgagaaagcagaaggagaaggaactggaggactattccttgagttccctctttggaggagaccaatgagtaagatc</sequence>
+        <sequence>
+          <taxon idref="L19252|SE_id258042|Cercopithecus_aethiops_tantalus|no_sub|TAN|AGM40|len1763|AFRSSA|UGANDA||" />-agaagcagaggaccagtccgatgctttagatgtggacaaattggccatatccaaaaagactgccctaaaggaggaccaata---------------------------------------------------------------------------------aaatgtctcaaatgtggaaagccaggacacatggcaaaagactgcagg---------------------------tcagggcaggcaaattt-tttagggagaatgacaccatg---------gggatcgaagcc---gcgcaattttttaga---gcaaggcggagccgt---------tccgacggctccacccatgccaacgcacggattccc---------------------------------------------------------------------caccggtcctccagcacagggagcatacgacccagccaagagattattggaacagtatgcgaagaaggg------ggaccaactgagaagacagaaagagaaggaattggaggattattccttgagttccctctttggagaagaccaataagc------</sequence>
+        <sequence>
+          <taxon idref="AJ302646|SE_notgiven|Homo_sapiens|no_sub|H1O|99SE_MP1299|len13592|noregion|SN|1999|" />----------gggcctataaaatgtttcaattgtggaaaagagggacatctggcaagaaattgtcgagcacctagaaagaaa---------------------------------------------------------------------------------ggttgctggaaatgtggacaggaaggtcaccaaatgaaagattgcaaaaat------------------------ggaagacaggcaaattt-tttagggaaatactggcctcc---ggggggcacgaggcc---------aggcaattatgcgcagag---------acaagt------gtccccatcagccccaccgatgacggaggaaatgaaggg---------------------------------------------------------------------------------------------------acaagagaatcaggaaca------------------------gaaggaggaccagaa---------cgaactctatccgtttgcctccctcagatccctctttgggacagaccagtagttacagca</sequence>
+        <sequence>
+          <taxon idref="HQ179987|SE_notgiven|Homo_sapiens|no_sub|H1P|U14788|len13592|noregion|CM|1906|" />----------aagccagttaagtgctttaactgtggaaaagtaggacacatagcaaagaactgcaaggcacctagaagaagg---------------------------------------------------------------------------------ggrtgttggaagtgtggacaggaaggtcatcaaatgaaagactgcaaatca------------------------ggaagacaggcaaattt-tttagggaagatctggcctcc---ggggggcaagaggcc---------aggcaactatgtacagaaacaagt---------acaaccgacagccccacctat---------------------------------------------------------------------------------------------------------------------------------ggaggaggaggagatgactcagaacaagcagarggaggaaaaggaggacgagaaagagtt------gtaccctttagcctccctcaaatcactctttgggacagaccagtaataccagta</sequence>
+        <sequence>
+          <taxon idref="JX860432|SE_notgiven|Cercocebus_atys|no_sub|SMM|SIVsmSL92A|len13592|noregion|SL|1992|" />----------agcaaagtcagatgctggaactgtggcaaagaagggcactcagcgaggcagtgtaaagcacccagaagacag---------------------------------------------------------------------------------ggctgctggaaatgtggtaaaatgggacacatcatggccaaatgccca---------------------------gaaagacaggctggttt-tttaggatttggtccttgggg---------aaagaagcc---------tcgcaacttccccatggccca---------------------aatgcctcagggcctgacaccgacagccccccc------------------------------------------------------------------------agcggacccagcagtggatctgctgaaggactacatgaagttgggaaggaaacagaaaga------------gagcagagagagaccatacaaggaggtgacggaggacttgctgcacctcaattctctctttggagaagaccagtagtcacagct</sequence>
+        <sequence>
+          <taxon idref="EF394357|SE_id66135|Pan_troglodytes_schweinfurthii|sub_given|CPZ|TAN2_SIVcpzTAN2|len9346|AFRSSA|TANZANIA|2001|" />tgtaaaaaagggtcagttgcagtgttttaactgtggaaagataggccatacagcaagaaattgcagggctccaagaaagaaa---------------------------------------------------------------------------------ggttgctggaggtgtggccaagaaggacatcagatgaaagactgtaccacaaaaaat------------aacaatagcccaggagtaaattt-tttagggaagcgcaccccctt---gtgggggtgcagacc---------ggggaactttgtacagaacacccc---------agagaaagggaagaatcaggagcaggaacagacacagacgccagcagtacc------------------------------------------------------------------------------------------------------------------------------------atcggccccaccgatgacggtgccact------gaaagacgggttctccctcaaatcaatctttggcagcgaccaatgatgacagta</sequence>
+        <sequence>
+          <taxon idref="KP004990|SE_id634582|Gorilla_gorilla|gorilla|GOR|SIVgor-BPID15_SIVgor-BPID15|len9012|AFRSSA|CAMEROON|2013|" />----------gggccagttaagtgctttaactgtggaaagctagggcatatagcaaagaactgtagagcaccgaggagaaaa---------------------------------------------------------------------------------ggatgctggaaatgtggacaagagggtcatcagatgaaagactgcaaaata------------------------ggaaaacaggcaaattt-tttagggaaaatctggcctcc---ggggggcaagaggcc---------aggcaattatgtgcagaagcaagt---------gcagccaacagccccacccat---------------------------------------------------------------------------------------------------------------------------------ggaggaggaggaagtgacccagagcagacagaaggaagggccgaagg------aggaact------gtatcctttaacctccctcaaatcactctttgggacagaccagtaatacctgta</sequence>
+        <sequence>
+          <taxon idref="EF535993|SE_id49836|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVcpzDP943_SIVcpzDP943|len9247|AFRSSA|CAMEROON|2005|" />----------aggaaaatcaaatgctttaattgtggcaaagaagggcatttagcaagaaactgcagggccccaagaaggaag---------------------------------------------------------------------------------gggtgctggaaatgtggacaagaggggcatcagataaaagattgtacagctgga---------------------gacagacaggctaattt-tttagggaaaggttggtctc---cgtggagcgggggatcaaagagaccagggaacttcctgcagggcaggaa---------ggaacccacagctccacccatagagagttttgggtatcaggaaacaacagt---------------------------------------------------------------------------------------------------------------------------gaacaaacagggagaaaagaaagagatggaggtgta------ccctcaattaacctccctcaaatcactctttggcagcgacccctcctcggagta</sequence>
+        <sequence>
+          <taxon idref="AY932806|SE_id130297|Cercocebus_atys|atys|SMM|TAI_1_SIVsmTAI1|len1427|AFRSSA|COTEDIVOIRE||" />----aacaggacaacagtaaagtgttggaactgtggcaaagaagggcactcagctaggcagtgcagagcccccaggcggcag---------------------------------------------------------------------------------ggatgctggaagtgtgggaagccaggtcacatcatggcgaaatgccca---------------------------gacagacaggctggttt-tttaggctttggaccttgggg---------aaagaagcc---------tcgcaacttccccatggccca---------------------ggtgcctcaagggctgacgccatccgcaccccc------------------------------------------------------------------------aatggatccagcagtggacctgttgaagaattacatgcagctggggagaaagcagaggga------------gaacagggaaagaccttacaaggaggtgacggaggact----------------------------------------------</sequence>
+        <sequence>
+          <taxon idref="FJ919724|SE_notgiven|Cercopithecus_neglectus|no_sub|DEB|SIVdeb04CMPF3061|len13592|noregion|CM|1904|" />-agacctgggaatagaattagatgctataattgtggacaaattggccatgttcaaaaggactgtaggaagcccagaacagtt---------------------------------------------------------------------------------agatgcttcaaatgtcaacagacagggcacatggcaaaaaactgccca---------------aaagcagctcctcagtcaaagaataattt-tttagggaaacttccctgggg---------gaggagagcccc------caggaa---------------------------------tttcatagagca------------------------------------------------------------------------gcaacaccagacatggggcatagggaagtacataccggagggaggggacgagatcttctcctcttccagggtaccggaacagaaacc------ccagcagcaggaggagacgaggagagggaaatacccagatttatcggacttgaagtccctctttggagaagaccagtaaccacaata</sequence>
+        <sequence>
+          <taxon idref="AF005496|SE_notgiven|Homo_sapiens|no_sub|H1H|056|len13592|noregion|CF|1990|" />----------aaatttgttaaatgcttcaactgtggcaaagagggacacatagccagaaattgcagggcccctaggaaaaag---------------------------------------------------------------------------------ggctgttggaaatgtggaagagaaggacatcagatgaaagactgcaca---------------------------gagagacaggctaattt-tttagggaaaatttggccttc---cagcaaagggaggcc---------aggaaattttctccagagcaggcc---------agaaccaacagccccaccagcagagagcttcgggttcggagaggagatgac------------------------------------------------------------------------------------------------------------------------cccctctccgaagcaggagcagctgaaggacaaggaacc---------tcccttagcttccctcagatcactctttggcagcgaccccttgttacagta</sequence>
+        <sequence>
+          <taxon idref="L19251|SE_id258043|Cercopithecus_aethiops_tantalus|no_sub|TAN|AGM27|len1712|AFRSSA|UGANDA||" />-agagggagaggtccgcctcgctgttttaaatgtggccagattggacatatacaaaaagactgtcaaagagcaggaccaacg---------------------------------------------------------------------------------aagtgcctcaagtgtgggaaaccagggcacatggcaaaagattgcaga---------------------------agtggacaggccaattt-tttagggagaatgccaacctg---------gggttccaaacc---gcgcaattttttaga---gcaaggcggacgcgt---------tccgacggctaaaaagatgcccgcgcacgtattccc---------------------------------------------------------------------cacaggtctgccagctgcgggagcctacgacccagccaggaggctcctggaacaatatgcaaaaaagga------ggatcagttaaagaagcagaaggaaaaagagctggaggactattcattgagttccctctttggagaagaccaataa--------</sequence>
+        <sequence>
+          <taxon idref="AJ006022|SE_notgiven|Homo_sapiens|no_sub|H1N|YBF30|len13592|noregion|CM|1995|" />----------aaacccattaaatgtttcaattgtggcaaagagggccatttggcaagaaactgtaaggcccctagaagagga---------------------------------------------------------------------------------ggctgttggaagtgtgggcaagaaggacatcaaatgaaagattgtaaaaat---------------------gaaggaagacaggctaattt-tttagggaagagctggtctcc---cttcaaagggagacc---------aggaaacttcccccagacaacaacaaggaa---agagcccacagccccgccactagagagttatgggtttcaggagga---------------------------------------------------------------------------------------------------------gaagagcacacaggggaaggagatgcaggagaaccaggagag---gacagagaactctctgta---cccacctttaacttccctcagatcactctttggcaacgacccgtcatcacagta</sequence>
+        <sequence>
+          <taxon idref="KF214243|SE_id562174|Colobus_guereza|no_sub|COL|BWC03_BWC03|len1482|AFRSSA|UGANDA|2010|" />-------gtgagcacagctaggtgcttcaattgtgggcaggtaggccatttggcaaggaactgccctaagcccagacagtttccaactagggga---------agaggaagctcaagaggaagaggaataatgagaggaggaatgagaagaggaggacaagccaagtgctttggatgtggacaacttggacacatccaagcaacctgccct---------------------------aataagcaggtgaattt-tttagggacaccaggggggat---------ggacctaca---------gacagctgtcttccccccaaa---------------------gatgagtcagaggaaggaaccctccaaggg------------------------------------------------------------------------------------------------------------------------------------------------------------------ggagatggacagggaaggaatctatccctccttgaaatccctctttggagaagaccttttgtctgggca</sequence>
+        <sequence>
+          <taxon idref="M30502|SE_notgiven|Homo_sapiens|no_sub|H2A|BEN|len13592|noregion|DE|19x|" />-------agaaaggcaattaggtattggaactgtggaaaggagggacactcggcaagacagtgccgagcacctagaagacag---------------------------------------------------------------------------------ggctgctggaagtgtggcaagccaggacacatcatggcaaactgcccg---------------------------gaaagacaggcaggttt-tttagggttgggcccacgggg---------aaagaagcc---------tcgcaacttccccgtgaccca---------------------agcccctcaggggctgataccaacagcacctcc---------------------ggcagatccagcagcggaactgttggagagatatatgcagcaagggagaaagcagagggagcagagggagagaccatacaaagaggtgacggaggacttgctgcacctcga------------gcagagagagacacctcacagagaggagacagaggacttgctgcacctcaattctctctttggaaaagaccagtagtcacagcg</sequence>
+        <sequence>
+          <taxon idref="FJ424865|SE_id269233|Gorilla_gorilla|gorilla|GOR|SIVgorCP2139_2con_SIVgorCP2139.2con|len9252|AFRSSA|CAMEROON|2007|" />----aagaagggaccagtaaagtgcttcaattgtgggaaagtaggacatatagcaaaaaattgtagggcacccagaagaaag---------------------------------------------------------------------------------ggatgctggaaatgtgggcaagatgggcaccaaatgaaagactgcagatca------------------------ggcagacaggcgaattt-tttagggaaatactggcctcc---agggggcgagaggcc---------aggcaactatgtgcagaagcaagt---------gcaaccaacagccccaccaat---------------------------------------------------------------------------------------------------------------------------------------------ggaggagggagaaaaggagatgaggaaaccagaaaaggaggaact---------ttatcctctaacttccctcaaatcactctttgggacagaccagtaatacctgtg</sequence>
+        <sequence>
+          <taxon idref="AJ271369|SE_id148886|Pan_troglodytes_troglodytes|sub_given|CPZ|CAM5|len9261|AFRSSA|CAMEROON|1998|" />----------aagaaaattaaatgctataattgtggcaaagaagggcatgtagctagaaactgcagagccccaagaagaaag---------------------------------------------------------------------------------ggatgctggaaatgcggacaggaagggcataacatgaaagaatgtacaactgga---------------------ggcagacaggctaattt-tttagggaaggattggtctc---cgtggagcgggagatcaaaaagaccagggaactttccgcagggcgggaa---------ggaacccacagctccacccatggagagttatgggtttcaggaaacaacaat---------------------------------------------------------------------------------------------------------------------------ggagaaaaagaaggaggagaaggaacccct---gta------tcctcaattaacctccctcaaatcactctttggcagcgacccctccttggagta</sequence>
+        <sequence>
+          <taxon idref="AY169803|SE_notgiven|Homo_sapiens|no_sub|H1O|96CMA102|len13592|noregion|CM|1996|" />----------ggacctataaagtgtttcaactgtgggaaagagggacatatagcaaaaaattgtcgagcacctagaaggaaa---------------------------------------------------------------------------------ggatgctggaaatgtgggcaggaaggtcaccaaatgaaagaktgcagaaat------------------------ggaaaacaggcaaattt-tttaggcaaatactggcctcc---ggggggcacgaggcc---------aggcaattatgtgcagaa---------acaagt------gcccccatcagcccctccgatggaggaggtaatgcagggaca------------------------------------------------------------------------------------------gaa---gaatcagaatcaggaacak------------------------agagaggacccaaa---------cgaactctatccgtttgcctccctcaaatccctctttgggacagaccagtagtcacagcg</sequence>
+        <sequence>
+          <taxon idref="AY932812|SE_id130291|Cercocebus_atys|atys|SMM|TAI_33_SIVsmTAI33|len1423|AFRSSA|COTEDIVOIRE||" />----aagaaaagcatagtaaaatgctggaactgtggtaaggagggccattcagccagacaatgtcgagctcccagaagacag---------------------------------------------------------------------------------ggatgctggaagtgtggaaagccaggacacatcatggccagatgccca---------------------------gaaagacaggctggttt-tttagggcttggtccctgggg---------aaagaagcc---------tcgcaacttccccatgaccca---------------------agtaccccagggactaactccatcagcaccacc------------------------------------------------------------------------gatggacccagcagtagacctgctgaagaattacatgaatttggggagaaagcagcagga------------gcaaaggcggagaccttacaaggaggtgacagaagact----------------------------------------------</sequence>
+        <sequence>
+          <taxon idref="AY932813|SE_id130290|Cercocebus_atys|atys|SMM|TAI_17_SIVsmTAI17|len1416|AFRSSA|COTEDIVOIRE||" />----ccaagaagggcaatcaaatgctggaactgtgggaaagaagggcactcagcaagacaatgcaaggcgcctaggagacaa---------------------------------------------------------------------------------ggctgttggaagtgtgggaagccaggacacatcatggccaaatgccca---------------------------gatagacaagtaggttt-tttagggtttggcccatgggg---------aaagaagcc---------ccgcaatttccccatggccca---------------------aatgcatcaggggctgacgccaacagcacc------------------------------------------------------------------------ccctgcagatccagcagtggatctgttgaagagttacatgaaccagggaagaaaacagagaga------------gagcagagagagaccttacagagaggtgacggaggatt----------------------------------------------</sequence>
+        <sequence>
+          <taxon idref="NC_004455|SE_id1570|Mandrillus_sphinx|no_sub|MND-2|98CM16_SIVmnd-2|len9518|AFRSSA|CAMEROON|1998|" />acaacctcctagaaacatcagatgccctaactgtggaaaatttggtcatgggctgagggactgtataagccctcgaaaaaag---------------------------------------------------------------------------------ggatgcttcaagtgtggagatctaggacacataatgagaaattgccca------------------------------aagatggtgaattt-tttagggaataccccctgggg---------cagtggcaaacc------caggaacttccc---------------------ggcgatgccattgaccccaac---ggcccc---------------------------------------------------------tccaatgccagggatggaagacccagcagagagaatgctgttagattacatgaagaaagggcaacagcagaaagcggaaagcaa---------------acaggaaaagaaagagaggggtccatacgaggcagcttacaactccctcagttctctctttggaacagaccaactacagtagta</sequence>
+        <sequence>
+          <taxon idref="AF367411|SE_notgiven|Mandrillus_sphinx|no_sub|MND-2|CM16|len13592|noregion|CM|1998|" />acaacctcctagaaacatcagatgccctaactgtggaaaatttggtcatgggctgagggactgtataagccctcgaaaaaag---------------------------------------------------------------------------------ggatgcttcaagtgtggagatctaggacacataatgagaaattgccca------------------------------aagatggtgaattt-tttagggaataccccctgggg---------cagtggcaaacc------caggaacttccc---------------------ggcgatgccattgaccccaac---ggcccc---------------------------------------------------------tccaatgccagggatggaagacccagcagagagaatgctgttagattacatgaagaaagggcaacagcagaaagcggaaagcaa---------------acaggaaaagaaagagaggggtccatacgaggcagcttacaactccctcagttctctctttggaacagaccaactacagtagta</sequence>
+        <sequence>
+          <taxon idref="KF214244|SE_id562173|Colobus_guereza|no_sub|COL|BWC02_BWC02|len1482|AFRSSA|UGANDA|2010|" />-------gtgagcacagctaggtgcttcaattgtgggcaggtaggccatttggcaaggaactgccctaagcccagacagtttccaactagggga---------agaggaggctcaagaggaagaggaataatgagaggaggaataagaagagggggacaagccaagtgctttggatgtggacaatatgggcacatccaagcaacctgccct---------------------------aataagcaggtgaattt-tttagggacaccaggggggat---------ggacctaca---------gacagctgtcttccccccaaa---------------------gatgagtcagaggaaggaatcctccaaggg------------------------------------------------------------------------------------------------------------------------------------------------------------------ggagatggacagagagggaatctatccctccttgaaatccctctttggagaagaccttttgtctgggca</sequence>
+        <sequence>
+          <taxon idref="AY523866|SE_notgiven|Cercopithecus_neglectus|no_sub|DEB|CM5|len13592|noregion|CM|1999|" />----cctagaagacagcttagatgctttaattgtggacagattgggcatgtgcaaagggattgtaaaaagcctagaaaagtt---------------------------------------------------------------------------------aaatgcttcaaatgtggtaaggagggccacatagcaaagaactgtgga------------------------caagtaccaagggcaaattt-tttagggaatgctccctgggc---------ctcccggagacc------caggaattttttggaagggattgggaaata---catcccagagagcacagcagatcaggtttattcaac------------------------------------------------------------------------------------------------------------aaccagggtacctgtgcaaggggaaaggaatgctccccaggaggacacaacgaccaggagagggaagta---cccagatttaatggggctgaaatctctctttggagaagaccaatgaccgcagta</sequence>
+        <sequence>
+          <taxon idref="AB253736|SE_id15193|Cercopithecus_aethiops_pygerythrus|sub_given|VER|TYO-1|len9171|AFRSSA|KENYA||" />-------agacccccactaagatgttataattgtggaaaatttggccatatgcaaagacaatgtccggaaccaaggaaaaca---------------------------------------------------------------------------------aaatgtctaaagtgtggaaaattgggacacctagcaaaagactgcagg------------------------------ggacaggtgaattt-tttagggtatggacggtggat---------gggggcaaaacc---gagaaattttcccgccgctactcttggagcgga---accgagtgcgcctcctccaccgagccc---------------------------------------------------------------------------------atacgacccagcaaagaagctcctgcagcaatatgcagagaaagggaaacaactgagggagcaaaagag---------gaatccaccggcaatgaatccggattggaccgagggatattcttt---gaactccctctttggagaagaccaataaagacagtg</sequence>
+        <sequence>
+          <taxon idref="AY530889|SE_notgiven|Homo_sapiens|no_sub|H2U|12034|len13592|noregion|FR|1996|" />-------aggaggccagtcagatgttggaactgtggcaaggaaggacacactgcaaggcagtgtaaagcccctagaagacag---------------------------------------------------------------------------------ggatgctggaaatgtgaaaagccaggacacaacatggctagctgccca---------------------------gaaaccaaggtgggttt-tttagggcttggcccttggga---------aaaaaagcc---------tcgcaacttccccatggccca---------------------agtcccgcagggactgaccccaacagcccc------------------------------tccagcagaaccagcagtggatctgctgaccccgacagcccctccagcggacccagcagtggatctgctaaagagctacatgcaacagggcaagaaacaaaagga------------gaacagagagagaccatacaaggaggtgacggaggatttgctgcacctcaattctctctttggaaacgaccaatagtcactgca</sequence>
+        <sequence>
+          <taxon idref="FJ424864|SE_id269234|Gorilla_gorilla|gorilla|GOR|SIVgorCP2139_1con_SIVgorCP2139.1con|len9252|AFRSSA|CAMEROON|2007|" />----aagaagggaccagtaaartgcttcaattgtgggaaagtaggacatatagcaaaaaattgtagggcacccagaagaaag---------------------------------------------------------------------------------ggatgctggaaatgtgggcaagatgggcaccaaatgaaagactgcagatca------------------------ggcagacaggcgaattt-tttagggaaatactggcctcc---agggggcgagaggcc---------aggcaactatgtgcagaagcaagt---------gcaaccaacagccccaccaat---------------------------------------------------------------------------------------------------------------------------------------------ggaggagggagaaaaggagatgaggaaaccagaaaaggaggaact---------ttatcctctaacttccctcaaatcactctttgggacagaccagtaatacctgtg</sequence>
+        <sequence>
+          <taxon idref="AB485668|SE_notgiven|Homo_sapiens|no_sub|H1O|I_2478B|len13592|noregion|US|19x|" />----------gggcctataaaatgtttcaactgtggaaaagagggacatatagcaaaaaattgtcgagcacctagaaagcga---------------------------------------------------------------------------------ggttgctggaaatgtggacaggaaggtcatcaaatgaaagattgcagaaat------------------------ggaaaacaggcaaattt-tttaggcaaatactggcctcc---ggggggcacgaggcc---------aggcaattatatgcagaa---------acaagt------gcccccatcagccccaccgatggaggaagtgatgaaggg---------------------------------------------------------------------------------------------------acaagagaatcagggaca------------------------aaagggggaccc---------aaccgaactctatccttttgcttccctcaaatccctctttgggacagaccagtagtcatagca</sequence>
+        <sequence>
+          <taxon idref="AM745105|SE_notgiven|Piliocolobus_badius|no_sub|WRC|97CI14|len13592|noregion|CI|1997|" />-------aaagggccaattagatgttttaattgtggacaaattgggcatatggcaaaagaatgtcccaagccaaagaaaccagtccctatgaga------------------------------------------------------agaggacagggacccacatgctggggatgtggagaagtaggacatgtacagagaaactgtcca---------------------aaaattagaagacaggtaaattt-tttagggaatggcagagggca---------gatgccctcgaacaattatccagttcagaagctgaggagcttgaacaa---ttttgggccaacaacaacaatgccttctgctcctccaatgagagaggatccaaacat------------------------------------------------tcaggagctggaaaaatatttattgaagggagcacaattgagggaacaacaggaacacaagaa------------------gacagagggacagaagagggaagtgggggtgccggaatggccctccctcaaatctctcttcgaaccagaccaatgatacaatgc</sequence>
+        <sequence>
+          <taxon idref="AY159322|SE_notgiven|Mandrillus_sphinx|no_sub|MND-2|5440|len13592|noregion|x|19x|" />acaaccccctagaaaccctagatgccccaattgcggaaagtttggacatgtactgagggattgcagagccccaagaaagaga---------------------------------------------------------------------------------ggctgttttaagtgtggagatccaggacatctaatgaggaactgc------------------------------ccaaagatggtgaattt-tttagggaataccccctgggg---------cagtggcaagcc------caggaacttccc---------------------tgccatgccattgaccccatcagcaccccc------------------------------------------------------------gatgccagggttggaagacccggcagaaaagatgctgttagactatatgaagaaagggcaacaacagagggcagcagcaggagc------------ccagaaagaggaaaagaagggtccctacgaggcagcttacaactccctcagttctctctttggaacagaccaactacagtagta</sequence>
+        <sequence>
+          <taxon idref="L39106|SE_notgiven|Homo_sapiens|no_sub|H102_AG|IBNG|len13592|noregion|NG|19x|" />----------agaacaataaagtgtttcaactgtggcaaagaaggacacctagccagaaattgcaaggcccctaggaaaagg---------------------------------------------------------------------------------ggctgttggaaatgtgggaaagaaggacaccaaatgaaagactgtact---------------------------gagagacaggctaattt-tttagggaaaatttggccttc---cagcaaggggaggcc---------aggaaattttcctcagagcagacc---------ggaaccaacagctccaccagcagagagctttgggatgggggaagagat------------------------------------------------------------------------------------------------------------------------acctccctctccacagcagga---accgagggacaaggggctata---tcctcctttaacttccctcaaatcactctttggcaacgacccttagttacagta</sequence>
+        <sequence>
+          <taxon idref="JN091692|SE_id415365|Pan_troglodytes_schweinfurthii|sub_given|CPZ|UG31_UG31|len5254|AFRSSA|TANZANIA|2009|" />-ctgagaaaaggccagctgcagtgtttcaattgtgggaaaccagggcatacagccagaaactgcagagcccctaggaaaaag---------------------------------------------------------------------------------ggctgttggaggtgtggtcaggaaggacatcaaatgagagactgcccaggaaga---------------accaacaatccaggggtaaattt-tttagggaaacgcaccccctt---gtgggggtgcagacc---------ggggaattttgtgcagaacacccc---------agagaaggagaagagtcaggaacagacttcagtggagccatcagccccacc---------------------------------------------------------------------------------------------------------------------------------------------------gatggaaccact------gaaggaagggttttccctcaaatcaatctttggcagcgaccaatgatgactgtg</sequence>
+        <sequence>
+          <taxon idref="AB485666|SE_notgiven|Homo_sapiens|no_sub|H1O|BCF06|len13592|noregion|CM|1994|" />----------gggcctataaaatgtttcaactgtggaaaagatgggcatatagcaaagaattgtcgagcacctagaagaagg---------------------------------------------------------------------------------ggttgctggaaatgtggacaggaaggtcaccaaatgaaagattgcaaaaat------------------------ggaagacaggcaaattt-tttagggaagtactggcctcc---agggggcacgaggcc---------aggcaattatgtgcagaa---------acaagt------gtccccatcagctccaccaatggaggaggaagt------------------------------------------------------------------------------------------------------------------gaaggagctagagaagcagagtcaggggggggagaagga------------------agaactgtacccgtttgcctccctcaaatccctctttgggacagaccaatagtcacagca</sequence>
+        <sequence>
+          <taxon idref="AF407418|SE_notgiven|Homo_sapiens|no_sub|H1O|VAU|len13592|noregion|FR|1992|" />----------ggacctataaaatgtttcaattgtggaaaagagggacatgtaacaaaaaattgtagagcacctagaaagaaa---------------------------------------------------------------------------------ggttgctggaaatgtggacaggaaggtcatcaaatgaaagattgcaaaaat------------------------aggagacagacaaattt-tttaaagaaatattggcctcc---gagaggcacgaggcc---------aggcaattatgtgcagga---------acaagt------gtccccatcagccccaccaatggaagagatgatgaaggg------------------------------------------------------------------------------------gcaagaggaggatcagaatcagaagggggagca------------------------gaa---------------------cgagctctatccgtttgcctccctcagatccctctttgggacagaccagtagtcacagca</sequence>
+        <sequence>
+          <taxon idref="AY932814|SE_id130289|Cercocebus_atys|atys|SMM|TAI_32_SIVsmTAI32|len1423|AFRSSA|COTEDIVOIRE||" />----aggaa---cacagtgaagtgctggaactgtggcaaagaaggacactcggcaagacagtgccgagcccccagaaggcag---------------------------------------------------------------------------------ggttgctggaaatgtggaaagccaggacatatcatggccaaatgccca---------------------------gacagacaggtaggttt-tttagggtttggcccttgggg---------aaagaagcc---------ccgcaatttccccatggccca---------------------aatacctcaggggctgacgccaacagcgcc------------------------------------------------------------------------cccagcagatccagctgtggatctgttgaagagctacatgcaacagggcaggaagcaaaggga------------gaacagagagagaccatacaaggaggtgacagaagact----------------------------------------------</sequence>
+        <sequence>
+          <taxon idref="KP004989|SE_id634583|Gorilla_gorilla|gorilla|GOR|SIVgor-BPID1_SIVgor-BPID1|len9029|AFRSSA|CAMEROON|2012|" />----------gggccagttaaatgctttaactgtggaaaggtcggacatatagcaaagaactgtaaggcacctaggagaaaa---------------------------------------------------------------------------------gggtgctggaaatgtggacaggaaggtcaccaaatgaaagattgtaaatca------------------------gggagacaggcwaattt-tttagggaagatctggcctcc---tgggggcaagaggcc---------aggcaactatrtacagaagcaagt---------acaaccaacagccccacctat---------------------------------------------------------------------------------------------------------------------------------ggaggaggaggagatgacccagagcaaacagaaggaggaacaggaggacaagaaggagtt------gtatcctttagcctccctcaaatcactctttgggacagaccagtaataccagta</sequence>
+        <sequence>
+          <taxon idref="JQ768416|SE_notgiven|Pan_troglodytes_schweinfurthii|sub_given|CPZ|SIVcpzTAN13|len13592|noregion|TZ|1906|" />-------aaggggcagcttcaatgttttaattgtggaaaattagggcatacggcaaaaaactgtagagccccaaggaaaaaa---------------------------------------------------------------------------------ggctgttggaggtgtggacaggagggacatcaaatgaaagactgcaca---------------gccagaactaacaatactggggttaattt-tttagggaaacgcaccccctt---------gtgggggtgcagaccagggaattttgtgcaaaacaacccagagaaggagaagccccaggagcaagagggagtgcagacagtgcctactgcccctcc---------------------------------------------------------------------------------------------------------------------------------------------------------aatggagatgggccccatgaaagaagggttctccctcaaatcaatctttggcagcgaccaatgatggcagtc</sequence>
+        <sequence>
+          <taxon idref="M31113|SE_notgiven|Homo_sapiens|no_sub|H2A|ST_JSP4_27|len13592|noregion|SN|1986|" />-------agaaggacaattaagtgctggaattgcggaaaggaagggcactcggcaagacaatgccgagcacctagaagacaa---------------------------------------------------------------------------------ggctgctggaaatgtggcaaggcaggacacatcatggcaaaatgccca---------------------------gaaagacaggcgggttt-tttagggttgggcccatgggg---------aaagaagcc---------ccgcaatttccctgtggccca---------------------aatcccgcaggggctgacaccaacagcaccccc---------------------gatagacccagtagaggacctactagagaagtacatgcagcaagggaaaaggcagagagagcagagagagaggccatacaaagaagtgacagaggacttcctgcagctcga------------gaaacaagagacaccatgcagagagacgacagaggacttgctgcacctcaattctctctttggaaaagaccagtagtcacagca</sequence>
+        <sequence>
+          <taxon idref="AY532635|SE_notgiven|Homo_sapiens|no_sub|H1N|DJO0131|len13592|noregion|CM|1902|" />----------agaaccattagatgtttcaattgtggcaaagagggccatttggcaagaaactgtaaggcccctagaagaggg---------------------------------------------------------------------------------ggctgttggaaatgtgggcaagaaggacatcaaatgaaagattgtaaaaat---------------------gaaggaagacaggctaattt-tttaggaaagggctggtctcc---cttcaaagggagacc---------aggcaacttcccccagacaacaacaacaaggaaagagcccacagccccgccactagagaattatgggtctcaggagga------------------------------------------------------------------------------------------------------gaggagcacaca------------ggggaaggagaggcaggagaa---cacagagaactctctata---cccacccttaacttccctcagatcactctttggcaacgacctgtcatcacagta</sequence>
+        <sequence>
+          <taxon idref="L19253|SE_id258041|Cercopithecus_aethiops_tantalus|no_sub|TAN|AGM49|len1773|AFRSSA|UGANDA||" />-aggggaagaggaccaccacgctgctttaaatgtgggcaaataggacatgttcaaaaagactgcccacgaggaggtccaatc---------------------------------------------------------------------------------aaatgtctcaaatgtggaaaaccaggacacatggcaaaagattgtaga---------------------------agtgggcaggctaattt-tttaggaagaatgccaacatg---------gggttccaagcc---gcgcaattttttaga---gcaaggcggagccgt---------tccgacggctccccgattgccaacgcatggggttcc---------------------------------------------------------------------cacaggtccgtcagaccggggagcctacgacccagccaagaggctcctagaacagtacacgaagaaagg------ggaacaactaaggaaacagaaggagaaggaactggaggattattccttgagttccctctttggagaagaccaataagc------</sequence>
+        <sequence>
+          <taxon idref="AF077336|SE_notgiven|Homo_sapiens|no_sub|H1F1|VI850|len13592|noregion|BE|1993|" />----------agagttgttaaatgttttaattgtggcaaagaaggacacatagccagaaattgcagggcccctagaaaaaag---------------------------------------------------------------------------------ggctgttggaaatgtggaagagaaggacaccaaatgaaagactgcact---------------------------gaaagacaggctaattt-tttagggaaaatttggccttc---caacaaggggaggcc---------cggaaatttccttcagagcagacc---------agagccaacagccccaccagcagagagcttcgggttcagagaggagataac------------------------------------------------------------------------------------------------------------------------cccctctccgaagcagga---gcagaaagacggggaactgta---ccctcccttagcttccctcaaatcactctttggcaacgacccttagtcacaata</sequence>
+        <sequence>
+          <taxon idref="KF214240|SE_notgiven|Colobus_guereza|no_sub|COL|BWC01|len13592|noregion|UG|1910|" />-------gtaaaaacagcaaagtgctttcagtgtggagaaataggacacttgcagaagcagtgcccaaaaagaggagcaggaggatttagaggaggaggaatgagaggaagaggaagaggaggaagaggagcctggggaagaggaagaaacccaggacctctgaaatgctttggatgtggccaactagggcacattcaacgagactgccaa---------------------------aacaagcaggcaaattt-tttaggggcaggcagggggat---------agacctgca---------gaccgcaatctttcccccagc---------------------aatgagcaagatgcagaagcaggagggacg------------------------------------------------------------------------------------------------------------------------------------------------------------------gaagagagacgagaacactctgtatccctccttgaggtctctcttcggagaagaccaatcgtgatagca</sequence>
+        <sequence>
+          <taxon idref="L20587|SE_notgiven|Homo_sapiens|no_sub|H1O|ANT70|len13592|noregion|BE|1987|" />----------ggaactataaaatgtttcaactgtggaaaagagggacatatagcaagaaattgtcgagcacctaggaaaaag---------------------------------------------------------------------------------ggttgctggaaatgtggacaggaaggtcaccaaatgaaagattgcagaaat------------------------ggaaaacaggcaaattt-tttaggcaaatactggcctcc---ggggggcacgaggcc---------aggcaattatgtgcagag---------accagc------acacccatcagccccaccgatggaggaggaagtgaaggg---------------------------------------------------------------------------------------------------acaggagaatcaggaaca------------------------gaaagggggcccgaa---------cgagctctatccgtttgcctccctcaaatccctctttgggacagaccaatagttacagca</sequence>
+        <sequence>
+          <taxon idref="U04005|SE_notgiven|Cercopithecus_aethiops_sabaeus|no_sub|SAB|SAB1|len13592|noregion|SN|19x|" />acctctgaacccaaatattaaatgttacaattgtggaaagcctggtcacctggctagattttgtaaggcccctaggagacaa---------------------------------------------------------------------------------ggctgctggaaatgtggcagcccagaccatcagatgaaagattgtcaa------------------------------aaacaggttaattt-tttagggtttggcccctgggg---------cagagggaaacc---caggaatttccctctgacctccatcagaccaac---agctcccccaatggaacgggattacagcaggccggaggaaaattggtatgcagacag------------------acctccgaccagaggaccagggccagacgatccagcaacagccctgttaaagcagtatgctgttcaggggaaacggcagaaacagcagtggca------------------aaaccactcgccacaacagagcccctacgaggaggcttacagctccctcaggtctctctttggagaagaccaatgaaaactgtg</sequence>
+        <sequence>
+          <taxon idref="AF349681|SE_id201329|Cercocebus_torquatus|torquatus|RCM|RCMNG409|len5433|AFRSSA|NIGERIA|||" />gggaggaccaaggttcctcagatgttacaattgtggaaaaacaggacacacagcaagatattgtaaaacaaatagaaagaaa---------------------------------------------------------------------------------ggatgttggagatgtggggatgaaggacatctcatgaaggactgccca------------------------------aaagaggtaaattt-tttagggagtgctccctggaa---------gcaggggaagcc------gaggaatttccctttgacttccttgcgacccac---------------tgctccagg---------------------------------------------------gatggaaaatgcatggaatcctcagtacgatccggcagaggagatgttaaagaaatacctagcattgggcagacagcacaaacaggagcagaggaagga------------gaacaaggagagagtggggagggcctacgacgaagcgttgtcctccctcaattctctctttggaagcgacctgtaacctgggta</sequence>
+        <sequence>
+          <taxon idref="AF103818|SE_notgiven|Pan_troglodytes_troglodytes|sub_given|CPZ|US_Marilyn|len13592|noregion|US|1985|" />----------agaaaaatcaaatgttttaattgtggcaaagagggacatctagccagaaattgcagggctccaagaagaaaa---------------------------------------------------------------------------------gggtgctggaagtgtgggcaggaaggacatcaaatgaaagactgcacagcagga---------------------aacagacaggctaattt-tttagggaaacattggtccccatcgtggagcgggggatcaaagagaccagggaacttcctggaaaacaggaa---------ggagcccacagctccaccaatagaggatttcgggtatcaagaagagacagt---------------------------------------------------------------------------------------------------------------------------gacacaggagaaacagggaaaggaaaagga---gcc------ctttcagctaacttccctcaaatcactctttggcagcgacccctcctcagaata</sequence>
+        <sequence>
+          <taxon idref="AF382828|SE_notgiven|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVcpzGAB2|len13592|noregion|GA|1988|" />----------aggagagtcaagtgcttcaattgtggaaaggaaggtcatatagcaagaaattgtaaagcccctagaagaaag---------------------------------------------------------------------------------ggatgttggaagtgtggaaaagaaggacatcagatgaaggactgccaaaat---------------------gaaggaagacaggtgaattt-tttaggggggggctggccttc---ccggagcgggaggcc---------agggaactttccccaaaggaaggt---------ggaaccaacagctccacctccagagaccttcgggtatgcagagcagacaca---------------------------------------------------------------------------------------------------------------gacaggaaagagtcagaagggggaggagagtacaacagaaaaggagag------ccctctctatccttccctcaaatcactctttggcagcgacccctcctcccagta</sequence>
+        <sequence>
+          <taxon idref="KF214245|SE_id562172|Colobus_guereza|no_sub|COL|BWC05_BWC05|len1476|AFRSSA|UGANDA|2010|" />-------gtaaaaacagcaaagtgcttccaatgtggagaaatagggcacttgcaaaggcagtgtccaaaga---gaacaggaggcattagaggaggcttcagaggaggaagaggaagaggaggaagaggagcttggggaagaggaagagcctctggacccctaaaatgttttggatgtggtcaattaggacacattcaaagaaattgcaca---------------------------agcaagcaggcaaattt-tttagggacaggaagggggat---------ggacttgca---------gacagcgatctttccccctcc---------------------aatgagcaaaccccagaagaaggaaagtca------------------------------------------------------------------------------------------------------------------------------------------------------------------gcagagggaggagaactctctgtatccctccttgaagtctctcttcggagaagaccaattgtaa-----</sequence>
+        <sequence>
+          <taxon idref="HM803689|SE_notgiven|Cercocebus_torquatus|no_sub|RCM|SIVrcm_02CM8081|len13592|noregion|CM|1902|" />tggagaaagaccagtaccaaaatgttacaattgtggaaaaacaggacatatttccaggttttgtaaggcccctagaagaaaa---------------------------------------------------------------------------------ggatgctggaagtgtggagatgaggatcatcttatgaaggattgtacc------------------------------aagcaggttaattt-tttaggaagtgcgccctggag---------tcgggggaaacc------gaggaactttccgttgacttccttgactccctctgctccaggggtggaacaggacaatca---------------------------------------------------------------------------tgcctcccagtacgatccagcagaagccatgctaaggaaatacctggaacagggcagaatgcagaaacagcaacagaggaaggaagagaaggctcagaaggggaaagcctacgaggaagcacttgcctccctcaattctctctttggaagcgaccagtaactatggtc</sequence>
+        <sequence>
+          <taxon idref="U54771|SE_notgiven|Homo_sapiens|no_sub|H101_AE|CM240|len13592|noregion|TH|1990|" />----------aaaagaattaagtgcttcaactgtggtagagaaggacacctagccagaaattgcagggcccctagaaaacag---------------------------------------------------------------------------------ggttgttggaaatgcgggaaggaaggacatcaaatgaaagactgcact---------------------------gagagacaggctaattt-tttagggaaaatttggccttc---caacaagggaaggcc---------ggggaattttcctcagagcagacc---------agagccaacagccccaccagcagaaaactgggggatgggggaagagataac---------------------------------------------------------------------------------------------------------gggggaagagataacctccttaccgaagcagga---gcagaaagacaaggaacatcc---tcctcctttagtttccctcaaatcactctttggcaacgaccccttgtcacagta</sequence>
+        <sequence>
+          <taxon idref="AM713177|SE_notgiven|Piliocolobus_badius|no_sub|WRC|98CI04|len13592|noregion|CI|1998|" />-------aaaggaccaattagatgtttcaattgtggacagattgggcatatggcaaaagactgtcccaagccaaagaaaccagtccccttgaga------------------------------------------------------agaggacagggacccacttgctggggatgtggagaaattggacatgtgcaaagaaactgccca---------------------aaaagtagaaggcagattaattt-tttagggaatgggagagggca---------gatgccctcaaacaattacccagttcaaaaggtgaggagcttgaacaa---ttttgggccggc---aacaataccgtctgctcctccaatgagggaggatccaaacat------------------------------------------------acaagaattagagaaatacctcctgaaaggagctcaattgaaggagcaggcacaggcaaa---------------------aaaggaagagaagaagagagaaacggggctgccagagtggccttccctcaaatctctcttcgaaacagaccaatgatacaatgt</sequence>
+        <sequence>
+          <taxon idref="JQ866001|SE_notgiven|Pan_troglodytes_schweinfurthii|sub_given|CPZ|BF1167|len13592|noregion|CD|1906|" />----------ggaaacataaaatgttttaattgtggaaagatagggcatacagcaagaaattgcagagccccaagaagaaag---------------------------------------------------------------------------------ggatgttggaagtgtggacaggaaggtcatcagctgaaggactgcaca---------------------cagtcaaaaagtggagtaaattt-tttagggaaacgcaccccctg---gtgggggtgcagacc------aggaaattttgtgcagaatcagagtcagactcagaatcaggaacagagtcagacacaggagaaactagtggagaaagcagaaccctcagctcctcc------------------------------------------------------------------------------------------------------------------------------aat---ggaggaggtgaatcattggaacagcaaggatggcttttccctgaaatccatctttggcagcgaccaatgatggaagta</sequence>
+        <sequence>
+          <taxon idref="AF301156|SE_notgiven|Colobus_guereza|no_sub|COL|CGU1|len13592|noregion|CM|19x|" />-------gtaaagacagcaaaatgcttcaattgtcagggaatagggcacttagccagaatgtgtcccaaaagaccaataggaggagccggtcga------------------ggaagaggccgaggacggggaggctttagaggagctcccagaaggccagtgaggtgttttacctgcaatcaggaaggacacatgcaaagagattgtccc---------------------------aacaagcaggcaaattt-tttaggggcaaccaggggggtgga------gctacagac------------------agccatcttcccccc---------------------gaagatgagcaaagacctgccacccag------------------------------------------------------------------------------------------------------------------------------------------------------------------gagggagaagggggagagtctctatccctccttgaagtctctcttcggagacgaccaatagttatagta</sequence>
+        <sequence>
+          <taxon idref="AF349680|SE_notgiven|Cercocebus_torquatus|no_sub|RCM|NG411|len13592|noregion|NG|19x|" />gggaggacctaggttcctcaaatgctataattgtggcaaaacaggtcatactgctagatattgcaaaacaagtagaaagaaa---------------------------------------------------------------------------------gggtgctggagatgtggagaggaaggtcatctaatgaaggattgccca------------------------------aaagaggttaattt-tttagggaatgctccctggaa---------gcaggggaaacc------gaggaaccttcccttgacttccttgagacctac---------------tgctccagg---------------------------------------------------gagagaggaaggatggaatccccagtacgatccagcagaagagatgctcaggaaatacctagcattggggagacagcacaaacaggagcagaggaaaga------------gaacaaggagaaagtggggagagcctacgaggatgcgttgtcctccctcaattctctctttggaagcgacctgtaacatgggta</sequence>
+        <sequence>
+          <taxon idref="L40990|SE_notgiven|Cercopithecus_aethiops_pygerythrus|no_sub|VER|9063|len13592|noregion|KE|19x|" />-agacagagacccccactaaaatgttacaattgcggaaaattcggacacatgcaaaggcaatgcacagaaccaagaaagata---------------------------------------------------------------------------------aaatgccttaaatgtgggaagctaggacacctggcaaaagactgcagg------------------------------ggacaggtgaattt-tttagggtatggacggtggac---------ggggacaaaacc---gagaaactttctcgctgccactcatggagtgga---accgagcgcgccccctccaccgacacc---------------------------------------------------------------------------------atacgacccagcaaagaagctcctgcagcagtatgcagagaagggaaaacagttgagggaacaagggaa---------gagaacaccaccaacaaatccagactgggcggaaggatattcttt---gaactccctctttggagaagaccaataaaaacagtc</sequence>
+        <sequence>
+          <taxon idref="JX860433|SE_id504432|Cercocebus_atys|atys|SMM|SIVsmSL92B_SIVsmSL92B|len7460|AFRSSA|SIERRALEONE|1992|" />-gggaataagcctatcatcaggtgttttaactgtggaaagacaggacactctgcgagacagtgcagagctcccagaaggaag---------------------------------------------------------------------------------ggatgctggaaatgtggggaagaaggacatattcaggccaactgccca---------------------------aaccagaaggcgggttt-tttaggccttggcccatgggg---------aaagaagcc---------tcgcaacttccccatgcagac---------------------------aacatcattgacaccgtcagcaccccc------------------------------------------------------------------------agatccagcagcccagatggtcaa---ggagtatctacagaaagcacagagggaaaagac------------aaggaggagcaggccttacaaggaggtgacggaggatttgctgcacctcaattctctcttcggagaagaccagtagtcagagca</sequence>
+        <sequence>
+          <taxon idref="AY932815|SE_id130288|Cercocebus_atys|atys|SMM|TAI_22_SIVsmTAI22|len1423|AFRSSA|COTEDIVOIRE||" />----aagaaaagcatagtaagatgctggaactgtggtaaggagggccattcagccagacaatgtcgagctcccagaagacag---------------------------------------------------------------------------------ggatgctggaagtgtggaaagccaggacacatcatggccagatgccca---------------------------gaaagacaggctggttt-tttagggcttggtccctgggg---------aaagaagcc---------tcgcaacttccccatgaccca---------------------agtaccccagggactaactccatcagcaccacc------------------------------------------------------------------------gatggacccagcagtagacctgctgaagaattacatgaatttggggagaaagcagcagga------------gcaaaggcggagaccttacaaggaggtgacagaagact----------------------------------------------</sequence>
+        <sequence>
+          <taxon idref="M27470|SE_notgiven|Mandrillus_sphinx|no_sub|MND-1|MNDGB1|len13592|noregion|GA|19x|" />acctactggaaggaaacctatctgcttcaactgtaataaagaagggcatgtagcaaggttcttcaaggcccctagaaggaaa---------------------------------------------------------------------------------gggtgctggaattgtggagcaatggatcatcagaaagctcaatgccct---------------aagccagctcagcagcagagggttaattt-tttagggtatggcccttgggg---------tccctccaaacc------ggggaattatcc------------------------------------------------------------------------------------------------------ggcacaagaggtgactccaacagctccaccattagaggagaaacctctgcagaaaactctgagcacttatcagaaattagggagagggct---------------caggcagaagatgaaggaggagaagagagaggaggattttcattccctgagtactctctttcaagaagaccaatagaagaggtc</sequence>
+        <sequence>
+          <taxon idref="U21135|SE_notgiven|Homo_sapiens|no_sub|H1B|WEAU160_GHOSH|len13592|noregion|US|1990|" />----------aaaactattaagtgtttcaattgtggcaaagaaggacacatagccagaaattgcagggcccctaggaaaaag---------------------------------------------------------------------------------ggctgttggaaatgtggacaggaaggacaccaaatgaaagattgtact---------------------------gagagacaggctaattt-tttagggaagatctggtcttc---ccaaaagggaaggcc---------agggaattttcctcagagcagact---------agaaccaacagccccaccagaagagagcttcaggttcagggaagagacaac---------------------------------------------------------------------------------------------------------------------aactccctctcagaagcagga---gccaatagacaagga------gctgtatcctttaacttccctcaaatcactctttggcaacgacccctcgtcacaata</sequence>
+        <sequence>
+          <taxon idref="L19250|SE_id258044|Cercopithecus_aethiops_tantalus|no_sub|TAN|AGM17|len1696|AFRSSA|UGANDA||" />-agaggaagaggaccacctcgctgttttaaatgcggacagattggacatgttcaaaaagattgtccgcgagggggtccaatt---------------------------------------------------------------------------------aagtgcctcaaatgtggcaaaccaaggcacatggcaaaagactgtaga---------------------------ggaggacaggccaattt-tttaaggagaatgccacccta---------aggttccaagcc---gcgcaattttttaga---gcaaggaggagccgt---------tccgacggctcccccgatcgccgcgcatggattccc---------------------------------------------------------------------cacaggtccgccagttgcaggagcctacgatccagccaagagactcctggggcagtatgcaaaaaaagg------agaccaactaaggaggcaaaaagagaaggaactggaggattattccttgagttcc-----------------------------</sequence>
+        <sequence>
+          <taxon idref="AF447763|SE_notgiven|Pan_troglodytes_schweinfurthii|sub_given|CPZ|TAN1|len13592|noregion|TZ|1900|" />-------aagggtcagctgcagtgttttaactgtgggaaagtaggccatacagcaagaaattgtagggctccaagaaagaaa---------------------------------------------------------------------------------ggttgctggaggtgtggacaagagggacatcaaatgaaggactgcaccaccagaaac---------------aacagcactggggtaaattt-tttagggaaacgcaccccctt---gtgggggtgcagacc---------agggaactttgtgcagaacacccc------------agagaaagggaa---------------------------------------------------------------------------------------------------------------------------------------ggctcaggagcaggagacagcacagacaccagtggtgccaactgccccaccactggagatgacgatgaaaggcgggttctccctcaagtcaatctttggcagcgaccaatgatgacagta</sequence>
+        <sequence>
+          <taxon idref="KF214242|SE_id562175|Colobus_guereza|no_sub|COL|BWC04_BWC04|len1473|AFRSSA|UGANDA|2010|" />-------gtgagcactgctaggtgcttcaattgtgggcaggtaggccatctggcaaggaactgtccaaagcccaggcagtttcaacccagtggg---------agaggaggttttagaggaagaggaagaggaagaatagga---ggaggaggaagacaagttaagtgttatggatgtggaaaatttggacacctccaagctgcttgcccc---------------------------aacaagcaggtgaattt-tttagggacaccaggggggat---------ggacttgca---------gacagccgtcttccccccaaa---------------------gatgacccagaggaaggaattatccaaggg------------------------------------------------------------------------------------------------------------------------------------------------------------------gga---ggacagagagggaatttatccctccttgaaatccctctttggagaagaccttttgtctgggcc</sequence>
+        <sequence>
+          <taxon idref="AF334679|SE_notgiven|Cercocebus_atys|no_sub|SMM|SL92B|len13592|noregion|SL|1992|" />-gggaataagcctatcatcaggtgttttaactgtggaaagacaggacactctgcgagacagtgcagagctcccagaaggaag---------------------------------------------------------------------------------ggatgctggaaatgtggggaagaaggacgtattcaggccaactgccca---------------------------aaccagaaggcgggttt-tttaggccttggcccatgggg---------aaagaagcc---------tcgcaacttccccatgcagac---------------------------aacatcattgacaccgtcagcaccccc------------------------------------------------------------------------agatccagcagcccggatagtcaa---ggagtatctagagaaagcacagagggaaaagac------------aaggaggagcaggccttacaaggaggtgacggaggatttgctgcacctcaattctctcttcggagaagaccagtagtcagagca</sequence>
+        <sequence>
+          <taxon idref="L19254|SE_id258040|Cercopithecus_aethiops_tantalus|no_sub|TAN|AGM9|len1765|AFRSSA|UGANDA||" />-aggggaagaggacctacccgttgcttcaaatgtggacaaataggccacattcagaaagattgccccaggggaggaccaaac---------------------------------------------------------------------------------aagtgtctcaaatgtggaaaaccaggacacttagcaagggactgcagg---------------------------acagggcaggcaaattt-tttaggaagaatgacaccatg---------gggatcgaagcc---gcgcaattttttaga---gcaagacggagccgt---------tccgacggctcccccattgcctgcgcacgagacctc---------------------------------------------------------------------cgtcggtcccacagcacggggagcatacgacccagccaaacgactgttggagcagtatgcaaaaaaggg------ggaccagctgaggaagcagaaggagaaggaactggaggattattccttgagttccctctttggagaagaccaataagc------</sequence>
+        <sequence>
+          <taxon idref="U27200|SE_notgiven|Homo_sapiens|no_sub|H2B|EHO|len13592|noregion|CI|19x|" />-------aagaggacagtgacatgctggaactgcggcaaggcgggacatacagccaggcagtgcaaggcccctagaaggcag---------------------------------------------------------------------------------ggatgctggaaatgtggacagcaaggacacatcatgtcaaaatgccca---------------------------gaaagacaggcgggttt-tttagggttcggcccctgggg---------aaagaagcc---------tcgcaatttccccgtccaggc---------------------acccca---ggggatagtgccatctgcgccccc------------------gatgaacccagcattcggcatgacacctcagggtgcgattccatctgcaccccctgcagatccagcagaggagatgctaaagaactacatgcaactagggaagaagcagaagga------------gaacagagagagaccctacaaggaggtgacagaggatttgctgcacctcaattctctctttggagaagaccagtagtcaaagca</sequence>
+        <sequence>
+          <taxon idref="GQ328744|SE_notgiven|Homo_sapiens|no_sub|H1P|RBF168|len13592|noregion|FR|1906|" />----------aagccagttaagtgctttaactgtggaaaaataggacacatagcaaagaactgtaaggcacctaggaggaaa---------------------------------------------------------------------------------ggatgctggaagtgtggacaggaaggtcatcaaatgaaagactgcaaatca------------------------ggaagacaggcaaattt-tttaggaaagatctggcctcc---tgggggcaagaggcc---------aggcaactatgtacagaaacaagt---------acaaccaacagccccacctat---------------------------------------------------------------------------------------------------------------------------------ggaggaggacgagatgacccgggacaagcagagggaggaaaaggaggacgagaagga---------ataccctttaacctccctcagatcactctttgggacagaccagtaataccagta</sequence>
+        <sequence>
+          <taxon idref="U88822|SE_notgiven|Homo_sapiens|no_sub|H1D|84ZR085|len13592|noregion|CD|1984|" />----------aaaattgttaagtgtttcaactgtggcaaagaagggcacatagcaagaaattgtagggcccctaggaaaaag---------------------------------------------------------------------------------ggctgttggaaatgtggaaaggaaggacaccaaatgaaagattgcact---------------------------gaaagacaggctaattt-tttagggaaaatttggccttc---ccacaagggaaggcc---------ggggaactttcttcagagcagacc---------agagccaacagccccaccagcagaagcttcgggtttggggaggagataacc-------------------------------------------------------------------------------------------------------------------ccctcccagaaacaggaacagaa---ggacaaagacaaggaact------gtatcccttagcttccctcaaatcactctttggcaacgacccgttgtcacaata</sequence>
+        <sequence>
+          <taxon idref="U42720|SE_notgiven|Pan_troglodytes_schweinfurthii|sub_given|CPZ|ANT|len13592|noregion|CD|1990|" />----------agacctctcaaatgttttaactgcggtaaagagggccatactgcaagaaattgcaaggccccaagaaggaaa---------------------------------------------------------------------------------ggctgctggagatgtggacaggaaggacaccagcttaaaaactgtccagcaaca------------------aatacaggaaaagtaaattt-tttagggaaaccgacccccacgtggtgggggtgcagacc---------agggaactttgtgcagaaggaggaagtagt---ggagccaacagctccacccatagagatcta------tcaggaggagca---------------------------------------------------------------------------------------------------------------------------caagaggactcagaagggtctcaagggggaggaggaact------acctccctcgtattccctgaaatccctctttggcaaagaccaatgatggaagtt</sequence>
+        <sequence>
+          <taxon idref="KC693505|SE_notgiven|Homo_sapiens|no_sub|H2U|07IC_TNP3|len13592|noregion|CI|1907|" />----aagaaaagcatgataaaatgctggaactgtggcaaggaaggacactcagcaaggcagtgccgcgcacccagaagacag---------------------------------------------------------------------------------gggtgttggaagtgtggcaagccaggacacatcatggcgaaatgccca---------------------------gaaagacaggcgggttt-tttagggtttggcccatgggg---------aaagaagcc---------tcgcaacttccccatgaccca---------------------gatccctcaggggttgacaccaacagcgcc------------------------------------------------------------------------cccagcagacccagcagtggatctgctgaagaactacatgcagatgggcaggaaacaaaagga------------gagcagggaaagaccatacaaggaggtgacggaggatttgctgcacctcaattctctctttggagacgaccagtagtcactgca</sequence>
+        <sequence>
+          <taxon idref="AF061642|SE_notgiven|Homo_sapiens|no_sub|H1G|SE6165_G6165|len13592|noregion|SE|1993|" />----------agaactatcaaatgtttcaattgtggcaaggaaggacatctagccagaaattgcagggcccctaggaaaaag---------------------------------------------------------------------------------ggctgttggaaatgtggaaaggaaggacatcaaatgaaagactgcacg---------------------------gagagacaggctaattt-tttagggaaaatttggccttc---caacaaggggaggcc---------agggaattttcttcagaacaggac---------agaaccaacagccccacctgcagaaagcctcgggttcggagaggagatagc------------------------------------------------------------------------------------------------------------------------cccctccccgaagcagga---gatgaaggaaaagga------------gctatatccctccctcaaatcactctttggcagcgacccctagtcacagta</sequence>
+        <sequence>
+          <taxon idref="U46016|SE_notgiven|Homo_sapiens|no_sub|H1C|ETH2220|len13592|noregion|ET|1986|" />----------agagcaattaaatgtttcaactgtggcaaggaagggcacctagccagaaattgcagggcccctaggaaaaaa---------------------------------------------------------------------------------ggctgttggaaatgtggaaaggaaggacaccaaatgaaagactgtacc---------------------------gagagacaggctaattt-tttagggagactttggccttc---caacaagggaaggcc---------agggaatttccttcagagcagacc---------agagccaacagccccaccagagagtctcagaccagagccaacagccccaccaccaga------------------------------------------------------------------------------------------gagcttcaggttcgaggaagcaacaccttctccgaagcagga---gctgaaagacaggga------------agccttaacttccctcaaatcactctttggcaacgaccacttgttacaata</sequence>
+        <sequence>
+          <taxon idref="KP004991|SE_id634581|Gorilla_gorilla|gorilla|GOR|SIVgor-BQID2_SIVgor-BQID2|len9241|AFRSSA|CAMEROON|2012|" />----------gggcctataaaatgttttaactgtggaaaagaagggcatttagcaaaaaattgtcgagcacctagaagaaag---------------------------------------------------------------------------------ggttgctggaaatgtggacaggagggtcatcaaatgaaagattgcaaaaat------------------------ggaaggcaggcaaattt-tttagggaagtactggcctct---ggggggcacgaggcc---------aggcaattatgtgcagaa---------gcaagc------acaaccgtcagccccaccaatggaggaagtgatgaaagg---------------------------------------------------------------------------------------------------aaaggagaatcaggatca------------------------agggggggatcaggg---------agagctctatccatttgcctccctcaaatccctctttgggacagaccagtagttacagcg</sequence>
+        <sequence>
+          <taxon idref="AM937062|SE_notgiven|Piliocolobus_badius|no_sub|WRC|Pbt_05GM_X02|len13592|noregion|GM|1905|" />-------agaggacctctaagatgttttaattgtggacaaattgggcatatggcaaaagattgtaagaaaccaaaaaggtctcctcagcaaagg------------------------------------------------------------ggacctcccacctgctggggatgtggaaagaccggccacatccagaaaaactgccca---------------------gaaacaagaaggcaggtaaattt-tttagggaatggccgagg------------gcagaggcc---------ctccaacaattatccagttca------------------------------aaaaatgaatgcaggggtgaatacctttgggccagtggt------------------------------------gccaacagcaccagtggatcctaccatgcaagaactagagcaatatcttctgagaggagctcagatgaagaggga------------------gaaagagaaagaaatgcagaaggaggggaaagtagaatatccctccctcaaatctctcttcgaaccagaccaatgatacaatgt</sequence>
+        <sequence>
+          <taxon idref="JX178450|SE_notgiven|Pan_troglodytes_troglodytes|sub_given|CPZ|LB715|len13592|noregion|CM|1905|" />----------agaactattaaatgctataactgtggcaaggaaggccacctagccaggaactgcaaagcccccagaaggaaa---------------------------------------------------------------------------------ggctgttggaaatgtggacaggaaggacacagaatgcaggattgtaaacta------------------------agcaag---gttaattt-tttagggaaaatctggcctct---caacagcgggaggcc---------agggaactttcctcagagcagacc---------agagccaacagccccaccaatggagagctttgggtttcaaccaaa------------------------------------------------------------------------------------------------------------gacagctcagaaaatggaagtgaaggaggaggaacagacagaggagaaggagagtctgta---ccctcctttaacttccctcaaatctctctttggcagcgaccagtcctcacagta</sequence>
+        <sequence>
+          <taxon idref="GQ324962|SE_notgiven|Homo_sapiens|no_sub|H1N|U14296|len13592|noregion|CM|1906|" />----------agacccattaaatgtttcaattgtggcaaagagggccatttggcaagaaactgtaaggccccaagaagaggg---------------------------------------------------------------------------------ggctgttggaagtgtgggcaggaaggacatcaaatgaaagattgtaaaaat---------------------gaaggaagacaggctaattt-tttaggaaggggctggtctcc---cttcaaagggagacc---------agggaacttcccccagacaacaacaaagaa---agagcccacagccccgccactagagaattatgggtttcaggagga------------------------------------------------------------------------------------------------------gaggagcacacaggg---aaaggagatgcaagagaaccaggagag---gacagagaactctctgta---cccacccttaacttccctcagatcactctttggcaacgacccgttatcacagta</sequence>
+        <sequence>
+          <taxon idref="AY932816|SE_id130287|Cercocebus_atys|atys|SMM|CI_2_SIVsmCI2|len1516|AFRSSA|COTEDIVOIRE||" />----------aggccaatcaaatgttggaattgtgggaaggaaggacacagtgctaggcaatgtaaggcacctagaaggcag---------------------------------------------------------------------------------ggctgttggaaatgtggcaaatcaggccatgttatggctaaatgtcca---------------------------gaaagacaggctggttt-tttaggatttggcccatgggg---------aaagaagcc---------tcgcaacttccccatgaccca---------------------actccagcaggggctgacaccaacggcgcccccaatggatccagc---------------------------------------------tgtggcggcgcccccaatggatccagctgtggacatgttgaggaactatctgaaactaggtcagcaacagagaga------------gaggaaagaaaggccttacaaagaggtaacggaagacttgctgcacctcaattctctcttt-----------------------</sequence>
+        <sequence>
+          <taxon idref="LM999944|SE_id640059|Cercopithecus_aethiops_tantalus|no_sub|TAN|SIVagmTAN-CM545-gag_SIVagmTAN-CM545-gag|len1662|AFRSSA|CAMEROON|2001|" />acagcctaatacgaacataaaatgtttcaattgtggcaaagttggacatcttgcccggttttgtaaagctcccagaagacag---------------------------------------------------------------------------------ggctgctggaaatgtggctcccctgagcatcaaatgaaagactgtcaa------------------------------aagcaggtcaattt-tttagggtttggcccatgggg---------cagggggaaacc---caggaatttccctctgacctccctgagaccatc---agctccccttccggagcgggactactcccgcccagaggagaactggtatgccaccag------------------accagtgacacatgggaaggggccagacgacccagcaactgcacttctcaaacagtatgcagtggcagggaggactcagaagaatcagcaaca------------------gaat---------caagggagcccatacgaggaggcttacagctccctcagatctctctttggagaagaccaatag--------</sequence>
+        <sequence>
+          <taxon idref="AF328295|SE_notgiven|Mandrillus_sphinx|no_sub|MND-2|M14|len13592|noregion|GA|19x|" />acaaccccctagaaaccccagatgtcccaactgtggaaggtatggacatgttctgagagactgtagactccccagaaagaag---------------------------------------------------------------------------------ggatgctttaagtgtggggacacaggacatatgatgagaaactgccca------------------------------aaaatggtgaattt-tttagggaatgctccctgggg---------cagtggcaagcc------caggaactttcc---------------------tgccatgccactgaccccatcagcaccccc------------------------------------------------------------gatgccagggatggaggatccagcagagaagatgttattagactatatgagaaaggggcaacaacagagggcagcaaaggagac------------caagcaggagaaggacaagggtccctacgaggcagcttacaactccctcagttctctctttggaacagaccaactacagtagta</sequence>
+        <sequence>
+          <taxon idref="L20571|SE_notgiven|Homo_sapiens|no_sub|H1O|MVP5180|len13592|noregion|CM|1991|" />----------gggcccataaaatgcttcaattgtggaaaagagggacatatagcaaaaaactgtcgagcacctagaaaaagg---------------------------------------------------------------------------------ggttgctggaaatgtggacaggaaggtcaccaaatgaaagattgcaaaaat------------------------ggaagacaggcaaattt-tttagggaagtactggcctcc---ggggggcacgaggcc---------aggcaattatgtgcagaa---------acaagt------gtccccatcagccccaccaatggaggaggcagtgaagga------------------------------------------------------------------------------------acaagagaatca---gagtcagaagggggatca------------------------ggaaga---------------------gctgtacccatttgcctccctcaaatccctctttgggacagaccaatagtcacagca</sequence>
+        <sequence>
+          <taxon idref="AF082394|SE_notgiven|Homo_sapiens|no_sub|H1J|SE9280_7887|len13592|noregion|SE|1993|" />----------agaattgttaagtgtttcaattgtggcaaacaaggacacatagcaaaaaactgcagggcccctagaaaaaag---------------------------------------------------------------------------------ggctgttggaaatgtggaaaggaaggacaccaaatgaaagactgcact---------------------------gagagacaggctaattt-tttagggaagatttggccttc---cagcaaagggaggcc---------agggaactttctccagagcagacc---------agagccaacagccccaccagcagagagcctcgggctcggagaggagat---------------------------------------------------------------------------------------------------------------------------cccctccccgaaacagga---gccgaaggacaaggaact------gtatcctctaacttccctcaaatcactctttggcagcgaccccttgtcacaata</sequence>
+        <sequence>
+          <taxon idref="FJ424863|SE_id269235|Gorilla_gorilla|gorilla|GOR|SIVgorCP2135con_SIVgorCP2135con|len9246|AFRSSA|CAMEROON|2007|" />----aagaagggaccagtaaaatgcttcaattgtgggaaagtaggacatatagcaaaaaattgtagggcacccagaagaaag---------------------------------------------------------------------------------ggatgctggaaatgtgggcaagaggggcaccaaatgaaagactgcagatca------------------------ggcagacaggcgaattt-tttagggaaatactggcctcc---agggggcgagaggcc---------aggcaactatgtgcagaagcaagt---------gcaaccaacagccccaccaat---------------------------------------------------------------------------------------------------------------------------------------------ggaggagggagagaaagaaatgaggaaaccagagaaggaggaact---------ttatcctctaacttccctcaaatcactctttgggacagaccaataatacctgtg</sequence>
+        <sequence>
+          <taxon idref="GQ324958|SE_notgiven|Homo_sapiens|no_sub|H1N|U14842|len13592|noregion|CM|1906|" />----------aaaaccattaaatgtttcaattgtggcaaagagggccatgtggcaagaaactgtaaggcccctagaagaggg---------------------------------------------------------------------------------ggctgttggaagtgtgggcaagaaggacatcaaatgaaagattgtaaaaat---------------------gaaggaagacaggctaattt-tttaggcaagggctggtctcc---cttcaaagggagacc---------agggaacttyccccagacaacaacaacaaggaaagagcccacagccccgccactagaggattatgggtgtcaggagga------------------------------------------------------------------------------------------------------gaggaacacacagagaaaggagat---gcaggaggaccaggagaa---gacagagaactctctgta---cccacccttaacctccctcagatcactctttggcaacgacccatcatcacagta</sequence>
+        <sequence>
+          <taxon idref="M62320|SE_notgiven|Homo_sapiens|no_sub|H1A1|U455_U455A|len13592|noregion|UG|1985|" />----------agaagaattaagtgtttcaactgtggcaaagaaggacacctagccaaaaattgtagggcccctaggaaaaag---------------------------------------------------------------------------------ggctgttggaaatgcgggaaagaaggacaccaaatgaaagactgcact---------------------------gagagacaggctaattt-tttagggaaaatttggccttc---caacaaggggaggcc---------agggaattttcctcagagcagacc---------agagccaacagccccaccagcagaaatctttgggatgggggaaaagat------------------------------------------------------------------------------------------------------------------------gacctcccctgcgaaacagga---gctgaaagacaggga------acagactcctttagtttccctcaaatcactctttggcaacgaccccttgtcacagta</sequence>
+        <sequence>
+          <taxon idref="AY169968|SE_notgiven|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVcpzCAM13|len13592|noregion|CM|1901|" />----------agaaaaataaaatgctataattgtggaaaggaaggccatctggccagaaactgtaaggcaccaaggagaaag---------------------------------------------------------------------------------ggctgctggaaatgtgggcaggagggacaccaaatgaaagactgttca---------------------------gggagacaagtaaattt-tttagggaagggctggccttc---ccgcagcgggaggcc---------aggcaactttgtacagaacaggac---------agagccaacagccccaccagcagagagttatgggtaccaagagaa------------------------------------------------------------------------------------------------------------------------------ggagaagaaccaagaggaacaggaagaggggaacagactata---ccctcctctaacttccctcaaatcactctttggcagcgacccctcatcccagta</sequence>
+        <sequence>
+          <taxon idref="JX860431|SE_notgiven|Cercocebus_atys|no_sub|SMM|SIVsmLIB1|len13592|noregion|LR|1989|" />----------aggacagttaggtgttggaatcgtggaaaggaaggacattctgcaaggcaatgtaaggcacccaggagacag---------------------------------------------------------------------------------ggatgctggaagtgtggcaaaacaggccacatcatggcaaaatgccca---------------------------gagagacaggctggttt-tttaggctttggtccttgggg---------aaagaagcc---------tcgaaatttccccatggccca---------------------aatgcatcaggggctgacaccaactgctccccc------------------------------------------------------------------------agcagacccagctgtggatctgctgaagaattacatgcaattgggcaagaagcagaggga------------gaacagagaaagaccctacaaggaggtgacagaggatttgctgcacctcaattctctctttggagacgaccagtagtcacagcc</sequence>
+        <sequence>
+          <taxon idref="JX860430|SE_notgiven|Cercocebus_atys|no_sub|SMM|SIVsmCI2|len13592|noregion|CI|1979|" />----------aggccaatcaaatgttggaattgtgggaaggaaggacacagtgctaggcaatgtaaggcacctagaaggcag---------------------------------------------------------------------------------ggctgttggaaatgtggcaaatcaggccatgttatggctaaatgtcca---------------------------gaaagacaggctggttt-tttaggatttggcccatgggg---------aaagaagcc---------tcgcaacttccccatgaccca---------------------actccagcaggggctgacaccaacggcgcccccaatggatccagc---------------------------------------------tgtggcggcgcccccaatggatccagctgtggacatgttgaggaactatctgaaactaggtcagcaacagagaga------------gaggaaagaaaggccttacaaagaggtaacggaagacttgctgcacctcaattctctctttggagacgaccagtagtcactgca</sequence>
+        <sequence>
+          <taxon idref="AF208027|SE_notgiven|Homo_sapiens|no_sub|H2G|Abt96|len13592|noregion|CI|1992|" />----aaaaggagcacaataaaatgttggaattgtggcaaggagggacatacagttagacagtgcagagcccccagaagacag---------------------------------------------------------------------------------gggtgctggaagtgtgggaagccaggccacattatggccaaatgtcca---------------------------gagagacaggcaggttt-tttagggtttggaccttgggg---------aaagaagcc---------tcgcaacttccccatgaccca---------------------agtccctcagggtctgactccatcagcaccacc------------------------------------------------------------------------gatggacccagcagtagacctactgaagaattacatgcarctggggaggaagcaaaagga------------gcagagaaacaaaccctacaaggaggtgacagargahttgctgcacctcagctctctctttggagacgaccagtagtcactgca</sequence>
+        <sequence>
+          <taxon idref="AY523865|SE_notgiven|Cercopithecus_neglectus|no_sub|DEB|CM40|len13592|noregion|CM|1999|" />-------agaagacagattagatgcttcaattgtggacaaattggacatctccaaaaggactgcaaaagacctagaaagacc---------------------------------------------------------------------------------aaatgttttaaatgtgggcaggaaggccacattgcaaaaaattgtgga------------------------cagactccgagggcaaattt-tttagggaatactccctgggc---------ctccaggagacc------caggaactttctagaaggaattgggaagta---catcccggagagcacagcagatcaggtatactcgac------------------------------------------------------------------------------------------------------------taccagggtaccagtacaggggcaggagaacaacccccagagggaggaaacaacgaggagagggaagta---cccggatttaatggggctgaaatctctctttggagaagaccaatgaccacagta</sequence>
+        <sequence>
+          <taxon idref="AF382829|SE_notgiven|Cercopithecus_neglectus|no_sub|RCM|SIVRCMGAB1|len13592|noregion|GA|19x|" />aggaggaaatccaaatttaagatgttacaattgtggtaagccaggacacatttctagatattgtaaagcccctagaaggaag---------------------------------------------------------------------------------ggatgctggaaatgtggatccccagaccatctcttgaaagactgcaca------------------------------aagcaaataaattt-tttagggagactcccctgggg---------tcaggggaagcc------gaggaactttcctttgacttccttgactccctctgctccagggatggagagcaattacgaccc------------------------------------------------------------------------------tgcagaagagatgctaaagaattatctgaggagggcaggggaacaaaagagacaacagaggcagga------------agagagcaagaagagagagggagcatatcaggaagccttaacctccctcaattcgctctttggaagcgaccaactacaatagct</sequence>
+        <sequence>
+          <taxon idref="JN091691|SE_notgiven|Pan_troglodytes_schweinfurthii|sub_given|CPZ|TAN5|len13592|noregion|TZ|1906|" />cttaagaaagggccagttgcaatgttttaactgtggaaaaataggccacacagcaagaaattgtagagccccaagaaagaaa---------------------------------------------------------------------------------ggctgctggaaatgtggccaagagggacatcaaatgaaagattgcaccgcaaaa---------------aacaacagtgctggggtaaattt-tttagggaaacgcaccccctt---gtgggggtgcagacc---------agggaactttgtgcagaacacccc---------agagaaagggaggaatcaggaacaggagtcagtacagacaccagtggtacc------------------------------------------------------------------------------------------------------------------------------------aacggccccaccactggagatgccaat------gaaagacgggttctccctcaaatcaatctttggcagcgaccaatgatgacagtg</sequence>
+        <sequence>
+          <taxon idref="KF214241|SE_notgiven|Colobus_guereza|no_sub|COL|BWC07|len13592|noregion|UG|1910|" />-------gtgagcacagctaggtgcttcaattgtgggcaggtaggccatttggcaaggaactgccctaagcccagacagtttccaactagggga---------agaggaagctcaagaggaagaggaataatgagaggaggaatgagaagaggaggacaagccaagtgctttggatgtggacaacttggacacatccaagcaacctgccct---------------------------aataagcaggtgaattt-tttagggacaccaggggggat---------ggacctaca---------gacagctgtcttccccccaaa---------------------gatgagtcagaggaaggaaccctccaaggg------------------------------------------------------------------------------------------------------------------------------------------------------------------ggagatggacagggaaggaatctatccctccttgaaatccctctttggagaagaccttttgtctgggca</sequence>
+        <sequence>
+          <taxon idref="KP004994|SE_id634578|Gorilla_gorilla|gorilla|GOR|SIVgor-BPID2_SIVgor-BPID2|len5586|AFRSSA|CAMEROON|2012|" />----------gggccagttaaatgctttaactgtggaaaggttggacatatagcaaagaactgtagggcacctaggaaaaag---------------------------------------------------------------------------------ggatgctggaaatgtggacaggaaggycatcaaatgaaagattgtaagtcg------------------------gggagacaggcaaattt-tttagggaagatctggcctcc---ggggggcaagaggcc---------aggcaactatgtgcagaagcaagt---------acaaccaacagccccacctat---------------------------------------------------------------------------------------------------------------------------------ggaggaggaggaggtgacccagagcaagcagaaggaggaa---gaggacaagaaggagtt------gtatcctttaacctccctcaaatcactctttgggacagaccagtaataccagta</sequence>
+        <sequence>
+          <taxon idref="GQ324959|SE_notgiven|Homo_sapiens|no_sub|H1N|SJGddd|len13592|noregion|CM|1902|" />----------aaaaccattaaatgtttcaattgtggcaaagagggccatttggcaagaaactgtaaggcccctagaaggaag---------------------------------------------------------------------------------ggctgttggaagtgtgggcaagaaggacatcaaatgaaagattgcaacaat---------------------gaaggaagacaggctaattt-tttaggcaggggctggtctcc---cttcaaagggagacc---------aggaaatttcccccagacaacagcaaggaa---ggagcccacagccccaccact---------------agaggagga------------------------------------------------------------------------------------------------------gaggagcacacaggg---gaaagagatgcaggagaaccaggagaa---gacagagaactctctgta---cccacccttaacttccctcagatcactctttggcaacgacctgtcatcacagta</sequence>
+        <sequence>
+          <taxon idref="X61240|SE_notgiven|Homo_sapiens|no_sub|H2B|D205_ALT|len13592|noregion|GH|1986|" />-------agagggacagtgacatgctggaactgtggcaaacagggacacacagccaggcaatgcagggcccctagaagacag---------------------------------------------------------------------------------ggatgctggaaatgtggaaaaacaggacacatcatgtcaaaatgccca---------------------------gaaagacaggcgggttt-tttagggttaggaccctgggg---------aaagaagcc---------tcgcaacttccccatgaccca---------------------agtgcctcagggagtgacaccatctgcaccccc------------------gatgaacccagcagagggcatgacacctcggggggcgacaccatctgcgccccctgcagatccagcagtggagatgctgaaaagttacatgcagatggggagacaacagagaga------------gagccgagagagaccctacaaggaggtgacagaggatttgctgcacctcaattctctctttggagaagaccagtagtcaaagca</sequence>
+        <sequence>
+          <taxon idref="JN091690|SE_notgiven|Pan_troglodytes_schweinfurthii|sub_given|CPZ|UG38|len13592|noregion|TZ|1909|" />-ctgaggaaaggccagctgcagtgtttcaattgtgggaaaccagggcatacagccagaaactgcagagccccaaggaaaaag---------------------------------------------------------------------------------ggctgctggaggtgtggtcaggaaggacatcagatgaaagactgcacaggaaga---------------cccaacaattcaggggtaaattt-tttagggaaacgcaccccctt---atgggggtgcagacc---------agggaattttgtgcagaacacccc---------agagaaggagaagaatcaggaacagacaccagtggagccatcagccccact---------------------------------------------------------------------------------------------------------------------------------------------------gatggaaccact------gaaggaagggttttccctcaaatcaatctttggcagcgaccaatgatgactgtg</sequence>
+        <sequence>
+          <taxon idref="FR686510|SE_id380462|Pan_troglodytes_troglodytes|sub_given|CPZ|Ptt_04Cam155_Ptt-04Cam155|len9899|AFRSSA|CAMEROON|2004|" />----------aggaaagtcaagtgcttcaattgtggcagagaggggcatatagcaaagtactgtaaagcacctagaaggaaa---------------------------------------------------------------------------------ggctgctggaagtgtgggaaagagggacatcaaatgaaagactgcaca------------------------ggaggaagacaggtaaattt-tttagggaaaagctggccttc---caggggagggaggcc---------aggcaactttgtgcagaacagacc---------agagccgtcagctcccccamtagagagctttgggtatcaggaggaggagaa---------------------------------------------------------------------------------------------------------------------------gaaacagraggagaa---gggagacgagaacaagctata---tcctcccttaacttccctcaaatcactctttggcaacgacccctcctcccagta</sequence>
+        <sequence>
+          <taxon idref="FJ424871|SE_notgiven|Gorilla_gorilla|no_sub|GOR|SIVgorCP684con|len13592|noregion|CM|1904|" />----aagaaggggccagtaaaatgcttcaattgtgggaaggtaggacatatagcaaaaaattgtagggcacccagaagaaag---------------------------------------------------------------------------------ggatgctggaaatgtgggcaagatgggcaccaaatgaaagactgcagatca------------------------ggcagacaggcgaattt-tttagggaaatactggcctcc---agggggcgagaggcc---------aggcaactatgtgcagaagcaagt---------------------------------------------------------------------------------------------------------------------------------------------------------------gcaaccaacagccccaccaatggaggaggaagagaaggaaacgaggaaaccaggaaaggaggaactttatcctctaacttccctcaaatcactctttgggacagaccagtaatacctgtg</sequence>
+    </alignment>
+    <patterns from="1" id="patterns" strip="false">
+      <alignment idref="alignment" />
+    </patterns>
+    <birthDeathModel id="birthDeath" units="years">
+      <birthMinusDeathRate>
+          <parameter id="birthDeath.meanGrowthRate" lower="0.0" value="630.0" />
+        </birthMinusDeathRate>
+        <relativeDeathRate>
+          <parameter id="birthDeath.relativeDeathRate" lower="0.0" value="0.5" />
+        </relativeDeathRate>
+    </birthDeathModel>
+    <constantSize id="initialDemo" units="years">
+      <populationSize>
+          <parameter id="initialDemo.popSize" value="100.0" />
+        </populationSize>
+    </constantSize>
+    <coalescentSimulator id="startingTree">
+      <taxa idref="taxa" />
+        <constantSize idref="initialDemo" />
+    </coalescentSimulator>
+    <treeModel id="treeModel">
+      <coalescentTree idref="startingTree" />
+        <rootHeight>
+          <parameter id="treeModel.rootHeight" />
+        </rootHeight>
+        <nodeHeights internalNodes="true">
+          <parameter id="treeModel.internalNodeHeights" />
+        </nodeHeights>
+        <nodeHeights internalNodes="true" rootNode="true">
+          <parameter id="treeModel.allInternalNodeHeights" />
+        </nodeHeights>
+    </treeModel>
+    <speciationLikelihood id="speciation">
+      <model>
+          <birthDeathModel idref="birthDeath" />
+        </model>
+        <speciesTree>
+          <treeModel idref="treeModel" />
+        </speciesTree>
+    </speciationLikelihood>
+    <strictClockBranchRates id="branchRates">
+      <rate>
+          <parameter id="clock.rate" value="1.0" />
+        </rate>
+    </strictClockBranchRates>
+    <gtrModel id="gtr">
+      <frequencies>
+          <frequencyModel dataType="nucleotide">
+              <frequencies>
+                  <parameter id="frequencies" value="0.25 0.25 0.25 0.25" />
+                </frequencies>
+            </frequencyModel>
+        </frequencies>
+        <rateAC>
+          <parameter id="ac" lower="0.0" value="1.0" />
+        </rateAC>
+        <rateAG>
+          <parameter id="ag" lower="0.0" value="1.0" />
+        </rateAG>
+        <rateAT>
+          <parameter id="at" lower="0.0" value="1.0" />
+        </rateAT>
+        <rateCG>
+          <parameter id="cg" lower="0.0" value="1.0" />
+        </rateCG>
+        <rateGT>
+          <parameter id="gt" lower="0.0" value="1.0" />
+        </rateGT>
+    </gtrModel>
+    <siteModel id="siteModel">
+      <substitutionModel>
+          <gtrModel idref="gtr" />
+        </substitutionModel>
+        <gammaShape gammaCategories="4">
+          <parameter id="alpha" lower="0.0" value="0.5" />
+        </gammaShape>
+    </siteModel>
+    <treeLikelihood id="treeLikelihood" useAmbiguities="false">
+      <patterns idref="patterns" />
+        <treeModel idref="treeModel" />
+        <siteModel idref="siteModel" />
+        <strictClockBranchRates idref="branchRates" />
+    </treeLikelihood>
+    <operators id="operators" optimizationSchedule="default">
+      <scaleOperator scaleFactor="0.75" weight="0.1">
+          <parameter idref="ac" />
+        </scaleOperator>
+        <scaleOperator scaleFactor="0.75" weight="0.1">
+          <parameter idref="ag" />
+        </scaleOperator>
+        <scaleOperator scaleFactor="0.75" weight="0.1">
+          <parameter idref="at" />
+        </scaleOperator>
+        <scaleOperator scaleFactor="0.75" weight="0.1">
+          <parameter idref="cg" />
+        </scaleOperator>
+        <scaleOperator scaleFactor="0.75" weight="0.1">
+          <parameter idref="gt" />
+        </scaleOperator>
+        <deltaExchange delta="0.01" weight="0.1">
+          <parameter idref="frequencies" />
+        </deltaExchange>
+        <scaleOperator scaleFactor="0.75" weight="0.1">
+          <parameter idref="alpha" />
+        </scaleOperator>
+        <subtreeSlide gaussian="true" size="0.01" weight="15">
+          <treeModel idref="treeModel" />
+        </subtreeSlide>
+        <narrowExchange weight="15">
+          <treeModel idref="treeModel" />
+        </narrowExchange>
+        <wideExchange weight="3">
+          <treeModel idref="treeModel" />
+        </wideExchange>
+        <wilsonBalding weight="3">
+          <treeModel idref="treeModel" />
+        </wilsonBalding>
+        <scaleOperator scaleFactor="0.75" weight="3">
+          <parameter idref="treeModel.rootHeight" />
+        </scaleOperator>
+        <uniformOperator weight="30">
+          <parameter idref="treeModel.internalNodeHeights" />
+        </uniformOperator>
+        <scaleOperator scaleFactor="0.75" weight="3">
+          <parameter idref="birthDeath.meanGrowthRate" />
+        </scaleOperator>
+        <scaleOperator scaleFactor="0.75" weight="3">
+          <parameter idref="birthDeath.relativeDeathRate" />
+        </scaleOperator>
+        <upDownOperator scaleFactor="0.75" weight="3">
+          <up>
+			</up>
+            <down>
+              <parameter idref="treeModel.allInternalNodeHeights" />
+            </down>
+        </upDownOperator>
+    </operators>
+    <mcmc autoOptimize="true" chainLength="50000000" id="mcmc" operatorAnalysis="h15_2_empTrees.txt">
+      <posterior id="posterior">
+          <prior id="prior">
+              <gammaPrior offset="0.0" scale="10.0" shape="0.05">
+                  <parameter idref="ac" />
+                </gammaPrior>
+                <gammaPrior offset="0.0" scale="20.0" shape="0.05">
+                  <parameter idref="ag" />
+                </gammaPrior>
+                <gammaPrior offset="0.0" scale="10.0" shape="0.05">
+                  <parameter idref="at" />
+                </gammaPrior>
+                <gammaPrior offset="0.0" scale="10.0" shape="0.05">
+                  <parameter idref="cg" />
+                </gammaPrior>
+                <gammaPrior offset="0.0" scale="10.0" shape="0.05">
+                  <parameter idref="gt" />
+                </gammaPrior>
+                <uniformPrior lower="0.0" upper="1.0">
+                  <parameter idref="frequencies" />
+                </uniformPrior>
+                <exponentialPrior mean="0.5" offset="0.0">
+                  <parameter idref="alpha" />
+                </exponentialPrior>
+                <uniformPrior lower="0.0" upper="100000.0">
+                  <parameter idref="birthDeath.meanGrowthRate" />
+                </uniformPrior>
+                <uniformPrior lower="0.0" upper="1.0">
+                  <parameter idref="birthDeath.relativeDeathRate" />
+                </uniformPrior>
+                <speciationLikelihood idref="speciation" />
+            </prior>
+            <likelihood id="likelihood">
+              <treeLikelihood idref="treeLikelihood" />
+            </likelihood>
+        </posterior>
+        <operators idref="operators" />
+        <log fileName="h15_2_empTrees.log" id="fileLog" logEvery="15000" overwrite="false">
+          <posterior idref="posterior" />
+            <prior idref="prior" />
+            <likelihood idref="likelihood" />
+            <parameter idref="treeModel.rootHeight" />
+            <parameter idref="birthDeath.meanGrowthRate" />
+            <parameter idref="birthDeath.relativeDeathRate" />
+            <parameter idref="ac" />
+            <parameter idref="ag" />
+            <parameter idref="at" />
+            <parameter idref="cg" />
+            <parameter idref="gt" />
+            <parameter idref="frequencies" />
+            <parameter idref="alpha" />
+            <parameter idref="clock.rate" />
+            <treeLikelihood idref="treeLikelihood" />
+            <speciationLikelihood idref="speciation" />
+        </log>
+        <log id="screenLog" logEvery="15000">
+          <column dp="4" label="Posterior" width="12">
+              <posterior idref="posterior" />
+            </column>
+            <column dp="4" label="Prior" width="12">
+              <prior idref="prior" />
+            </column>
+            <column dp="4" label="Likelihood" width="12">
+              <likelihood idref="likelihood" />
+            </column>
+            <column label="rootHeight" sf="6" width="12">
+              <parameter idref="treeModel.rootHeight" />
+            </column>
+            <column label="clock.rate" sf="6" width="12">
+              <parameter idref="clock.rate" />
+            </column>
+        </log>
+        <logTree fileName="h15_2_empTrees.trees" id="treeFileLog" logEvery="15000" nexusFormat="true" sortTranslationTable="true">
+          <treeModel idref="treeModel" />
+            <trait name="rate" tag="rate">
+              <strictClockBranchRates idref="branchRates" />
+            </trait>
+            <posterior idref="posterior" />
+        </logTree>
+    </mcmc>
+    <report>
+      <property name="timer">
+          <mcmc idref="mcmc" />
+        </property>
+    </report>
+</beast>
