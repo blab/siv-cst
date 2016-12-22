@@ -1,2 +1,3 @@
 *.trees
 *ipynb_checkpoints*
+*.png
