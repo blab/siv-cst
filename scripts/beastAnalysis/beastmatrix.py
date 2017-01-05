@@ -44,7 +44,7 @@ def fill_rates_matrix(df, series):
 		pass
 	else:
 		print 'ERROR: invalid number of parameters'
-		assert (n_params == ((n_hosts*n_hosts) - n_hosts)) or (n_params == ((n_hosts*n_hosts) - n_hosts) / 2)
+		assert (n_params == ((n_hosts*n_hosts) - n_hosts)) or (n_params == ((n_hosts*n_hosts) - n_hosts) / 2), (n_hosts, n_params)
 
 	skip_to = 1									#the [0,0] index of the df is on the diagonal; skip it, and fill to the end fo the row.
 	for index, row in df.iterrows():
