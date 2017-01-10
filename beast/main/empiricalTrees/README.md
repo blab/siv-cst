@@ -10,5 +10,5 @@ Run with BEAST v. 2.4.0 and dynamic BEAGLE scaling.
 ### Results  
 Trees represent the maximum clade credibility trees for each segment after the [discrete trait analysis](../discreteTraits/), color coded by host state. Notably, the topologies vary widely between trees, emphasizing the extent of recombination and the variable selective pressures experienced by each region.    
   
-![](https://github.com/blab/siv-cst/blob/master/figures/png/FigS4.png)
+![](https://github.com/blab/siv-cst/blob/master/figures/png/FigS5.png)
   
