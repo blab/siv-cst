@@ -24,5 +24,5 @@ Cross-species transmission (CST) has led to many devastating epidemics, but is s
 Install Python packages with:
 
     pip install -r requirements.txt  
-      
-![](/figures/png/Fig3.png)
+
+![](figures/png/Fig3.png)
