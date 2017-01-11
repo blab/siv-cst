@@ -1,5 +1,5 @@
 import pandas as pd
-import elementtree.ElementTree as ET
+import xml.etree.ElementTree as ET
 
 def find_bf(indicator_avg, prior_expectation, n_demes, len_chain=10000000):
 	priorProbabilityNumerator = prior_expectation
