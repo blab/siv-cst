@@ -3,7 +3,11 @@
 The SIV LANL compendium, slightly modified to reduce overrepresentation of HIV, was analyzed with GARD to identify the 13 recombination breakpoints across the genome (dashed lines in B; numbering according to the accepted HXB2 reference genome--accession K03455, illustrated). Two of these breakpoints were omitted from further analyses because they created extremely short fragments (< 500 bases; gray dashes in **B**). For each of the 11 remaining breakpoints used in further analyses, we split the compendium alignment along these breakpoints and built a maximum likelihood tree, displayed in **(A)**. Each viral sequence is color-coded by host species, and its phylogenetic position is traced between trees. Heuristically, straight, horizontal colored lines indicate congruent topological positions between trees (likely not a recombinant sequence); criss-crossing colored lines indicate incongruent topological positions between trees (likely a recombinant sequence).  
   
 ![F2](https://github.com/blab/siv-cst/blob/master/figures/png/Fig2.png)  
-###Figure 2: 
+###Figure 2: Cross-species transmissions are inferred from tree topologies; SIVcpz has mosaic origins.  
+A,B,C - Bayesian maximum clade credibility (mcc) trees are displayed for segments 2 (gag - A), 6 (int and vif - B), and 9 (env – C) of the main dataset (N=423). Tips are color coded by known host species; internal nodes and branches are colored by inferred host species, with saturation indicating the confidence of these assignments. Monophyletic clades of viruses from the same lineage are collapsed, with the triangle width proportional to the number of represented sequences. An example of likely cross-species transmission is starred in each tree, where the host state at the internal node (red / mona monkeys) is incongruent with the descendent tips' known host state (green / talapoin monkeys), providing evidence for a transmission from mona monkeys to talapoin monkeys. Another example of cross-species transmission of a recombinant virus among African green monkeys is marked with a dagger.  
+D - The genome map of SIVcpz, with breakpoints used for the discrete trait analysis, is color coded and labeled by the most likely ancestral host for each segment of the genome.
+  
+  
   
 ![F3](https://github.com/blab/siv-cst/blob/master/figures/png/Fig3.png)
 ###Figure 3: Most lentiviruses are the product of ancient cross-species transmissions.  
