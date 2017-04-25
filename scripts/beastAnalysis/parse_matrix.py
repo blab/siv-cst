@@ -26,7 +26,7 @@ args = vars(parrot.parse_args())
 burnin, logfile, xmlfile, cutoff, trait, prior, make_figs = args['burnin'], open(args['logfile'], 'r'), open(args['xml'], 'r'), args['cutoff'], args['trait'], args['prior'], args['make_figs']
 common_names = pickle.load(open('/Users/Sidney/Dropbox/siv-manuscript/data/hosts/common_names.p', 'rb'))
 
-log_data = pd.read_csv(logfile, skiprows=2, sep="\t", index_col='state')	#parse the log file as a df
+log_data = pd.read_csv(logfile, comment='#', sep="\t", index_col='state')	#parse the log file as a df
 logfile.close()
 
 xml = ET.parse(xmlfile)
