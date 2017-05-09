@@ -1,0 +1,1816 @@
+<beast>
+  <generalDataType id="host.dataType">
+      <state code="Homo_sapiens" />
+        <state code="Gorilla_gorilla" />
+        <state code="Pan_troglodytes_troglodytes" />
+        <state code="Miopithecus_ogouensis" />
+        <state code="Cercopithecus_solatus" />
+        <state code="Piliocolobus_badius" />
+        <state code="Cercopithecus_lhoesti" />
+        <state code="Colobus_guereza" />
+        <state code="Cercocebus_torquatus" />
+        <state code="Cercopithecus_albogularis" />
+        <state code="Cercopithecus_neglectus" />
+        <state code="Cercocebus_atys" />
+        <state code="Cercopithecus_aethiops_aethiops" />
+        <state code="Mandrillus_sphinx" />
+        <state code="Cercopithecus_nictitans" />
+        <state code="Cercopithecus_mona" />
+        <state code="Cercopithecus_cephus" />
+        <state code="Cercopithecus_tantalus" />
+        <state code="Mandrillus_leucophaeus" />
+        <state code="Pan_troglodytes_schweinfurthii" />
+        <state code="Procolobus_verus" />
+        <state code="Cercopithecus_aethiops_sabaeus" />
+        <state code="Cercopithecus_aethiops_pygerythrus" />
+    </generalDataType>
+    <taxa id="taxa">
+      <taxon id="AF082339|SE_notgiven|Homo_sapiens|no_sub|H2A|ALI|len13592|noregion|PT|19x|">
+          <attr name="host">Homo_sapiens</attr>
+        </taxon>
+        <taxon id="FJ424866|SE_notgiven|Gorilla_gorilla|no_sub|GOR|SIVgor2139_287|len13592|noregion|CM|1907|">
+          <attr name="host">Gorilla_gorilla</attr>
+        </taxon>
+        <taxon id="AY169968|SE_notgiven|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVcpzCAM13|len13592|noregion|CM|1901|">
+          <attr name="host">Pan_troglodytes_troglodytes</attr>
+        </taxon>
+        <taxon id="AM182197|SE_id110855|Miopithecus_ogouensis|no_sub|TAL|8023_SIVtal-01CM8023|len8845|AFRSSA|CAMEROON|2001|">
+          <attr name="host">Miopithecus_ogouensis</attr>
+        </taxon>
+        <taxon id="FR751162|SE_id400958|Cercopithecus_solatus|no_sub|SUN|SIVsunK08_Gab|len9281|AFRSSA|GABON||2008|">
+          <attr name="host">Cercopithecus_solatus</attr>
+        </taxon>
+        <taxon id="AM937062|SE_notgiven|Piliocolobus_badius|no_sub|WRC|Pbt_05GM_X02|len13592|noregion|GM|1905|">
+          <attr name="host">Piliocolobus_badius</attr>
+        </taxon>
+        <taxon id="AF075269|SE_id233567|Cercopithecus_lhoesti|lhoesti|LST|lho7|len9957|AFRSSA|KENYA|||">
+          <attr name="host">Cercopithecus_lhoesti</attr>
+        </taxon>
+        <taxon id="KF214243|SE_id562174|Colobus_guereza|no_sub|COL|BWC03_BWC03|len1482|AFRSSA|UGANDA|2010|">
+          <attr name="host">Colobus_guereza</attr>
+        </taxon>
+        <taxon id="KF214241|SE_id580652|Colobus_guereza|no_sub|COL|BWC07_BWC07|len8733|AFRSSA|UGANDA|2010|">
+          <attr name="host">Colobus_guereza</attr>
+        </taxon>
+        <taxon id="AF188115|SE_id225999|Cercopithecus_lhoesti|no_sub|LST|SIVlhoest485|len8589|AFRSSA|DEMREPOFCONGO||1988|">
+          <attr name="host">Cercopithecus_lhoesti</attr>
+        </taxon>
+        <taxon id="KF214246|SE_id562171|Colobus_guereza|no_sub|COL|BWC08|len1476|AFRSSA|UGANDA||2010|">
+          <attr name="host">Colobus_guereza</attr>
+        </taxon>
+        <taxon id="AF349680|SE_id201330|Cercocebus_torquatus|torquatus|RCM|NG411|len9557|AFRSSA|NIGERIA|||">
+          <attr name="host">Cercocebus_torquatus</attr>
+        </taxon>
+        <taxon id="AY523867|SE_id160935|Cercopithecus_albogularis|no_sub|SYK|KE51|len9068|AFRSSA|KENYA||">
+          <attr name="host">Cercopithecus_albogularis</attr>
+        </taxon>
+        <taxon id="AY523866|SE_notgiven|Cercopithecus_neglectus|no_sub|DEB|CM5|len13592|noregion|CM|1999|">
+          <attr name="host">Cercopithecus_neglectus</attr>
+        </taxon>
+        <taxon id="AM937062|SE_id19135|Piliocolobus_badius|temminckii|WRC|Pbt-05GM-X02|len8709|AFRSSA|GAMBIA|2005|">
+          <attr name="host">Piliocolobus_badius</attr>
+        </taxon>
+        <taxon id="AF075269|SE_id233567|Cercopithecus_lhoesti|lhoesti|LST|lho7|len9957|AFRSSA|KENYA||">
+          <attr name="host">Cercopithecus_lhoesti</attr>
+        </taxon>
+        <taxon id="AY523867|SE_notgiven|Cercopithecus_albogularis|no_sub|SYK|KE51|len13592|noregion|KE|19x|">
+          <attr name="host">Cercopithecus_albogularis</attr>
+        </taxon>
+        <taxon id="AY523867|SE_id160935|Cercopithecus_albogularis|no_sub|SYK|KE51|len9068|AFRSSA|KENYA|||">
+          <attr name="host">Cercopithecus_albogularis</attr>
+        </taxon>
+        <taxon id="AF188116|SE_notgiven|Cercopithecus_lhoesti|no_sub|LST|SIVlhoest524|len13592|noregion|CD|1988|">
+          <attr name="host">Cercopithecus_lhoesti</attr>
+        </taxon>
+        <taxon id="HE591408|SE_id476629|Cercocebus_torquatus|no_sub|RCM|SIVrcm_10Gab_OM71|len650|AFRSSA|GABON||2010|">
+          <attr name="host">Cercocebus_torquatus</attr>
+        </taxon>
+        <taxon id="AJ249239|SE_notgiven|Homo_sapiens|no_sub|H1K|96CM_MP535|len13592|noregion|CM|1996|">
+          <attr name="host">Homo_sapiens</attr>
+        </taxon>
+        <taxon id="AF334679|SE_notgiven|Cercocebus_atys|no_sub|SMM|SL92B|len13592|noregion|SL|1992|">
+          <attr name="host">Cercocebus_atys</attr>
+        </taxon>
+        <taxon id="JX860432|SE_notgiven|Cercocebus_atys|no_sub|SMM|SIVsmSL92A|len13592|noregion|SL|1992|">
+          <attr name="host">Cercocebus_atys</attr>
+        </taxon>
+        <taxon id="U48816|SE_id238508|Cercocebus_atys|atys|SMM|SIVsmLib_1_Liberia|len779|AFRSSA|LIBERIA|1988|">
+          <attr name="host">Cercocebus_atys</attr>
+        </taxon>
+        <taxon id="KP004990|SE_id634582|Gorilla_gorilla|gorilla|GOR|SIVgor-BPID15_SIVgor-BPID15|len9012|AFRSSA|CAMEROON|2013|">
+          <attr name="host">Gorilla_gorilla</attr>
+        </taxon>
+        <taxon id="AF382829|SE_id162308|Cercocebus_torquatus|torquatus|RCM|SIVRCMGAB1|len9465|AFRSSA|GABON|||">
+          <attr name="host">Cercocebus_torquatus</attr>
+        </taxon>
+        <taxon id="X52154|SE_id147366|Pan_troglodytes_troglodytes|sub_given|CPZ|GAB1|len9811|AFRSSA|GABON|1988|">
+          <attr name="host">Pan_troglodytes_troglodytes</attr>
+        </taxon>
+        <taxon id="AY932807|SE_id130296|Cercocebus_atys|atys|SMM|TAI_3_SIVsmTAI3|len800|AFRSSA|COTEDIVOIRE||AY932807|SE_id130296|Cercocebus_atys|atys|SMM|TAI_3_SIVsmTAI3|len800|AFRSSA|COTEDIVOIRE||">
+          <attr name="host">Cercocebus_atys</attr>
+        </taxon>
+        <taxon id="AF005496|SE_notgiven|Homo_sapiens|no_sub|H1H|056|len13592|noregion|CF|1990|">
+          <attr name="host">Homo_sapiens</attr>
+        </taxon>
+        <taxon id="HE591404|SE_id476631|Cercocebus_torquatus|no_sub|RCM|SIVrcm_10Gab_OM32|len647|AFRSSA|GABON||2010|">
+          <attr name="host">Cercocebus_torquatus</attr>
+        </taxon>
+        <taxon id="AY932819|SE_id130284|Cercocebus_atys|atys|SMM|TAI_37_SIVsmTAI37|len800|AFRSSA|COTEDIVOIRE||AY932819|SE_id130284|Cercocebus_atys|atys|SMM|TAI_37_SIVsmTAI37|len800|AFRSSA|COTEDIVOIRE||">
+          <attr name="host">Cercocebus_atys</attr>
+        </taxon>
+        <taxon id="M66437|SE_notgiven|Cercopithecus_aethiops_aethiops|no_sub|GRV|GRI_677_gri_1|len13592|noregion|ET|19x|">
+          <attr name="host">Cercopithecus_aethiops_aethiops</attr>
+        </taxon>
+        <taxon id="AF328295|SE_id208229|Mandrillus_sphinx|no_sub|MND-2|M14|len9529|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="GQ324958|SE_notgiven|Homo_sapiens|no_sub|H1N|U14842|len13592|noregion|CM|1906|">
+          <attr name="host">Homo_sapiens</attr>
+        </taxon>
+        <taxon id="FJ424865|SE_id269233|Gorilla_gorilla|gorilla|GOR|SIVgorCP2139_2con_SIVgorCP2139.2con|len9252|AFRSSA|CAMEROON|2007|">
+          <attr name="host">Gorilla_gorilla</attr>
+        </taxon>
+        <taxon id="AF468659|SE_id192556|Cercopithecus_nictitans|no_sub|GSN|CN166_SIVgsn-99CM166|len9414|AFRSSA|CAMEROON|1999|">
+          <attr name="host">Cercopithecus_nictitans</attr>
+        </taxon>
+        <taxon id="AF188115|SE_notgiven|Cercopithecus_lhoesti|no_sub|LST|SIVlhoest485|len13592|noregion|CD|1988|">
+          <attr name="host">Cercopithecus_lhoesti</attr>
+        </taxon>
+        <taxon id="AY932806|SE_id130297|Cercocebus_atys|atys|SMM|TAI_1_SIVsmTAI1|len1427|AFRSSA|COTEDIVOIRE||AY932806|SE_id130297|Cercocebus_atys|atys|SMM|TAI_1_SIVsmTAI1|len1427|AFRSSA|COTEDIVOIRE||">
+          <attr name="host">Cercocebus_atys</attr>
+        </taxon>
+        <taxon id="AY340701|SE_notgiven|Cercopithecus_mona|no_sub|MON|L1_99CML1|len13592|noregion|CM|1999|">
+          <attr name="host">Cercopithecus_mona</attr>
+        </taxon>
+        <taxon id="AM182197|SE_notgiven|Miopithecus_ogouensis|no_sub|TAL|8023|len13592|noregion|CM|1901|">
+          <attr name="host">Miopithecus_ogouensis</attr>
+        </taxon>
+        <taxon id="AF131870|SE_id230170|Cercopithecus_solatus||SUN|L14|len10006|AFRSSA|GABON||1998|">
+          <attr name="host">Cercopithecus_solatus</attr>
+        </taxon>
+        <taxon id="EF070331|SE_id78644|Cercopithecus_cephus|no_sub|MUS-2|CM2500|len9430|AFRSSA|CAMEROON||2001|">
+          <attr name="host">Cercopithecus_cephus</attr>
+        </taxon>
+        <taxon id="AF131870|SE_notgiven|Cercopithecus_solatus|no_sub|SUN|L14|len13592|noregion|GA|1998|">
+          <attr name="host">Cercopithecus_solatus</attr>
+        </taxon>
+        <taxon id="AF028608|SE_id241590|Cercocebus_torquatus|torquatus|RCM|SIVRCM|len954|AFRSSA|GABON|Lambarene||">
+          <attr name="host">Cercocebus_torquatus</attr>
+        </taxon>
+        <taxon id="AY169803|SE_notgiven|Homo_sapiens|no_sub|H1O|96CMA102|len13592|noregion|CM|1996|">
+          <attr name="host">Homo_sapiens</attr>
+        </taxon>
+        <taxon id="FJ424866|SE_id269232|Gorilla_gorilla|gorilla|GOR|SIVgor2139_287_pBR-CP2139.287|len9252|AFRSSA|CAMEROON|2007|">
+          <attr name="host">Gorilla_gorilla</attr>
+        </taxon>
+        <taxon id="AY932809|SE_id130294|Cercocebus_atys|atys|SMM|YAI_31_SIVsmTAI31|len800|AFRSSA|COTEDIVOIRE||AY932809|SE_id130294|Cercocebus_atys|atys|SMM|YAI_31_SIVsmTAI31|len800|AFRSSA|COTEDIVOIRE||">
+          <attr name="host">Cercocebus_atys</attr>
+        </taxon>
+        <taxon id="AY864798|SE_id153598|Cercocebus_atys|no_sub|SMM|SIVsm_SL93_135_SIVsm_SL93_135|len870|AFRSSA|SIERRALEONE||">
+          <attr name="host">Cercocebus_atys</attr>
+        </taxon>
+        <taxon id="L06042|SE_id224199|Cercopithecus_albogularis|no_sub|SYK|SYK173_COMGNM_syk173/1.2|len9597|AFRSSA|KENYA||">
+          <attr name="host">Cercopithecus_albogularis</attr>
+        </taxon>
+        <taxon id="NC_004455|SE_id1570|Mandrillus_sphinx|no_sub|MND-2|98CM16_SIVmnd-2|len9518|AFRSSA|CAMEROON|1998|">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="AF367411|SE_notgiven|Mandrillus_sphinx|no_sub|MND-2|CM16|len13592|noregion|CM|1998|">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="AF188116|SE_id225998|Cercopithecus_lhoesti|no_sub|LST|SIVlhoest524|len8594|AFRSSA|DEMREPOFCONGO|1988|">
+          <attr name="host">Cercopithecus_lhoesti</attr>
+        </taxon>
+        <taxon id="U58991|SE_notgiven|Cercopithecus_tantalus|no_sub|TAN|SIVagmTAN1|len13592|noregion|UG|19x|">
+          <attr name="host">Cercopithecus_tantalus</attr>
+        </taxon>
+        <taxon id="AY159321|SE_notgiven|Mandrillus_leucophaeus|no_sub|DRL|FAO|len13592|noregion|x|19x|">
+          <attr name="host">Mandrillus_leucophaeus</attr>
+        </taxon>
+        <taxon id="JN091691|SE_id415366|Pan_troglodytes_schweinfurthii|sub_given|CPZ|TAN5_TAN5|len9893|AFRSSA|TANZANIA|2006|">
+          <attr name="host">Pan_troglodytes_schweinfurthii</attr>
+        </taxon>
+        <taxon id="EF070331|SE_id78644|Cercopithecus_cephus|no_sub|MUS-2|CM2500_SIVmus01CM2500|len9430|AFRSSA|CAMEROON|2001|">
+          <attr name="host">Cercopithecus_cephus</attr>
+        </taxon>
+        <taxon id="JX178450|SE_id548431|Pan_troglodytes_troglodytes|sub_given|CPZ|LB715_LB715|len9367|AFRSSA|CAMEROON|2005|">
+          <attr name="host">Pan_troglodytes_troglodytes</attr>
+        </taxon>
+        <taxon id="U58991|SE_id127757|Cercopithecus_tantalus|no_sub|TAN|SIVagmTAN1|len9784|AFRSSA|UGANDA||">
+          <attr name="host">Cercopithecus_tantalus</attr>
+        </taxon>
+        <taxon id="AM182197|SE_id110855|Miopithecus_ogouensis|no_sub|TAL|8023|len8845|AFRSSA|CAMEROON||2001|">
+          <attr name="host">Miopithecus_ogouensis</attr>
+        </taxon>
+        <taxon id="AY530889|SE_notgiven|Homo_sapiens|no_sub|H2U|12034|len13592|noregion|FR|1996|">
+          <attr name="host">Homo_sapiens</attr>
+        </taxon>
+        <taxon id="NC_001549|SE_id1571|Cercopithecus_aethiops_aethiops|sub_given|GRV|677_677|len9623|AFRSSA|ETHIOPIA||">
+          <attr name="host">Cercopithecus_aethiops_aethiops</attr>
+        </taxon>
+        <taxon id="AY655744|SE_id111181|Miopithecus_ogouensis|no_sub|TAL|266|len9338|AFRSSA|CAMEROON|2000|">
+          <attr name="host">Miopithecus_ogouensis</attr>
+        </taxon>
+        <taxon id="AM745105|SE_notgiven|Piliocolobus_badius|no_sub|WRC|97CI14|len13592|noregion|CI|1997|">
+          <attr name="host">Piliocolobus_badius</attr>
+        </taxon>
+        <taxon id="AF188115|SE_id225999|Cercopithecus_lhoesti|no_sub|LST|SIVlhoest485|len8589|AFRSSA|DEMREPOFCONGO|1988|">
+          <attr name="host">Cercopithecus_lhoesti</attr>
+        </taxon>
+        <taxon id="KF214245|SE_id562172|Colobus_guereza|no_sub|COL|BWC05|len1476|AFRSSA|UGANDA||2010|">
+          <attr name="host">Colobus_guereza</attr>
+        </taxon>
+        <taxon id="AY159322|SE_notgiven|Mandrillus_sphinx|no_sub|MND-2|5440|len13592|noregion|x|19x|">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="AF468658|SE_notgiven|Cercopithecus_nictitans|no_sub|GSN|CN71|len13592|noregion|CM|1999|">
+          <attr name="host">Cercopithecus_nictitans</attr>
+        </taxon>
+        <taxon id="AY932813|SE_id130290|Cercocebus_atys|atys|SMM|TAI_17_SIVsmTAI17|len1416|AFRSSA|COTEDIVOIRE||AY932813|SE_id130290|Cercocebus_atys|atys|SMM|TAI_17_SIVsmTAI17|len1416|AFRSSA|COTEDIVOIRE||">
+          <attr name="host">Cercocebus_atys</attr>
+        </taxon>
+        <taxon id="AF468658|SE_id192557|Cercopithecus_nictitans|no_sub|GSN|CN71|len9410|AFRSSA|CAMEROON||1999|">
+          <attr name="host">Cercopithecus_nictitans</attr>
+        </taxon>
+        <taxon id="AF349681|SE_id201329|Cercocebus_torquatus|torquatus|RCM|RCMNG409|len5433|AFRSSA|NIGERIA|||">
+          <attr name="host">Cercocebus_torquatus</attr>
+        </taxon>
+        <taxon id="HM803689|SE_id366018|Cercocebus_torquatus|torquatus|RCM|SIVrcm-02CM8081|len9592|AFRSSA|CAMEROON||2002|">
+          <attr name="host">Cercocebus_torquatus</attr>
+        </taxon>
+        <taxon id="JQ768416|SE_notgiven|Pan_troglodytes_schweinfurthii|sub_given|CPZ|SIVcpzTAN13|len13592|noregion|TZ|1906|">
+          <attr name="host">Pan_troglodytes_schweinfurthii</attr>
+        </taxon>
+        <taxon id="M31113|SE_notgiven|Homo_sapiens|no_sub|H2A|ST_JSP4_27|len13592|noregion|SN|1986|">
+          <attr name="host">Homo_sapiens</attr>
+        </taxon>
+        <taxon id="AF301156|SE_id214948|Colobus_guereza|no_sub|COL|CGU1|len8728|AFRSSA|CAMEROON||">
+          <attr name="host">Colobus_guereza</attr>
+        </taxon>
+        <taxon id="AF407418|SE_notgiven|Homo_sapiens|no_sub|H1O|VAU|len13592|noregion|FR|1992|">
+          <attr name="host">Homo_sapiens</attr>
+        </taxon>
+        <taxon id="EF070331|SE_notgiven|Cercopithecus_cephus|no_sub|MUS-2|CM2500|len13592|noregion|CM|1901|">
+          <attr name="host">Cercopithecus_cephus</attr>
+        </taxon>
+        <taxon id="AY532635|SE_notgiven|Homo_sapiens|no_sub|H1N|DJO0131|len13592|noregion|CM|1902|">
+          <attr name="host">Homo_sapiens</attr>
+        </taxon>
+        <taxon id="KF214246|SE_id562171|Colobus_guereza|no_sub|COL|BWC08_BWC08|len1476|AFRSSA|UGANDA|2010|">
+          <attr name="host">Colobus_guereza</attr>
+        </taxon>
+        <taxon id="AY523866|SE_id160936|Cercopithecus_neglectus|no_sub|DEB|CM5|len9158|AFRSSA|CAMEROON|1999|">
+          <attr name="host">Cercopithecus_neglectus</attr>
+        </taxon>
+        <taxon id="FM165202|SE_id258527|Procolobus_verus|no_sub|OLC|97CI12|len640|AFRSSA|COTEDIVOIRE|1997|FM165202|SE_id258527|Procolobus_verus|no_sub|OLC|97CI12|len640|AFRSSA|COTEDIVOIRE|1997|">
+          <attr name="host">Procolobus_verus</attr>
+        </taxon>
+        <taxon id="AF188114|SE_id226000|Cercopithecus_lhoesti|no_sub|LST|SIVlhoest447|len8588|AFRSSA|DEMREPOFCONGO||1988|">
+          <attr name="host">Cercopithecus_lhoesti</attr>
+        </taxon>
+        <taxon id="KF214240|SE_notgiven|Colobus_guereza|no_sub|COL|BWC01|len13592|noregion|UG|1910|">
+          <attr name="host">Colobus_guereza</attr>
+        </taxon>
+        <taxon id="AY655744|SE_notgiven|Miopithecus_ogouensis|no_sub|TAL|266|len13592|noregion|CM|1900|">
+          <attr name="host">Miopithecus_ogouensis</attr>
+        </taxon>
+        <taxon id="U48811|SE_id238513|Cercocebus_atys|atys|SMM|SL92b_SierraU48811|SE_id238513|Cercocebus_atys|atys|SMM|SL92b_SierraLeone|len762|AFRSSA|SIERRALEONE|1992|">
+          <attr name="host">Cercocebus_atys</attr>
+        </taxon>
+        <taxon id="JN091690|SE_id415367|Pan_troglodytes_schweinfurthii|sub_given|CPZ|UG38_UG38|len9283|AFRSSA|TANZANIA|2009|">
+          <attr name="host">Pan_troglodytes_schweinfurthii</attr>
+        </taxon>
+        <taxon id="U04005|SE_notgiven|Cercopithecus_aethiops_sabaeus|no_sub|SAB|SAB1|len13592|noregion|SN|19x|">
+          <attr name="host">Cercopithecus_aethiops_sabaeus</attr>
+        </taxon>
+        <taxon id="AY340701|SE_id170565|Cercopithecus_mona|no_sub|MON|L1_99CML1|len9448|AFRSSA|CAMEROON||1999|">
+          <attr name="host">Cercopithecus_mona</attr>
+        </taxon>
+        <taxon id="M30931|SE_notgiven|Cercopithecus_aethiops_pygerythrus|no_sub|VER|AGM3|len13592|noregion|DE|19x|">
+          <attr name="host">Cercopithecus_aethiops_pygerythrus</attr>
+        </taxon>
+        <taxon id="KP004989|SE_id634583|Gorilla_gorilla|gorilla|GOR|SIVgor-BPID1_SIVgor-BPID1|len9029|AFRSSA|CAMEROON|2012|">
+          <attr name="host">Gorilla_gorilla</attr>
+        </taxon>
+        <taxon id="EF070329|SE_id78646|Cercopithecus_cephus|no_sub|MUS-2|CM1246_SIVmus01CM1246|len9484|AFRSSA|CAMEROON|2001|">
+          <attr name="host">Cercopithecus_cephus</attr>
+        </taxon>
+        <taxon id="AY523865|SE_id160937|Cercopithecus_neglectus|no_sub|DEB|CM40|len9227|AFRSSA|CAMEROON|1999|">
+          <attr name="host">Cercopithecus_neglectus</attr>
+        </taxon>
+        <taxon id="HE591406|SE_id476630|Cercocebus_torquatus|no_sub|RCM|SIVrcm_10Gab_OM62|len591|AFRSSA|GABON||2010|">
+          <attr name="host">Cercocebus_torquatus</attr>
+        </taxon>
+        <taxon id="U93801|SE_id228295|Cercopithecus_aethiops_pygerythrus|sub_given|VER|M13GAG20|len673|AFRSSA|TANZANIA|1985|">
+          <attr name="host">Cercopithecus_aethiops_pygerythrus</attr>
+        </taxon>
+        <taxon id="AY932816|SE_id130287|Cercocebus_atys|atys|SMM|CI_2_SIVsmCI2|len1516|AFRSSA|COTEDIVOIRE||AY932816|SE_id130287|Cercocebus_atys|atys|SMM|CI_2_SIVsmCI2|len1516|AFRSSA|COTEDIVOIRE||">
+          <attr name="host">Cercocebus_atys</attr>
+        </taxon>
+        <taxon id="AF188114|SE_id226000|Cercopithecus_lhoesti|no_sub|LST|SIVlhoest447|len8588|AFRSSA|DEMREPOFCONGO|1988|">
+          <attr name="host">Cercopithecus_lhoesti</attr>
+        </taxon>
+        <taxon id="AF382828|SE_notgiven|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVcpzGAB2|len13592|noregion|GA|1988|">
+          <attr name="host">Pan_troglodytes_troglodytes</attr>
+        </taxon>
+        <taxon id="L19254|SE_id258040|Cercopithecus_tantalus|no_sub|TAN|AGM9|len1765|AFRSSA|UGANDA||">
+          <attr name="host">Cercopithecus_tantalus</attr>
+        </taxon>
+        <taxon id="EF070329|SE_id78646|Cercopithecus_cephus|no_sub|MUS-2|CM1246|len9484|AFRSSA|CAMEROON||2001|">
+          <attr name="host">Cercopithecus_cephus</attr>
+        </taxon>
+        <taxon id="JN835462|SE_id483538|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVcpzMT145.c2|len9207|AFRSSA|CAMEROON|2005|">
+          <attr name="host">Pan_troglodytes_troglodytes</attr>
+        </taxon>
+        <taxon id="KF214245|SE_id562172|Colobus_guereza|no_sub|COL|BWC05_BWC05|len1476|AFRSSA|UGANDA|2010|">
+          <attr name="host">Colobus_guereza</attr>
+        </taxon>
+        <taxon id="U48812|SE_id238512|Cercocebus_atys|atys|SMM|SL92C_SierraU48812|SE_id238512|Cercocebus_atys|atys|SMM|SL92C_SierraLeone|len771|AFRSSA|SIERRALEONE|1992|">
+          <attr name="host">Cercocebus_atys</attr>
+        </taxon>
+        <taxon id="HM803689|SE_notgiven|Cercocebus_torquatus|no_sub|RCM|SIVrcm_02CM8081|len13592|noregion|CM|1902|">
+          <attr name="host">Cercocebus_torquatus</attr>
+        </taxon>
+        <taxon id="M27470|SE_id198176|Mandrillus_sphinx|no_sub|MND-1|MNDGB1_GB1|len9215|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="AM713177|SE_notgiven|Piliocolobus_badius|no_sub|WRC|98CI04|len13592|noregion|CI|1998|">
+          <attr name="host">Piliocolobus_badius</attr>
+        </taxon>
+        <taxon id="AY159321|SE_id89431|Mandrillus_leucophaeus|no_sub|DRL|FAO|len9732|||unknown||">
+          <attr name="host">Mandrillus_leucophaeus</attr>
+        </taxon>
+        <taxon id="U42720|SE_notgiven|Pan_troglodytes_schweinfurthii|sub_given|CPZ|ANT|len13592|noregion|CD|1990|">
+          <attr name="host">Pan_troglodytes_schweinfurthii</attr>
+        </taxon>
+        <taxon id="U17646|SE_id238515|Cercocebus_atys|atys|SMM|SL92A|len825|AFRSSA|SIERRALEONE|1992|">
+          <attr name="host">Cercocebus_atys</attr>
+        </taxon>
+        <taxon id="FM165200|SE_id258501|Procolobus_verus|no_sub|OLC|97CI12|len8678|AFRSSA|COTEDIVOIRE|Tai_National_Park|1997|FM165200|SE_id258501|Procolobus_verus|no_sub|OLC|97CI12|len8678|AFRSSA|COTEDIVOIRE|Tai_National_Park|1997|">
+          <attr name="host">Procolobus_verus</attr>
+        </taxon>
+        <taxon id="JQ866001|SE_notgiven|Pan_troglodytes_schweinfurthii|sub_given|CPZ|BF1167|len13592|noregion|CD|1906|">
+          <attr name="host">Pan_troglodytes_schweinfurthii</attr>
+        </taxon>
+        <taxon id="AF301156|SE_notgiven|Colobus_guereza|no_sub|COL|CGU1|len13592|noregion|CM|19x|">
+          <attr name="host">Colobus_guereza</attr>
+        </taxon>
+        <taxon id="KF214242|SE_id562175|Colobus_guereza|no_sub|COL|BWC04|len1473|AFRSSA|UGANDA||2010|">
+          <attr name="host">Colobus_guereza</attr>
+        </taxon>
+        <taxon id="AF349680|SE_notgiven|Cercocebus_torquatus|no_sub|RCM|NG411|len13592|noregion|NG|19x|">
+          <attr name="host">Cercocebus_torquatus</attr>
+        </taxon>
+        <taxon id="KF214240|SE_id580653|Colobus_guereza|no_sub|COL|BWC01|len8688|AFRSSA|UGANDA||2010|">
+          <attr name="host">Colobus_guereza</attr>
+        </taxon>
+        <taxon id="KP004991|SE_id634581|Gorilla_gorilla|gorilla|GOR|SIVgor-BQID2_SIVgor-BQID2|len9241|AFRSSA|CAMEROON|2012|">
+          <attr name="host">Gorilla_gorilla</attr>
+        </taxon>
+        <taxon id="M27470|SE_notgiven|Mandrillus_sphinx|no_sub|MND-1|MNDGB1|len13592|noregion|GA|19x|">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="U21135|SE_notgiven|Homo_sapiens|no_sub|H1B|WEAU160_GHOSH|len13592|noregion|US|1990|">
+          <attr name="host">Homo_sapiens</attr>
+        </taxon>
+        <taxon id="EF070330|SE_id78645|Cercopithecus_cephus|no_sub|MUS-1|CM1239_SIVmus01CM1239|len9508|AFRSSA|CAMEROON|2001|">
+          <attr name="host">Cercopithecus_cephus</attr>
+        </taxon>
+        <taxon id="L19251|SE_id258043|Cercopithecus_tantalus|no_sub|TAN|AGM27|len1712|AFRSSA|UGANDA||">
+          <attr name="host">Cercopithecus_tantalus</attr>
+        </taxon>
+        <taxon id="AY523865|SE_id160937|Cercopithecus_neglectus|no_sub|DEB|CM40|len9227|AFRSSA|CAMEROON||1999|">
+          <attr name="host">Cercopithecus_neglectus</attr>
+        </taxon>
+        <taxon id="AF447763|SE_notgiven|Pan_troglodytes_schweinfurthii|sub_given|CPZ|TAN1|len13592|noregion|TZ|1900|">
+          <attr name="host">Pan_troglodytes_schweinfurthii</attr>
+        </taxon>
+        <taxon id="AM745105|SE_id258502|Piliocolobus_badius|badius|WRC|97CI14_97CI14|len9484|AFRSSA|COTEDIVOIRE|1997|AM745105|SE_id258502|Piliocolobus_badius|badius|WRC|97CI14_97CI14|len9484|AFRSSA|COTEDIVOIRE|1997|">
+          <attr name="host">Piliocolobus_badius</attr>
+        </taxon>
+        <taxon id="M29973|SE_id250619|Cercopithecus_aethiops_aethiops|sub_given|GRV|GRI_677_gri_1|len2438|AFRSSA|ETHIOPIA|||">
+          <attr name="host">Cercopithecus_aethiops_aethiops</attr>
+        </taxon>
+        <taxon id="NC_001549|SE_id1571|Cercopithecus_aethiops_aethiops|sub_given|GRV|677|len9623|AFRSSA|ETHIOPIA|||">
+          <attr name="host">Cercopithecus_aethiops_aethiops</attr>
+        </taxon>
+        <taxon id="AJ302646|SE_notgiven|Homo_sapiens|no_sub|H1O|99SE_MP1299|len13592|noregion|SN|1999|">
+          <attr name="host">Homo_sapiens</attr>
+        </taxon>
+        <taxon id="U42720|SE_id223911|Pan_troglodytes_schweinfurthii|sub_given|CPZ|ANT_SIVcpzant|len9068|AFRSSA|DEMREPOFCONGO|1990|">
+          <attr name="host">Pan_troglodytes_schweinfurthii</attr>
+        </taxon>
+        <taxon id="FM165200|SE_notgiven|Procolobus_verus|no_sub|OLC|97CI12|len13592|noregion|CI|1997|">
+          <attr name="host">Procolobus_verus</attr>
+        </taxon>
+        <taxon id="U27200|SE_notgiven|Homo_sapiens|no_sub|H2B|EHO|len13592|noregion|CI|19x|">
+          <attr name="host">Homo_sapiens</attr>
+        </taxon>
+        <taxon id="FJ919724|SE_id334174|Cercopithecus_neglectus|no_sub|DEB|SIVdeb04CMPF3061_SIVdeb04CMPF3061|len9265|AFRSSA|CAMEROON|2004|">
+          <attr name="host">Cercopithecus_neglectus</attr>
+        </taxon>
+        <taxon id="AF131870|SE_id230170|Cercopithecus_solatus|no_sub|SUN|L14|len10006|AFRSSA|GABON|1998|">
+          <attr name="host">Cercopithecus_solatus</attr>
+        </taxon>
+        <taxon id="AY340700|SE_notgiven|Cercopithecus_cephus|no_sub|MUS-1|SIVmus_01CM1085|len13592|noregion|CM|1901|">
+          <attr name="host">Cercopithecus_cephus</attr>
+        </taxon>
+        <taxon id="AY932808|SE_id130295|Cercocebus_atys|atys|SMM|TAI_23_SIVsmTAI23|len805|AFRSSA|COTEDIVOIRE||AY932808|SE_id130295|Cercocebus_atys|atys|SMM|TAI_23_SIVsmTAI23|len805|AFRSSA|COTEDIVOIRE||">
+          <attr name="host">Cercocebus_atys</attr>
+        </taxon>
+        <taxon id="AJ580407|SE_id142064|Cercopithecus_mona|denti|DEN|CD1_CMO580407|len9679|AFRSSA|DEMREPOFCONGO||">
+          <attr name="host">Cercopithecus_mona</attr>
+        </taxon>
+        <taxon id="EF070330|SE_notgiven|Cercopithecus_cephus|no_sub|MUS-1|CM1239|len13592|noregion|CM|1901|">
+          <attr name="host">Cercopithecus_cephus</attr>
+        </taxon>
+        <taxon id="U04008|SE_id257355|Cercopithecus_aethiops_sabaeus|sub_given|SAB|SAB1|len742|AFRSSA|SENEGAL||">
+          <attr name="host">Cercopithecus_aethiops_sabaeus</attr>
+        </taxon>
+        <taxon id="AF468658|SE_id192557|Cercopithecus_nictitans|no_sub|GSN|CN71_SIVgsn-99CM71|len9410|AFRSSA|CAMEROON|1999|">
+          <attr name="host">Cercopithecus_nictitans</attr>
+        </taxon>
+        <taxon id="AF468659|SE_id192556|Cercopithecus_nictitans|no_sub|GSN|CN166|len9414|AFRSSA|CAMEROON||1999|">
+          <attr name="host">Cercopithecus_nictitans</attr>
+        </taxon>
+        <taxon id="AY340700|SE_id170566|Cercopithecus_cephus|no_sub|MUS-1|SIVmus_01CM1085_SIVmus-01CM1085|len9420|AFRSSA|CAMEROON|2001|">
+          <attr name="host">Cercopithecus_cephus</attr>
+        </taxon>
+        <taxon id="X61240|SE_notgiven|Homo_sapiens|no_sub|H2B|D205_ALT|len13592|noregion|GH|1986|">
+          <attr name="host">Homo_sapiens</attr>
+        </taxon>
+        <taxon id="AF188116|SE_id225998|Cercopithecus_lhoesti|no_sub|LST|SIVlhoest524|len8594|AFRSSA|DEMREPOFCONGO||1988|">
+          <attr name="host">Cercopithecus_lhoesti</attr>
+        </taxon>
+        <taxon id="KC693505|SE_notgiven|Homo_sapiens|no_sub|H2U|07IC_TNP3|len13592|noregion|CI|1907|">
+          <attr name="host">Homo_sapiens</attr>
+        </taxon>
+        <taxon id="FM165200|SE_id258501|Procolobus_verus|no_sub|OLC|97CI12|len8678|AFRSSA|COTEDIVOIRE|1997|FM165200|SE_id258501|Procolobus_verus|no_sub|OLC|97CI12|len8678|AFRSSA|COTEDIVOIRE|1997|">
+          <attr name="host">Procolobus_verus</attr>
+        </taxon>
+        <taxon id="KF214244|SE_id562173|Colobus_guereza|no_sub|COL|BWC02_BWC02|len1482|AFRSSA|UGANDA|2010|">
+          <attr name="host">Colobus_guereza</attr>
+        </taxon>
+        <taxon id="M29973|SE_id250619|Cercopithecus_aethiops_aethiops|sub_given|GRV|GRI_677_gri_1_677,M29973|SE_id250619|Cercopithecus_aethiops_aethiops|sub_given|GRV|GRI_677_gri_1_677,Grivedgr-1|len2438|AFRSSA|ETHIOPIA||">
+          <attr name="host">Cercopithecus_aethiops_aethiops</attr>
+        </taxon>
+        <taxon id="AF061642|SE_notgiven|Homo_sapiens|no_sub|H1G|SE6165_G6165|len13592|noregion|SE|1993|">
+          <attr name="host">Homo_sapiens</attr>
+        </taxon>
+        <taxon id="AF468659|SE_notgiven|Cercopithecus_nictitans|no_sub|GSN|CN166|len13592|noregion|CM|1999|">
+          <attr name="host">Cercopithecus_nictitans</attr>
+        </taxon>
+        <taxon id="AY655744|SE_id111181|Miopithecus_ogouensis|no_sub|TAL|266|len9338|AFRSSA|CAMEROON||2000|">
+          <attr name="host">Miopithecus_ogouensis</attr>
+        </taxon>
+        <taxon id="AJ580407|SE_id142064|Cercopithecus_mona|denti|DEN|CD1_CMO580407|len9679|AFRSSA|DEMREPOFCONGO|||">
+          <attr name="host">Cercopithecus_mona</attr>
+        </taxon>
+        <taxon id="KF214241|SE_id580652|Colobus_guereza|no_sub|COL|BWC07|len8733|AFRSSA|UGANDA||2010|">
+          <attr name="host">Colobus_guereza</attr>
+        </taxon>
+        <taxon id="U46016|SE_notgiven|Homo_sapiens|no_sub|H1C|ETH2220|len13592|noregion|ET|1986|">
+          <attr name="host">Homo_sapiens</attr>
+        </taxon>
+        <taxon id="JX860433|SE_id504432|Cercocebus_atys|atys|SMM|SIVsmSL92B_SIVsmSL92B|len7460|AFRSSA|SIERRALEONE|1992|">
+          <attr name="host">Cercocebus_atys</attr>
+        </taxon>
+        <taxon id="HE591405|SE_id476621|Cercocebus_torquatus|no_sub|RCM|SIVrcm_10Gab_OM57|len604|AFRSSA|GABON||2010|">
+          <attr name="host">Cercocebus_torquatus</attr>
+        </taxon>
+        <taxon id="JX178450|SE_notgiven|Pan_troglodytes_troglodytes|sub_given|CPZ|LB715|len13592|noregion|CM|1905|">
+          <attr name="host">Pan_troglodytes_troglodytes</attr>
+        </taxon>
+        <taxon id="AF075269|SE_notgiven|Cercopithecus_lhoesti|no_sub|LST|lho7|len13592|noregion|KE|19x|">
+          <attr name="host">Cercopithecus_lhoesti</attr>
+        </taxon>
+        <taxon id="DJ048189|SE_id52651|Cercopithecus_aethiops_pygerythrus|sub_given|VER|TYO1-patent|len982|AFRSSA|KENYA||">
+          <attr name="host">Cercopithecus_aethiops_pygerythrus</attr>
+        </taxon>
+        <taxon id="AF328295|SE_notgiven|Mandrillus_sphinx|no_sub|MND-2|M14|len13592|noregion|GA|19x|">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="L06042|SE_id224199|Cercopithecus_albogularis|no_sub|SYK|SYK173_COMGNM|len9597|AFRSSA|KENYA|||">
+          <attr name="host">Cercopithecus_albogularis</attr>
+        </taxon>
+        <taxon id="FM165202|SE_id258527|Procolobus_verus|no_sub|OLC|97CI12|len640|AFRSSA|COTEDIVOIRE|Tai_National_Park|1997|FM165202|SE_id258527|Procolobus_verus|no_sub|OLC|97CI12|len640|AFRSSA|COTEDIVOIRE|Tai_National_Park|1997|">
+          <attr name="host">Procolobus_verus</attr>
+        </taxon>
+        <taxon id="KF214240|SE_id580653|Colobus_guereza|no_sub|COL|BWC01_BWC01|len8688|AFRSSA|UGANDA|2010|">
+          <attr name="host">Colobus_guereza</attr>
+        </taxon>
+        <taxon id="AJ580407|SE_notgiven|Cercopithecus_mona|denti|DEN|CD1_CMO580407|len13592|noregion|CD|19x|">
+          <attr name="host">Cercopithecus_mona</attr>
+        </taxon>
+        <taxon id="AM713177|SE_id258503|Piliocolobus_badius|badius|WRC|98CI04_98CI04|len9461|AFRSSA|COTEDIVOIRE|1998|AM713177|SE_id258503|Piliocolobus_badius|badius|WRC|98CI04_98CI04|len9461|AFRSSA|COTEDIVOIRE|1998|">
+          <attr name="host">Piliocolobus_badius</attr>
+        </taxon>
+        <taxon id="AF082394|SE_notgiven|Homo_sapiens|no_sub|H1J|SE9280_7887|len13592|noregion|SE|1993|">
+          <attr name="host">Homo_sapiens</attr>
+        </taxon>
+        <taxon id="AY340701|SE_id170565|Cercopithecus_mona|no_sub|MON|L1_99CML1_SIVmon-99CMCML1|len9448|AFRSSA|CAMEROON|1999|">
+          <attr name="host">Cercopithecus_mona</attr>
+        </taxon>
+        <taxon id="FJ424863|SE_id269235|Gorilla_gorilla|gorilla|GOR|SIVgorCP2135con_SIVgorCP2135con|len9246|AFRSSA|CAMEROON|2007|">
+          <attr name="host">Gorilla_gorilla</attr>
+        </taxon>
+        <taxon id="M30502|SE_notgiven|Homo_sapiens|no_sub|H2A|BEN|len13592|noregion|DE|19x|">
+          <attr name="host">Homo_sapiens</attr>
+        </taxon>
+        <taxon id="M62320|SE_notgiven|Homo_sapiens|no_sub|H1A1|U455_U455A|len13592|noregion|UG|1985|">
+          <attr name="host">Homo_sapiens</attr>
+        </taxon>
+        <taxon id="FJ919724|SE_notgiven|Cercopithecus_neglectus|no_sub|DEB|SIVdeb04CMPF3061|len13592|noregion|CM|1904|">
+          <attr name="host">Cercopithecus_neglectus</attr>
+        </taxon>
+        <taxon id="FJ424871|SE_id269227|Gorilla_gorilla|gorilla|GOR|SIVgorCP684con_SIVgorCP684con|len9143|AFRSSA|CAMEROON|2004|">
+          <attr name="host">Gorilla_gorilla</attr>
+        </taxon>
+        <taxon id="JX860431|SE_notgiven|Cercocebus_atys|no_sub|SMM|SIVsmLIB1|len13592|noregion|LR|1989|">
+          <attr name="host">Cercocebus_atys</attr>
+        </taxon>
+        <taxon id="L06042|SE_notgiven|Cercopithecus_albogularis|no_sub|SYK|SYK173_COMGNM|len13592|noregion|KE|19x|">
+          <attr name="host">Cercopithecus_albogularis</attr>
+        </taxon>
+        <taxon id="DQ017383|SE_notgiven|Homo_sapiens|no_sub|H1N|04CM_1131_03|len13592|noregion|CM|1904|">
+          <attr name="host">Homo_sapiens</attr>
+        </taxon>
+        <taxon id="AB485668|SE_notgiven|Homo_sapiens|no_sub|H1O|I_2478B|len13592|noregion|US|19x|">
+          <attr name="host">Homo_sapiens</attr>
+        </taxon>
+        <taxon id="JX860430|SE_notgiven|Cercocebus_atys|no_sub|SMM|SIVsmCI2|len13592|noregion|CI|1979|">
+          <attr name="host">Cercocebus_atys</attr>
+        </taxon>
+        <taxon id="AF208027|SE_notgiven|Homo_sapiens|no_sub|H2G|Abt96|len13592|noregion|CI|1992|">
+          <attr name="host">Homo_sapiens</attr>
+        </taxon>
+        <taxon id="AY523865|SE_notgiven|Cercopithecus_neglectus|no_sub|DEB|CM40|len13592|noregion|CM|1999|">
+          <attr name="host">Cercopithecus_neglectus</attr>
+        </taxon>
+        <taxon id="FR751162|SE_id400958|Cercopithecus_solatus|no_sub|SUN|SIVsunK08_Gab_SIVsunK08_Gab|len9281|AFRSSA|GABON|2008|">
+          <attr name="host">Cercopithecus_solatus</attr>
+        </taxon>
+        <taxon id="AF382829|SE_notgiven|Cercopithecus_neglectus|no_sub|RCM|SIVRCMGAB1|len13592|noregion|GA|19x|">
+          <attr name="host">Cercopithecus_neglectus</attr>
+        </taxon>
+        <taxon id="EF070330|SE_id78645|Cercopithecus_cephus|no_sub|MUS-1|CM1239|len9508|AFRSSA|CAMEROON||2001|">
+          <attr name="host">Cercopithecus_cephus</attr>
+        </taxon>
+        <taxon id="JN091691|SE_notgiven|Pan_troglodytes_schweinfurthii|sub_given|CPZ|TAN5|len13592|noregion|TZ|1906|">
+          <attr name="host">Pan_troglodytes_schweinfurthii</attr>
+        </taxon>
+        <taxon id="KF214241|SE_notgiven|Colobus_guereza|no_sub|COL|BWC07|len13592|noregion|UG|1910|">
+          <attr name="host">Colobus_guereza</attr>
+        </taxon>
+        <taxon id="AY864795|SE_id153601|Cercocebus_atys|no_sub|SMM|SIVsm_SL93_080_SIVsm_SL93_080|len790|AFRSSA|SIERRALEONE||">
+          <attr name="host">Cercocebus_atys</attr>
+        </taxon>
+        <taxon id="AY340700|SE_id170566|Cercopithecus_cephus|no_sub|MUS-1|SIVmus_01CM1085|len9420|AFRSSA|CAMEROON||2001|">
+          <attr name="host">Cercopithecus_cephus</attr>
+        </taxon>
+        <taxon id="AY932818|SE_id130285|Cercocebus_atys|atys|SMM|CI_8_SIVsmCI8|len823|AFRSSA|COTEDIVOIRE||AY932818|SE_id130285|Cercocebus_atys|atys|SMM|CI_8_SIVsmCI8|len823|AFRSSA|COTEDIVOIRE||">
+          <attr name="host">Cercocebus_atys</attr>
+        </taxon>
+        <taxon id="KF214242|SE_id562175|Colobus_guereza|no_sub|COL|BWC04_BWC04|len1473|AFRSSA|UGANDA|2010|">
+          <attr name="host">Colobus_guereza</attr>
+        </taxon>
+        <taxon id="AY169968|SE_id155454|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVcpzCAM13_SIVcpzCAM13|len9284|AFRSSA|CAMEROON|2001|">
+          <attr name="host">Pan_troglodytes_troglodytes</attr>
+        </taxon>
+        <taxon id="L20571|SE_notgiven|Homo_sapiens|no_sub|H1O|MVP5180|len13592|noregion|CM|1991|">
+          <attr name="host">Homo_sapiens</attr>
+        </taxon>
+        <taxon id="AF103818|SE_notgiven|Pan_troglodytes_troglodytes|sub_given|CPZ|US_Marilyn|len13592|noregion|US|1985|">
+          <attr name="host">Pan_troglodytes_troglodytes</attr>
+        </taxon>
+        <taxon id="KC693498|SE_id575854|Cercocebus_atys|no_sub|SMM|sm753-gag_sm753-gag|len843|AFRSSA|COTEDIVOIRE|2006|KC693498|SE_id575854|Cercocebus_atys|no_sub|SMM|sm753-gag_sm753-gag|len843|AFRSSA|COTEDIVOIRE|2006|">
+          <attr name="host">Cercocebus_atys</attr>
+        </taxon>
+        <taxon id="L40990|SE_notgiven|Cercopithecus_aethiops_pygerythrus|no_sub|VER|9063|len13592|noregion|KE|19x|">
+          <attr name="host">Cercopithecus_aethiops_pygerythrus</attr>
+        </taxon>
+        <taxon id="JN091690|SE_notgiven|Pan_troglodytes_schweinfurthii|sub_given|CPZ|UG38|len13592|noregion|TZ|1909|">
+          <attr name="host">Pan_troglodytes_schweinfurthii</attr>
+        </taxon>
+        <taxon id="FR686510|SE_id380462|Pan_troglodytes_troglodytes|sub_given|CPZ|Ptt_04Cam155_Ptt-04Cam155|len9899|AFRSSA|CAMEROON|2004|">
+          <attr name="host">Pan_troglodytes_troglodytes</attr>
+        </taxon>
+        <taxon id="EF070329|SE_notgiven|Cercopithecus_cephus|no_sub|MUS-2|CM1246|len13592|noregion|CM|1901|">
+          <attr name="host">Cercopithecus_cephus</attr>
+        </taxon>
+        <taxon id="JQ866008|SE_id495598|Pan_troglodytes_schweinfurthii|sub_given|CPZ|UB597_UB597|len540|AFRSSA|DEMREPOFCONGO|2006|">
+          <attr name="host">Pan_troglodytes_schweinfurthii</attr>
+        </taxon>
+        <taxon id="FJ424871|SE_notgiven|Gorilla_gorilla|no_sub|GOR|SIVgorCP684con|len13592|noregion|CM|1904|">
+          <attr name="host">Gorilla_gorilla</attr>
+        </taxon>
+        <taxon id="AJ549283|SE_notgiven|Cercopithecus_mona|no_sub|MON|NG1|len13592|noregion|NG|19x|">
+          <attr name="host">Cercopithecus_mona</attr>
+        </taxon>
+        <taxon id="JN091692|SE_id415365|Pan_troglodytes_schweinfurthii|sub_given|CPZ|UG31_UG31|len5254|AFRSSA|TANZANIA|2009|">
+          <attr name="host">Pan_troglodytes_schweinfurthii</attr>
+        </taxon>
+        <taxon id="AJ549283|SE_id90753|Cercopithecus_mona|no_sub|MON|NG1|len8260|AFRSSA|NIGERIA|||">
+          <attr name="host">Cercopithecus_mona</attr>
+        </taxon>
+        <taxon id="AJ549283|SE_id90753|Cercopithecus_mona|no_sub|MON|NG1|len8260|AFRSSA|NIGERIA||">
+          <attr name="host">Cercopithecus_mona</attr>
+        </taxon>
+        <taxon id="LM999945|SE_id640058|Cercopithecus_tantalus|no_sub|TAN|SIVagmTAN-CM545-pol_SIVagmTAN-CM545-pol|len3111|AFRSSA|CAMEROON|2001|">
+          <attr name="host">Cercopithecus_tantalus</attr>
+        </taxon>
+        <taxon id="EF070333|SE_id79069|Cercopithecus_cephus|no_sub|MUS-2|SIVmus01CM2573_SIVmus01CM2573|len1964|AFRSSA|CAMEROON|2001|">
+          <attr name="host">Cercopithecus_cephus</attr>
+        </taxon>
+        <taxon id="AY138268|SE_id185099|Piliocolobus_badius|badius|WRC|SIVwrc_97IC_14_SIVwrc-97IC-14|len1972|AFRSSA|COTEDIVOIRE|1997|AY138268|SE_id185099|Piliocolobus_badius|badius|WRC|SIVwrc_97IC_14_SIVwrc-97IC-14|len1972|AFRSSA|COTEDIVOIRE|1997|">
+          <attr name="host">Piliocolobus_badius</attr>
+        </taxon>
+        <taxon id="AJ011017|SE_id149305|Mandrillus_leucophaeus|no_sub|DRL|SIVDRL_27|len787|AFRSSA|CAMEROON||">
+          <attr name="host">Mandrillus_leucophaeus</attr>
+        </taxon>
+        <taxon id="AM296489|SE_id90970|Gorilla_gorilla|gorilla|GOR|CP684_SIVgorCP684|len1537|AFRSSA|CAMEROON|2006|">
+          <attr name="host">Gorilla_gorilla</attr>
+        </taxon>
+        <taxon id="HE591403|SE_id476622|Cercocebus_torquatus|no_sub|RCM|SIVrcm_10Gab_OM32|len1973|AFRSSA|GABON||2010|">
+          <attr name="host">Cercocebus_torquatus</attr>
+        </taxon>
+        <taxon id="AY138269|SE_id185098|Procolobus_verus|no_sub|OLC|SIVolc_97IC_12|len1969|AFRSSA|COTEDIVOIRE|Tai_National_Park|1997|AY138269|SE_id185098|Procolobus_verus|no_sub|OLC|SIVolc_97IC_12|len1969|AFRSSA|COTEDIVOIRE|Tai_National_Park|1997|">
+          <attr name="host">Procolobus_verus</attr>
+        </taxon>
+        <taxon id="EF070332|SE_id79070|Cercopithecus_cephus|no_sub|MUS-2|SIVmus01CM2554_SIVmus01CM2554|len1982|AFRSSA|CAMEROON|2001|">
+          <attr name="host">Cercopithecus_cephus</attr>
+        </taxon>
+        <taxon id="HE591400|SE_id476633|Cercocebus_torquatus|no_sub|RCM|SIVrcm_10Gab_OM62|len1555|AFRSSA|GABON||2010|">
+          <attr name="host">Cercocebus_torquatus</attr>
+        </taxon>
+        <taxon id="AY655740|SE_id111185|Miopithecus_ogouensis|no_sub|TAL|1867|len2445|NorthAmerica|UNITEDSTATES|||">
+          <attr name="host">Miopithecus_ogouensis</attr>
+        </taxon>
+        <taxon id="AJ011017|SE_id149305|Mandrillus_leucophaeus|no_sub|DRL|SIVDRL|len787|AFRSSA|CAMEROON|||">
+          <attr name="host">Mandrillus_leucophaeus</attr>
+        </taxon>
+        <taxon id="AY138269|SE_id185098|Procolobus_verus|no_sub|OLC|SIVolc_97IC_12_SIVolc-97IC-12|len1969|AFRSSA|COTEDIVOIRE|1997|AY138269|SE_id185098|Procolobus_verus|no_sub|OLC|SIVolc_97IC_12_SIVolc-97IC-12|len1969|AFRSSA|COTEDIVOIRE|1997|">
+          <attr name="host">Procolobus_verus</attr>
+        </taxon>
+        <taxon id="KP004997|SE_id634575|Gorilla_gorilla|gorilla|GOR|SIVgor-BPID3_SIVgor-BPID3|len1593|AFRSSA|CAMEROON|2012|">
+          <attr name="host">Gorilla_gorilla</attr>
+        </taxon>
+        <taxon id="HE591401|SE_id476623|Cercocebus_torquatus|no_sub|RCM|SIVrcm_10Gab_OM67|len1954|AFRSSA|GABON||2010|">
+          <attr name="host">Cercocebus_torquatus</attr>
+        </taxon>
+        <taxon id="EF070333|SE_id79069|Cercopithecus_cephus|no_sub|MUS-2|SIVmus01CM2573|len1964|AFRSSA|CAMEROON||2001|">
+          <attr name="host">Cercopithecus_cephus</attr>
+        </taxon>
+        <taxon id="FJ919723|SE_id334175|Cercopithecus_neglectus|no_sub|DEB|SIVdeb04CMPF3074_SIVdeb04CMPF3074|len1736|AFRSSA|CAMEROON|2004|">
+          <attr name="host">Cercopithecus_neglectus</attr>
+        </taxon>
+        <taxon id="EF070332|SE_id79070|Cercopithecus_cephus|no_sub|MUS-2|SIVmus01CM2554|len1982|AFRSSA|CAMEROON||2001|">
+          <attr name="host">Cercopithecus_cephus</attr>
+        </taxon>
+        <taxon id="HE591402|SE_id476632|Cercocebus_torquatus|no_sub|RCM|SIVrcm_10Gab_OM71|len1976|AFRSSA|GABON||2010|">
+          <attr name="host">Cercocebus_torquatus</attr>
+        </taxon>
+        <taxon id="FJ919711|SE_id334187|Mandrillus_sphinx|no_sub|MND-2|SIVmnd00CM66_SIVmnd00CM66|len2248|AFRSSA|CAMEROON|2000|">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="FJ919717|SE_id334181|Colobus_guereza|no_sub|COL|SIVcol01CM2282_SIVcol01CM2282|len645|AFRSSA|CAMEROON|2001|">
+          <attr name="host">Colobus_guereza</attr>
+        </taxon>
+        <taxon id="AF478590|SE_id195798|Cercopithecus_nictitans|no_sub|GSN|SIVgsn_99CM_CN166|len522|AFRSSA|CAMEROON||1999|">
+          <attr name="host">Cercopithecus_nictitans</attr>
+        </taxon>
+        <taxon id="AM743109|SE_id51254|Piliocolobus_badius|badius|WRC|04CI_196_04CI-196|len719|AFRSSA|COTEDIVOIRE|2004|AM743109|SE_id51254|Piliocolobus_badius|badius|WRC|04CI_196_04CI-196|len719|AFRSSA|COTEDIVOIRE|2004|">
+          <attr name="host">Piliocolobus_badius</attr>
+        </taxon>
+        <taxon id="AF478601|SE_id195787|Cercopithecus_neglectus|no_sub|DEB|SIVdeb_99CM_CN40|len522|AFRSSA|CAMEROON|1999|">
+          <attr name="host">Cercopithecus_neglectus</attr>
+        </taxon>
+        <taxon id="AM296491|SE_id90968|Gorilla_gorilla|gorilla|GOR|CP1436_SIVgorCP1436|len892|AFRSSA|CAMEROON|2006|">
+          <attr name="host">Gorilla_gorilla</attr>
+        </taxon>
+        <taxon id="AY324652|SE_id169315|Cercopithecus_lhoesti|no_sub|LST|RW30|len598|AFRSSA|RWANDA||2002|">
+          <attr name="host">Cercopithecus_lhoesti</attr>
+        </taxon>
+        <taxon id="AF478607|SE_id195781|Colobus_guereza|no_sub|COL|SIVcol_00CM_243|len522|AFRSSA|CAMEROON|2000|">
+          <attr name="host">Colobus_guereza</attr>
+        </taxon>
+        <taxon id="JX462368|SE_id498009|Cercopithecus_aethiops_pygerythrus|sub_given|VER|VMT23437_VMT23437|len575|AFRSSA|SOUTHAFRICA|2010|">
+          <attr name="host">Cercopithecus_aethiops_pygerythrus</attr>
+        </taxon>
+        <taxon id="KJ467482|SE_id597776|Cercopithecus_aethiops_sabaeus|sub_given|SAB|VMT75397-ITC_Bijilo_VMT75397-ITC/Bijilo|len652|AFRSSA|GAMBIA|2011|">
+          <attr name="host">Cercopithecus_aethiops_sabaeus</attr>
+        </taxon>
+        <taxon id="JX462392|SE_id497997|Cercopithecus_aethiops_pygerythrus|sub_given|VER|VMT77884_VMT77884|len575|AFRSSA|SOUTHAFRICA|2010|">
+          <attr name="host">Cercopithecus_aethiops_pygerythrus</attr>
+        </taxon>
+        <taxon id="AF478608|SE_id195780|Colobus_guereza|no_sub|COL|SIVcol_99CM_11|len522|AFRSSA|CAMEROON|1999|">
+          <attr name="host">Colobus_guereza</attr>
+        </taxon>
+        <taxon id="AF478594|SE_id195794|Miopithecus_ogouensis|no_sub|TAL|SIVtal_00CM_271|len522|AFRSSA|CAMEROON|2000|">
+          <attr name="host">Miopithecus_ogouensis</attr>
+        </taxon>
+        <taxon id="AF478592|SE_id195796|Cercopithecus_cephus|no_sub|MUS-1|SIVmus_01CM_S1239|len522|AFRSSA|CAMEROON||2001|">
+          <attr name="host">Cercopithecus_cephus</attr>
+        </taxon>
+        <taxon id="JQ866010|SE_id495597|Pan_troglodytes_schweinfurthii|sub_given|CPZ|KA2222_KA2222|len892|AFRSSA|DEMREPOFCONGO|2007|">
+          <attr name="host">Pan_troglodytes_schweinfurthii</attr>
+        </taxon>
+        <taxon id="DQ370413|SE_id107453|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVcpzMB23_SIVcpzMB23|len889|AFRSSA|CAMEROON|2005|">
+          <attr name="host">Pan_troglodytes_troglodytes</attr>
+        </taxon>
+        <taxon id="HQ906839|SE_id462569|Mandrillus_sphinx|no_sub|MND-1|Mnd_BikoMd_Mnd-BikoMd|len613|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="FJ895398|SE_id297861|Pan_troglodytes_schweinfurthii|sub_given|CPZ|SIVcpzTAN10_Ch-036_SIVcpzTAN10|len889|AFRSSA|TANZANIA|2006|">
+          <attr name="host">Pan_troglodytes_schweinfurthii</attr>
+        </taxon>
+        <taxon id="HQ906847|SE_id462565|Cercocebus_torquatus|no_sub|RCM|RCM_Modiboti|len625|AFRSSA|GABON|||">
+          <attr name="host">Cercocebus_torquatus</attr>
+        </taxon>
+        <taxon id="JX462330|SE_id498028|Cercopithecus_aethiops_pygerythrus|sub_given|VER|VMT16759_VMT16759|len575|AFRSSA|SOUTHAFRICA|2010|">
+          <attr name="host">Cercopithecus_aethiops_pygerythrus</attr>
+        </taxon>
+        <taxon id="AM696217|SE_id54517|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVcpzDP943_SIVcpzDP943|len888|AFRSSA|CAMEROON|2005|">
+          <attr name="host">Pan_troglodytes_troglodytes</attr>
+        </taxon>
+        <taxon id="FJ919716|SE_id334182|Colobus_guereza|no_sub|COL|SIVcol02CM4371_SIVcol02CM4371|len631|AFRSSA|CAMEROON|2002|">
+          <attr name="host">Colobus_guereza</attr>
+        </taxon>
+        <taxon id="FJ919715|SE_id334183|Cercopithecus_nictitans||GSN|SIVgsn99CM42|len615|AFRSSA|CAMEROON||1999|">
+          <attr name="host">Cercopithecus_nictitans</attr>
+        </taxon>
+        <taxon id="AF478592|SE_id195796|Cercopithecus_cephus|no_sub|MUS-1|SIVmus_01CM_S1239|len522|AFRSSA|CAMEROON|2001|">
+          <attr name="host">Cercopithecus_cephus</attr>
+        </taxon>
+        <taxon id="AF478596|SE_id195792|Mandrillus_sphinx|no_sub|MND-2|SIVmnd2_99CM_54|len522|AFRSSA|CAMEROON|1999|">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="AF478591|SE_id195797|Cercopithecus_mona|no_sub|MON|SIVmon_99CM_CML1|len522|AFRSSA|CAMEROON||1999|">
+          <attr name="host">Cercopithecus_mona</attr>
+        </taxon>
+        <taxon id="AY324652|SE_id169315|Cercopithecus_lhoesti|no_sub|LST|RW30|len598|AFRSSA|RWANDA|2002|">
+          <attr name="host">Cercopithecus_lhoesti</attr>
+        </taxon>
+        <taxon id="DQ370405|SE_id107461|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVcpzDP25_SIVcpzDP25|len889|AFRSSA|CAMEROON|2005|">
+          <attr name="host">Pan_troglodytes_troglodytes</attr>
+        </taxon>
+        <taxon id="AF301155|SE_id216098|Colobus_guereza|no_sub|COL|COL1216_SIVcol216|len643|AFRSSA|CAMEROON||">
+          <attr name="host">Colobus_guereza</attr>
+        </taxon>
+        <taxon id="AF301154|SE_id216099|Colobus_guereza|no_sub|COL|COL163_SIVcol163|len643|AFRSSA|CAMEROON||">
+          <attr name="host">Colobus_guereza</attr>
+        </taxon>
+        <taxon id="AM296488|SE_id90971|Gorilla_gorilla|gorilla|GOR|BQ664_SIVgorBQ664|len892|AFRSSA|CAMEROON|2006|">
+          <attr name="host">Gorilla_gorilla</attr>
+        </taxon>
+        <taxon id="AF301607|SE_id201121|Mandrillus_sphinx|no_sub|MND-2|CM16_98CM16|len717|AFRSSA|CAMEROON|1998|">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="KJ467453|SE_id597805|Cercopithecus_aethiops_sabaeus|sub_given|SAB|VMT74152-Abuko_VMT74152-Abuko|len652|AFRSSA|GAMBIA|2011|">
+          <attr name="host">Cercopithecus_aethiops_sabaeus</attr>
+        </taxon>
+        <taxon id="AF478602|SE_id195786|Cercopithecus_neglectus|no_sub|DEB|SIVdeb_01CM_S1014|len522|AFRSSA|CAMEROON|2001|">
+          <attr name="host">Cercopithecus_neglectus</attr>
+        </taxon>
+        <taxon id="GU989632|SE_id354398|Cercopithecus_neglectus|no_sub|DEB|SIVdeb09DRCPS8_SIVdeb09DRCPS8|len633|AFRSSA|DEMREPOFCONGO|2009|">
+          <attr name="host">Cercopithecus_neglectus</attr>
+        </taxon>
+        <taxon id="AF301611|SE_id201117|Mandrillus_sphinx|no_sub|MND-2|99CM35_99CM35|len717|AFRSSA|CAMEROON|1999|">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="JX462323|SE_id498957|Cercopithecus_aethiops_pygerythrus|sub_given|VER|VMT16219_VMT16219|len575|AFRSSA|SOUTHAFRICA|2010|">
+          <attr name="host">Cercopithecus_aethiops_pygerythrus</attr>
+        </taxon>
+        <taxon id="AY138266|SE_id185101|Piliocolobus_badius|badius|WRC|SIVwrc_98IC_04_SIVwrc-98IC-04|len655|AFRSSA|COTEDIVOIRE|1998|AY138266|SE_id185101|Piliocolobus_badius|badius|WRC|SIVwrc_98IC_04_SIVwrc-98IC-04|len655|AFRSSA|COTEDIVOIRE|1998|">
+          <attr name="host">Piliocolobus_badius</attr>
+        </taxon>
+        <taxon id="FJ919718|SE_id334180|Colobus_guereza|no_sub|COL|SIVcol01CM1437_SIVcol01CM1437|len629|AFRSSA|CAMEROON|2001|">
+          <attr name="host">Colobus_guereza</attr>
+        </taxon>
+        <taxon id="AY138265|SE_id185102|Piliocolobus_badius|badius|WRC|SIVwrc_96IC_M001_SIVwrc-96IC-M001|len640|AFRSSA|COTEDIVOIRE|1996|AY138265|SE_id185102|Piliocolobus_badius|badius|WRC|SIVwrc_96IC_M001_SIVwrc-96IC-M001|len640|AFRSSA|COTEDIVOIRE|1996|">
+          <attr name="host">Piliocolobus_badius</attr>
+        </taxon>
+        <taxon id="AY138267|SE_id185100|Piliocolobus_badius|badius|WRC|SIVwrc_00IC_04_SIVwrc-00IC-04|len655|AFRSSA|COTEDIVOIRE|2000|AY138267|SE_id185100|Piliocolobus_badius|badius|WRC|SIVwrc_00IC_04_SIVwrc-00IC-04|len655|AFRSSA|COTEDIVOIRE|2000|">
+          <attr name="host">Piliocolobus_badius</attr>
+        </taxon>
+        <taxon id="FJ919707|SE_id334191|Cercocebus_torquatus|torquatus|RCM|SIVrcm01CM8001|len583|AFRSSA|CAMEROON||2001|">
+          <attr name="host">Cercocebus_torquatus</attr>
+        </taxon>
+        <taxon id="JX462364|SE_id498011|Cercopithecus_aethiops_pygerythrus|sub_given|VER|VMT23293_VMT23293|len575|AFRSSA|SOUTHAFRICA|2010|">
+          <attr name="host">Cercopithecus_aethiops_pygerythrus</attr>
+        </taxon>
+        <taxon id="JX462357|SE_id498940|Cercopithecus_aethiops_pygerythrus|sub_given|VER|VMT19765_VMT19765|len575|AFRSSA|SOUTHAFRICA|2010|">
+          <attr name="host">Cercopithecus_aethiops_pygerythrus</attr>
+        </taxon>
+        <taxon id="GU989632|SE_id354398|Cercopithecus_neglectus|no_sub|DEB|SIVdeb09DRCPS8|len633|AFRSSA|DEMREPOFCONGO||2009|">
+          <attr name="host">Cercopithecus_neglectus</attr>
+        </taxon>
+        <taxon id="FJ895393|SE_id297866|Pan_troglodytes_schweinfurthii|sub_given|CPZ|SIVcpzTAN13_Ch-080_SIVcpzTAN13|len880|AFRSSA|TANZANIA|2006|">
+          <attr name="host">Pan_troglodytes_schweinfurthii</attr>
+        </taxon>
+        <taxon id="AF478590|SE_id195798|Cercopithecus_nictitans|no_sub|GSN|SIVgsn_99CM_CN166|len522|AFRSSA|CAMEROON|1999|">
+          <attr name="host">Cercopithecus_nictitans</attr>
+        </taxon>
+        <taxon id="AF478606|SE_id195782|Colobus_guereza|no_sub|COL|SIVcol_00CM_247|len522|AFRSSA|CAMEROON|2001|">
+          <attr name="host">Colobus_guereza</attr>
+        </taxon>
+        <taxon id="AF478589|SE_id195799|Cercopithecus_nictitans|no_sub|GSN|SIVgsn_99CM_CN7|len522|AFRSSA|CAMEROON|1999|">
+          <attr name="host">Cercopithecus_nictitans</attr>
+        </taxon>
+        <taxon id="AF478589|SE_id195799|Cercopithecus_nictitans||GSN|SIVgsn_99CM_CN7|len522|AFRSSA|CAMEROON||1999|">
+          <attr name="host">Cercopithecus_nictitans</attr>
+        </taxon>
+        <taxon id="JN054704|SE_id415371|Pan_troglodytes_schweinfurthii|sub_given|CPZ|PA76_PA76|len892|AFRSSA|DEMREPOFCONGO|2003|">
+          <attr name="host">Pan_troglodytes_schweinfurthii</attr>
+        </taxon>
+        <taxon id="AF478594|SE_id195794|Miopithecus_ogouensis||TAL|SIVtal_00CM_271|len522|AFRSSA|CAMEROON||2000|">
+          <attr name="host">Miopithecus_ogouensis</attr>
+        </taxon>
+        <taxon id="AF328283|SE_id208241|Mandrillus_sphinx|no_sub|MND-1|SIVMNDLOP6|len588|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="AF478595|SE_id195793|Miopithecus_ogouensis|no_sub|TAL|SIVtal_00CM_266|len522|AFRSSA|CAMEROON||2000|">
+          <attr name="host">Miopithecus_ogouensis</attr>
+        </taxon>
+        <taxon id="KJ467468|SE_id597790|Cercopithecus_aethiops_sabaeus|sub_given|SAB|VMT74797-ITC_Bijilo_VMT74797-ITC/Bijilo|len652|AFRSSA|GAMBIA|2011|">
+          <attr name="host">Cercopithecus_aethiops_sabaeus</attr>
+        </taxon>
+        <taxon id="FR751163|SE_id406160|Cercopithecus_solatus||SUN|SIVsunME_Gab07|len648|AFRSSA|GABON||2007|">
+          <attr name="host">Cercopithecus_solatus</attr>
+        </taxon>
+        <taxon id="AF478606|SE_id195782|Colobus_guereza|no_sub|COL|SIVcol_00CM_247|len522|AFRSSA|CAMEROON||2001|">
+          <attr name="host">Colobus_guereza</attr>
+        </taxon>
+        <taxon id="AF478593|SE_id195795|Cercopithecus_cephus|no_sub|MUS-1|SIVmus_01CM_S1085|len522|AFRSSA|CAMEROON|2001|">
+          <attr name="host">Cercopithecus_cephus</attr>
+        </taxon>
+        <taxon id="AF301610|SE_id201118|Mandrillus_sphinx|no_sub|MND-2|99CM33_99CM33|len717|AFRSSA|CAMEROON|1999|">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="AY523864|SE_id162358|Cercopithecus_albogularis|no_sub|SYK|CM195|len649|NorthAmerica|UNITEDSTATES|||">
+          <attr name="host">Cercopithecus_albogularis</attr>
+        </taxon>
+        <taxon id="FJ919712|SE_id334186|Mandrillus_sphinx|no_sub|MND-2|SIVmnd02CM8147_SIVmnd02CM8147|len616|AFRSSA|CAMEROON|2002|">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="AM743117|SE_id51246|Piliocolobus_badius|badius|WRC|04CI_237_04CI-237|len725|AFRSSA|COTEDIVOIRE|2004|AM743117|SE_id51246|Piliocolobus_badius|badius|WRC|04CI_237_04CI-237|len725|AFRSSA|COTEDIVOIRE|2004|">
+          <attr name="host">Piliocolobus_badius</attr>
+        </taxon>
+        <taxon id="DQ370415|SE_id107451|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVpczMB192_SIVpczMB192|len889|AFRSSA|CAMEROON|2005|">
+          <attr name="host">Pan_troglodytes_troglodytes</attr>
+        </taxon>
+        <taxon id="AM696212|SE_id54522|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVcpzMB750_SIVcpzMB750|len879|AFRSSA|CAMEROON|2005|">
+          <attr name="host">Pan_troglodytes_troglodytes</attr>
+        </taxon>
+        <taxon id="AM113576|SE_id101371|Mandrillus_sphinx|no_sub|MND-1|MS23_MS23|len778|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="AJ972422|SE_id112293|Cercopithecus_solatus||SUN|sol_36|len810|AFRSSA|GABON|Africa|2001|">
+          <attr name="host">Cercopithecus_solatus</attr>
+        </taxon>
+        <taxon id="AJ972422|SE_id112293|Cercopithecus_solatus|no_sub|SUN|sol_36_sol-36|len810|AFRSSA|GABON|2001|">
+          <attr name="host">Cercopithecus_solatus</attr>
+        </taxon>
+        <taxon id="AF478597|SE_id195791|Mandrillus_sphinx|no_sub|MND-2|SIVmnd2_01CM_S109|len522|AFRSSA|CAMEROON|2001|">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="HQ906846|SE_id462517|Mandrillus_sphinx|no_sub|MND-1|Mnd_OtalaMd_Mnd-OtalaMd|len616|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="AM743112|SE_id51251|Piliocolobus_badius|badius|WRC|04CI_110_04CI-110|len660|AFRSSA|COTEDIVOIRE|2004|AM743112|SE_id51251|Piliocolobus_badius|badius|WRC|04CI_110_04CI-110|len660|AFRSSA|COTEDIVOIRE|2004|">
+          <attr name="host">Piliocolobus_badius</attr>
+        </taxon>
+        <taxon id="JX462314|SE_id498036|Cercopithecus_aethiops_pygerythrus|sub_given|VER|VMT14329_VMT14329|len575|AFRSSA|SOUTHAFRICA|2010|">
+          <attr name="host">Cercopithecus_aethiops_pygerythrus</attr>
+        </taxon>
+        <taxon id="AY655741|SE_id111184|Miopithecus_ogouensis|no_sub|TAL|416|len600|NorthAmerica|UNITEDSTATES|||">
+          <attr name="host">Miopithecus_ogouensis</attr>
+        </taxon>
+        <taxon id="FR751164|SE_id406159|Cercopithecus_solatus|no_sub|SUN|SIVsunMO_Gab07_SIVsunMO-Gab07|len637|AFRSSA|GABON|2007|">
+          <attr name="host">Cercopithecus_solatus</attr>
+        </taxon>
+        <taxon id="AF478603|SE_id195785|Cercopithecus_neglectus|no_sub|DEB|SIVdeb_99CM_CNE5|len522|AFRSSA|CAMEROON||1999|">
+          <attr name="host">Cercopithecus_neglectus</attr>
+        </taxon>
+        <taxon id="AM743116|SE_id51247|Piliocolobus_badius|badius|WRC|04CI_52_04CI-52|len680|AFRSSA|COTEDIVOIRE|2004|AM743116|SE_id51247|Piliocolobus_badius|badius|WRC|04CI_52_04CI-52|len680|AFRSSA|COTEDIVOIRE|2004|">
+          <attr name="host">Piliocolobus_badius</attr>
+        </taxon>
+        <taxon id="HQ906845|SE_id462566|Mandrillus_sphinx|no_sub|MND-1|Mnd_Alpha_Mnd-Alpha|len584|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="AF328282|SE_id208242|Mandrillus_sphinx|no_sub|MND-1|SIVMNDLOP4|len592|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="JX462324|SE_id498031|Cercopithecus_aethiops_pygerythrus|sub_given|VER|VMT16255_VMT16255|len575|AFRSSA|SOUTHAFRICA|2010|">
+          <attr name="host">Cercopithecus_aethiops_pygerythrus</attr>
+        </taxon>
+        <taxon id="AF478603|SE_id195785|Cercopithecus_neglectus|no_sub|DEB|SIVdeb_99CM_CNE5|len522|AFRSSA|CAMEROON|1999|">
+          <attr name="host">Cercopithecus_neglectus</attr>
+        </taxon>
+        <taxon id="AF478595|SE_id195793|Miopithecus_ogouensis|no_sub|TAL|SIVtal_00CM_266|len522|AFRSSA|CAMEROON|2000|">
+          <attr name="host">Miopithecus_ogouensis</attr>
+        </taxon>
+        <taxon id="KJ467466|SE_id597792|Cercopithecus_aethiops_sabaeus|sub_given|SAB|VMT74692-ITC_Bijilo_VMT74692-ITC/Bijilo|len652|AFRSSA|GAMBIA|2011|">
+          <attr name="host">Cercopithecus_aethiops_sabaeus</attr>
+        </taxon>
+        <taxon id="DQ370407|SE_id107459|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVcpzEK505_SIVcpzEK505|len889|AFRSSA|CAMEROON|2005|">
+          <attr name="host">Pan_troglodytes_troglodytes</attr>
+        </taxon>
+        <taxon id="AY523862|SE_id162360|Cercopithecus_albogularis|no_sub|SYK|KE20|len649|AFRSSA|KENYA|||">
+          <attr name="host">Cercopithecus_albogularis</attr>
+        </taxon>
+        <taxon id="FJ919721|SE_id334177|Cercopithecus_neglectus|no_sub|DEB|SIVdeb01CM1368_SIVdeb01CM1368|len506|AFRSSA|CAMEROON|2001|">
+          <attr name="host">Cercopithecus_neglectus</attr>
+        </taxon>
+        <taxon id="FJ919722|SE_id334176|Cercopithecus_neglectus|no_sub|DEB|SIVdeb01CM3418_SIVdeb01CM3418|len594|AFRSSA|CAMEROON|2001|">
+          <attr name="host">Cercopithecus_neglectus</attr>
+        </taxon>
+        <taxon id="JX462374|SE_id498006|Cercopithecus_aethiops_pygerythrus|sub_given|VER|VMT31806_VMT31806|len575|AFRSSA|SOUTHAFRICA|2010|">
+          <attr name="host">Cercopithecus_aethiops_pygerythrus</attr>
+        </taxon>
+        <taxon id="AJ549756|SE_id148014|Cercopithecus_neglectus|no_sub|DEB|DEBNG1|len600|AFRSSA|NIGERIA||">
+          <attr name="host">Cercopithecus_neglectus</attr>
+        </taxon>
+        <taxon id="FR751163|SE_id406160|Cercopithecus_solatus|no_sub|SUN|SIVsunME_Gab07_SIVsunME-Gab07|len648|AFRSSA|GABON|2007|">
+          <attr name="host">Cercopithecus_solatus</attr>
+        </taxon>
+        <taxon id="AF478593|SE_id195795|Cercopithecus_cephus|no_sub|MUS-1|SIVmus_01CM_S1085|len522|AFRSSA|CAMEROON||2001|">
+          <attr name="host">Cercopithecus_cephus</attr>
+        </taxon>
+        <taxon id="AF478588|SE_id195800|Cercopithecus_nictitans|no_sub|GSN|SIVgsn_99CM_CN71|len522|AFRSSA|CAMEROON|1999|">
+          <attr name="host">Cercopithecus_nictitans</attr>
+        </taxon>
+        <taxon id="FJ919708|SE_id334190|Cercocebus_torquatus|torquatus|RCM|SIVrcm02CM8294|len552|AFRSSA|CAMEROON||2002|">
+          <attr name="host">Cercocebus_torquatus</attr>
+        </taxon>
+        <taxon id="AF301609|SE_id201119|Mandrillus_sphinx|no_sub|MND-2|99CM32_99CM32|len717|AFRSSA|CAMEROON|1999|">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="FJ895403|SE_id297856|Pan_troglodytes_schweinfurthii|sub_given|CPZ|SIVcpzTAN8_Ch-039_SIVcpzTAN8|len889|AFRSSA|TANZANIA|2006|">
+          <attr name="host">Pan_troglodytes_schweinfurthii</attr>
+        </taxon>
+        <taxon id="KJ467495|SE_id597763|Cercopithecus_aethiops_sabaeus|sub_given|SAB|VMT76297-Janjanbureh_VMT76297-Janjanbureh|len652|AFRSSA|GAMBIA|2011|">
+          <attr name="host">Cercopithecus_aethiops_sabaeus</attr>
+        </taxon>
+        <taxon id="AF478604|SE_id195784|Cercopithecus_neglectus|no_sub|DEB|SIVdeb_01CM_1161|len522|AFRSSA|CAMEROON|2001|">
+          <attr name="host">Cercopithecus_neglectus</attr>
+        </taxon>
+        <taxon id="DQ370412|SE_id107454|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVcpzMB66_SIVcpzMB66|len889|AFRSSA|CAMEROON|2005|">
+          <attr name="host">Pan_troglodytes_troglodytes</attr>
+        </taxon>
+        <taxon id="KJ467487|SE_id597771|Cercopithecus_aethiops_sabaeus|sub_given|SAB|VMT75592-Abuko_VMT75592-Abuko|len652|AFRSSA|GAMBIA|2011|">
+          <attr name="host">Cercopithecus_aethiops_sabaeus</attr>
+        </taxon>
+        <taxon id="DQ370395|SE_id107471|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVcpzMT115_SIVcpzMT115|len889|AFRSSA|CAMEROON|2005|">
+          <attr name="host">Pan_troglodytes_troglodytes</attr>
+        </taxon>
+        <taxon id="AF478601|SE_id195787|Cercopithecus_neglectus|no_sub|DEB|SIVdeb_99CM_CN40|len522|AFRSSA|CAMEROON||1999|">
+          <attr name="host">Cercopithecus_neglectus</attr>
+        </taxon>
+        <taxon id="AF301608|SE_id201120|Mandrillus_sphinx|no_sub|MND-2|99CM31_99CM31|len717|AFRSSA|CAMEROON|1999|">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="FJ919706|SE_id334192|Cercocebus_torquatus|torquatus|RCM|SIVrcm02CM8081|len582|AFRSSA|CAMEROON||2002|">
+          <attr name="host">Cercocebus_torquatus</attr>
+        </taxon>
+        <taxon id="AM113577|SE_id101370|Mandrillus_sphinx|no_sub|MND-1|MS25_MS25|len781|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="AY655742|SE_id111183|Miopithecus_ogouensis|no_sub|TAL|1511|len599|NorthAmerica|UNITEDSTATES|||">
+          <attr name="host">Miopithecus_ogouensis</attr>
+        </taxon>
+        <taxon id="JX462343|SE_id498947|Cercopithecus_aethiops_pygerythrus|sub_given|VER|VMT19909_VMT19909|len575|AFRSSA|SOUTHAFRICA|2010|">
+          <attr name="host">Cercopithecus_aethiops_pygerythrus</attr>
+        </taxon>
+        <taxon id="AY655743|SE_id111182|Miopithecus_ogouensis|no_sub|TAL|742|len631|NorthAmerica|UNITEDSTATES|||">
+          <attr name="host">Miopithecus_ogouensis</attr>
+        </taxon>
+        <taxon id="AF478598|SE_id195790|Mandrillus_sphinx|no_sub|MND-2|SIVmnd2_00CM_S46|len522|AFRSSA|CAMEROON|2000|">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="AF478591|SE_id195797|Cercopithecus_mona|no_sub|MON|SIVmon_99CM_CML1|len522|AFRSSA|CAMEROON|1999|">
+          <attr name="host">Cercopithecus_mona</attr>
+        </taxon>
+        <taxon id="HQ906841|SE_id462568|Mandrillus_sphinx|no_sub|MND-2|Mnd_OI1454_Mnd-OI1454|len625|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="AM696210|SE_id54524|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVcpzLB714_SIVcpzLB714|len888|AFRSSA|CAMEROON|2005|">
+          <attr name="host">Pan_troglodytes_troglodytes</attr>
+        </taxon>
+        <taxon id="AM696216|SE_id54518|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVcpzMB897_SIVcpzMB897|len888|AFRSSA|CAMEROON|2005|">
+          <attr name="host">Pan_troglodytes_troglodytes</attr>
+        </taxon>
+        <taxon id="AF478600|SE_id195788|Cercopithecus_neglectus|no_sub|DEB|SIVdeb_01CM_1083|len522|AFRSSA|CAMEROON|2001|">
+          <attr name="host">Cercopithecus_neglectus</attr>
+        </taxon>
+        <taxon id="FJ919714|SE_id334184|Cercopithecus_nictitans|no_sub|GSN|SIVgsn99CM28_SIVgsn99CM28|len565|AFRSSA|CAMEROON|1999|">
+          <attr name="host">Cercopithecus_nictitans</attr>
+        </taxon>
+        <taxon id="FJ919709|SE_id334189|Mandrillus_sphinx|no_sub|MND-2|SIVmnd02CM8207_SIVmnd02CM8207|len547|AFRSSA|CAMEROON|2002|">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="HQ906838|SE_id462521|Mandrillus_sphinx|no_sub|MND-2|Mnd_Kouki_Mnd-Kouki|len625|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="KJ467475|SE_id597783|Cercopithecus_aethiops_sabaeus|sub_given|SAB|VMT75142-ITC_Bijilo_VMT75142-ITC/Bijilo|len652|AFRSSA|GAMBIA|2011|">
+          <attr name="host">Cercopithecus_aethiops_sabaeus</attr>
+        </taxon>
+        <taxon id="JX462380|SE_id498003|Cercopithecus_aethiops_pygerythrus|sub_given|VER|VMT34470_VMT34470|len575|AFRSSA|SOUTHAFRICA|2010|">
+          <attr name="host">Cercopithecus_aethiops_pygerythrus</attr>
+        </taxon>
+        <taxon id="FR751164|SE_id406159|Cercopithecus_solatus|no_sub|SUN|SIVsunMO_Gab07|len637|AFRSSA|GABON||2007|">
+          <attr name="host">Cercopithecus_solatus</attr>
+        </taxon>
+        <taxon id="AM743111|SE_id51252|Piliocolobus_badius|badius|WRC|04CI_299_04CI-299|len661|AFRSSA|COTEDIVOIRE|2004|AM743111|SE_id51252|Piliocolobus_badius|badius|WRC|04CI_299_04CI-299|len661|AFRSSA|COTEDIVOIRE|2004|">
+          <attr name="host">Piliocolobus_badius</attr>
+        </taxon>
+        <taxon id="JX462346|SE_id498020|Cercopithecus_aethiops_pygerythrus|sub_given|VER|VMT18793_VMT18793|len575|AFRSSA|SOUTHAFRICA|2010|">
+          <attr name="host">Cercopithecus_aethiops_pygerythrus</attr>
+        </taxon>
+        <taxon id="AY523863|SE_id162359|Cercopithecus_albogularis|no_sub|SYK|KE13|len612|AFRSSA|KENYA|||">
+          <attr name="host">Cercopithecus_albogularis</attr>
+        </taxon>
+        <taxon id="AF478605|SE_id195783|Cercopithecus_neglectus|no_sub|DEB|SIVdeb_99CM_CNE1|len522|AFRSSA|CAMEROON|1999|">
+          <attr name="host">Cercopithecus_neglectus</attr>
+        </taxon>
+        <taxon id="AY523862|SE_id162360|Cercopithecus_albogularis|no_sub|SYK|KE20_KE20|len649|AFRSSA|KENYA||">
+          <attr name="host">Cercopithecus_albogularis</attr>
+        </taxon>
+        <taxon id="FJ919714|SE_id334184|Cercopithecus_nictitans||GSN|SIVgsn99CM28|len565|AFRSSA|CAMEROON||1999|">
+          <attr name="host">Cercopithecus_nictitans</attr>
+        </taxon>
+        <taxon id="AM113579|SE_id101368|Mandrillus_sphinx|no_sub|MND-1|MS30_MS30|len790|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="FJ919715|SE_id334183|Cercopithecus_nictitans|no_sub|GSN|SIVgsn99CM42_SIVgsn99CM42|len615|AFRSSA|CAMEROON|1999|">
+          <attr name="host">Cercopithecus_nictitans</attr>
+        </taxon>
+        <taxon id="AF478588|SE_id195800|Cercopithecus_nictitans|no_sub|GSN|SIVgsn_99CM_CN71|len522|AFRSSA|CAMEROON||1999|">
+          <attr name="host">Cercopithecus_nictitans</attr>
+        </taxon>
+        <taxon id="GU992204|SE_id374505|Pan_troglodytes_schweinfurthii|sub_given|CPZ|SIVcpzTAN7_SIVcpzTAN7|len672|AFRSSA|TANZANIA|2002|">
+          <attr name="host">Pan_troglodytes_schweinfurthii</attr>
+        </taxon>
+        <taxon id="AY523863|SE_id162359|Cercopithecus_albogularis|no_sub|SYK|KE13_KE13|len612|AFRSSA|KENYA||">
+          <attr name="host">Cercopithecus_albogularis</attr>
+        </taxon>
+        <taxon id="AF478599|SE_id195789|Mandrillus_sphinx|no_sub|MND-2|SIVmnd2_00CM_S6|len522|AFRSSA|CAMEROON|2000|">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="AY336734|SE_id158334|Cercocebus_torquatus|torquatus|RCM|GB1C3|len651|AFRSSA|GABON|||">
+          <attr name="host">Cercocebus_torquatus</attr>
+        </taxon>
+        <taxon id="AY336737|SE_id158331|Cercocebus_atys|no_sub|SMM|085C1_SIVsm085c1|len642|AFRSSA|SIERRALEONE||">
+          <attr name="host">Cercocebus_atys</attr>
+        </taxon>
+        <taxon id="FJ424867|SE_id269231|Gorilla_gorilla|gorilla|GOR|SIVgorBQ664_SIVgorBQ664|len963|AFRSSA|CAMEROON|2004|">
+          <attr name="host">Gorilla_gorilla</attr>
+        </taxon>
+        <taxon id="LM999946|SE_id640057|Cercopithecus_tantalus|no_sub|TAN|SIVagmTAN-CM545-vif_SIVagmTAN-CM545-vif|len708|AFRSSA|CAMEROON|2001|">
+          <attr name="host">Cercopithecus_tantalus</attr>
+        </taxon>
+        <taxon id="AY336735|SE_id158333|Cercocebus_torquatus|torquatus|RCM|NG411|len669|AFRSSA|NIGERIA|||">
+          <attr name="host">Cercocebus_torquatus</attr>
+        </taxon>
+        <taxon id="AY336736|SE_id158332|Cercocebus_atys|no_sub|SMM|079C1_SIVsm079c1|len642|AFRSSA|SIERRALEONE||">
+          <attr name="host">Cercocebus_atys</attr>
+        </taxon>
+        <taxon id="AY336733|SE_id158335|Cercocebus_torquatus|torquatus|RCM|GB1C1|len651|AFRSSA|GABON|||">
+          <attr name="host">Cercocebus_torquatus</attr>
+        </taxon>
+        <taxon id="AY336738|SE_id158330|Cercocebus_atys|no_sub|SMM|089C2_SIVsm089c2|len642|AFRSSA|SIERRALEONE||">
+          <attr name="host">Cercocebus_atys</attr>
+        </taxon>
+        <taxon id="AY336739|SE_id158329|Cercopithecus_neglectus|no_sub|DEB|CNE5_SIVdebCNE5|len693|AFRSSA|CAMEROON||">
+          <attr name="host">Cercopithecus_neglectus</attr>
+        </taxon>
+        <taxon id="M62883|SE_id266824|Mandrillus_sphinx|no_sub|MND-1|MND121_REEA01|len710|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="FR686526|SE_id380446|Pan_troglodytes_troglodytes|sub_given|CPZ|Ptt_09Cam155_Ptt-09Cam155|len1016|AFRSSA|CAMEROON|2009|">
+          <attr name="host">Pan_troglodytes_troglodytes</attr>
+        </taxon>
+        <taxon id="U84101|SE_id225529|Pan_troglodytes_schweinfurthii|sub_given|CPZ|ANT8|len2607|AFRSSA|DEMREPOFCONGO|1990|">
+          <attr name="host">Pan_troglodytes_schweinfurthii</attr>
+        </taxon>
+        <taxon id="JQ866044|SE_id495617|Pan_troglodytes_schweinfurthii|sub_given|CPZ|LU2020_LU2020|len520|AFRSSA|DEMREPOFCONGO|2007|">
+          <attr name="host">Pan_troglodytes_schweinfurthii</attr>
+        </taxon>
+        <taxon id="U04002|SE_id257360|Cercopithecus_tantalus|no_sub|TAN|SIVagmTAN49|len1137|AFRSSA|UGANDA||">
+          <attr name="host">Cercopithecus_tantalus</attr>
+        </taxon>
+        <taxon id="JQ924162|SE_id487742|Gorilla_gorilla|gorilla|GOR|CP3425-ID1_CP3425-ID1|len919|AFRSSA|CAMEROON|2008|">
+          <attr name="host">Gorilla_gorilla</attr>
+        </taxon>
+        <taxon id="AM696245|SE_id54489|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVcpzMB803_SIVcpzMB803|len579|AFRSSA|CAMEROON|2005|">
+          <attr name="host">Pan_troglodytes_troglodytes</attr>
+        </taxon>
+        <taxon id="U04000|SE_id257362|Cercopithecus_tantalus|no_sub|TAN|SIVagmTAN17|len1113|AFRSSA|UGANDA||">
+          <attr name="host">Cercopithecus_tantalus</attr>
+        </taxon>
+        <taxon id="JQ924161|SE_id487676|Gorilla_gorilla|gorilla|GOR|CP3425-ID1_CP3425-ID1|len919|AFRSSA|CAMEROON|2008|">
+          <attr name="host">Gorilla_gorilla</attr>
+        </taxon>
+        <taxon id="AM113570|SE_id101377|Mandrillus_sphinx|no_sub|MND-1|MND31_MND31|len824|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="AF332992|SE_id211135|Cercopithecus_aethiops_sabaeus|sub_given|SAB|SAB_4CSF_2_sab-4csf.2|len672|AFRSSA|SENEGAL||">
+          <attr name="host">Cercopithecus_aethiops_sabaeus</attr>
+        </taxon>
+        <taxon id="AM696248|SE_id54486|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVcpzSL995_SIVcpzSL995|len810|AFRSSA|CAMEROON|2005|">
+          <attr name="host">Pan_troglodytes_troglodytes</attr>
+        </taxon>
+        <taxon id="JQ924164|SE_id487741|Gorilla_gorilla|gorilla|GOR|CP3425-ID1_CP3425-ID1|len919|AFRSSA|CAMEROON|2008|">
+          <attr name="host">Gorilla_gorilla</attr>
+        </taxon>
+        <taxon id="KJ467365|SE_id597893|Cercopithecus_aethiops_sabaeus|sub_given|SAB|VMT74557-ITC_Bijilo_VMT74557-ITC/Bijilo|len1804|AFRSSA|GAMBIA|2011|">
+          <attr name="host">Cercopithecus_aethiops_sabaeus</attr>
+        </taxon>
+        <taxon id="KJ467381|SE_id597877|Cercopithecus_aethiops_sabaeus|sub_given|SAB|VMT75352-ITC_Bijilo_VMT75352-ITC/Bijilo|len1804|AFRSSA|GAMBIA|2011|">
+          <attr name="host">Cercopithecus_aethiops_sabaeus</attr>
+        </taxon>
+        <taxon id="KJ467367|SE_id597891|Cercopithecus_aethiops_sabaeus|sub_given|SAB|VMT74767-ITC_Bijilo_VMT74767-ITC/Bijilo|len1804|AFRSSA|GAMBIA|2011|">
+          <attr name="host">Cercopithecus_aethiops_sabaeus</attr>
+        </taxon>
+        <taxon id="KJ467364|SE_id597894|Cercopithecus_aethiops_sabaeus|sub_given|SAB|VMT74497-ITC_Bijilo_VMT74497-ITC/Bijilo|len1801|AFRSSA|GAMBIA|2011|">
+          <attr name="host">Cercopithecus_aethiops_sabaeus</attr>
+        </taxon>
+        <taxon id="KJ467361|SE_id597897|Cercopithecus_aethiops_sabaeus|sub_given|SAB|VMT74407-Abuko_VMT74407-Abuko|len1804|AFRSSA|GAMBIA|2011|">
+          <attr name="host">Cercopithecus_aethiops_sabaeus</attr>
+        </taxon>
+        <taxon id="JQ924158|SE_id487744|Gorilla_gorilla|gorilla|GOR|CP3425-ID1_CP3425-ID1|len919|AFRSSA|CAMEROON|2008|">
+          <attr name="host">Gorilla_gorilla</attr>
+        </taxon>
+        <taxon id="JQ924153|SE_id487680|Gorilla_gorilla|gorilla|GOR|CP3425-ID1_CP3425-ID1|len919|AFRSSA|CAMEROON|2008|">
+          <attr name="host">Gorilla_gorilla</attr>
+        </taxon>
+        <taxon id="AM696239|SE_id54495|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVcpzLB714_SIVcpzLB714|len573|AFRSSA|CAMEROON|2005|">
+          <attr name="host">Pan_troglodytes_troglodytes</attr>
+        </taxon>
+        <taxon id="AF332995|SE_id211132|Cercopithecus_aethiops_sabaeus|sub_given|SAB|SAB_4CSF_6_sab-4csf.6|len672|AFRSSA|SENEGAL||">
+          <attr name="host">Cercopithecus_aethiops_sabaeus</attr>
+        </taxon>
+        <taxon id="KJ467354|SE_id597904|Cercopithecus_aethiops_sabaeus|sub_given|SAB|VMT74137-Abuko_VMT74137-Abuko|len1804|AFRSSA|GAMBIA|2011|">
+          <attr name="host">Cercopithecus_aethiops_sabaeus</attr>
+        </taxon>
+        <taxon id="AM113573|SE_id101374|Mandrillus_sphinx|no_sub|MND-2|MSP125_MSP125|len812|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="KJ467396|SE_id597862|Cercopithecus_aethiops_sabaeus|sub_given|SAB|VMT76207-Mango_VMT76207-Mango|len1804|AFRSSA|GAMBIA|2011|">
+          <attr name="host">Cercopithecus_aethiops_sabaeus</attr>
+        </taxon>
+        <taxon id="U03997|SE_id257365|Cercopithecus_aethiops_sabaeus|sub_given|SAB|SAB3|len1104|AFRSSA|SENEGAL||">
+          <attr name="host">Cercopithecus_aethiops_sabaeus</attr>
+        </taxon>
+        <taxon id="JQ924150|SE_id487748|Gorilla_gorilla|gorilla|GOR|CP3425-ID1_CP3425-ID1|len919|AFRSSA|CAMEROON|2008|">
+          <attr name="host">Gorilla_gorilla</attr>
+        </taxon>
+        <taxon id="AM113565|SE_id101382|Mandrillus_sphinx|no_sub|MND-1|MSP38_MSP38|len855|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="JQ924151|SE_id487681|Gorilla_gorilla|gorilla|GOR|CP3425-ID1_CP3425-ID1|len919|AFRSSA|CAMEROON|2008|">
+          <attr name="host">Gorilla_gorilla</attr>
+        </taxon>
+        <taxon id="JQ924159|SE_id487677|Gorilla_gorilla|gorilla|GOR|CP3425-ID1_CP3425-ID1|len919|AFRSSA|CAMEROON|2008|">
+          <attr name="host">Gorilla_gorilla</attr>
+        </taxon>
+        <taxon id="JQ924140|SE_id487753|Gorilla_gorilla|gorilla|GOR|CP684-ID1_CP684-ID1|len1014|AFRSSA|CAMEROON|2004|">
+          <attr name="host">Gorilla_gorilla</attr>
+        </taxon>
+        <taxon id="AM113571|SE_id101376|Mandrillus_sphinx|no_sub|MND-2|MND28_MND28|len672|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="AM113569|SE_id101378|Mandrillus_sphinx|no_sub|MND-1|MS19_MS19|len569|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="JQ924142|SE_id487752|Gorilla_gorilla|gorilla|GOR|CP3425-ID1_CP3425-ID1|len919|AFRSSA|CAMEROON|2008|">
+          <attr name="host">Gorilla_gorilla</attr>
+        </taxon>
+        <taxon id="AM113572|SE_id101375|Mandrillus_sphinx|no_sub|MND-2|MSP115_MSP115|len903|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="AM743122|SE_id51241|Piliocolobus_badius|badius|WRC|04CI_237_04CI-237|len570|AFRSSA|COTEDIVOIRE|2004|AM743122|SE_id51241|Piliocolobus_badius|badius|WRC|04CI_237_04CI-237|len570|AFRSSA|COTEDIVOIRE|2004|">
+          <attr name="host">Piliocolobus_badius</attr>
+        </taxon>
+        <taxon id="AM696238|SE_id54496|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVcpzBM1034_SIVcpzBM1034|len864|AFRSSA|CAMEROON|2005|">
+          <attr name="host">Pan_troglodytes_troglodytes</attr>
+        </taxon>
+        <taxon id="M81070|SE_id255838|Cercopithecus_tantalus|no_sub|TAN|B05_SIVAGMB05|len703|AFRSSA|CENTRALAFRICANREPUBLIC||">
+          <attr name="host">Cercopithecus_tantalus</attr>
+        </taxon>
+        <taxon id="U93764|SE_id228332|Cercopithecus_aethiops_pygerythrus|sub_given|VER|M13E03_M13ENV03|len890|AFRSSA|TANZANIA|1985|">
+          <attr name="host">Cercopithecus_aethiops_pygerythrus</attr>
+        </taxon>
+        <taxon id="AM743119|SE_id51244|Piliocolobus_badius|badius|WRC|04CI_52_04CI-52|len567|AFRSSA|COTEDIVOIRE|2004|AM743119|SE_id51244|Piliocolobus_badius|badius|WRC|04CI_52_04CI-52|len567|AFRSSA|COTEDIVOIRE|2004|">
+          <attr name="host">Piliocolobus_badius</attr>
+        </taxon>
+        <taxon id="U28526|SE_id251497|Cercopithecus_tantalus|no_sub|TAN|B14_variant_A23_B14,U28526|SE_id251497|Cercopithecus_tantalus|no_sub|TAN|B14_variant_A23_B14,variantA23|len534|AFRSSA|CENTRALAFRICANREPUBLIC||">
+          <attr name="host">Cercopithecus_tantalus</attr>
+        </taxon>
+        <taxon id="AM113567|SE_id101380|Mandrillus_sphinx|no_sub|MND-1|MS25_MS25|len507|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="AM743130|SE_id51233|Piliocolobus_badius|badius|WRC|04CI_112_04CI-112|len568|AFRSSA|COTEDIVOIRE|2004|AM743130|SE_id51233|Piliocolobus_badius|badius|WRC|04CI_112_04CI-112|len568|AFRSSA|COTEDIVOIRE|2004|">
+          <attr name="host">Piliocolobus_badius</attr>
+        </taxon>
+        <taxon id="AM743126|SE_id51237|Piliocolobus_badius|badius|WRC|04CI_299_04CI-299|len570|AFRSSA|COTEDIVOIRE|2004|AM743126|SE_id51237|Piliocolobus_badius|badius|WRC|04CI_299_04CI-299|len570|AFRSSA|COTEDIVOIRE|2004|">
+          <attr name="host">Piliocolobus_badius</attr>
+        </taxon>
+        <taxon id="U28538|SE_id251485|Cercopithecus_tantalus|no_sub|TAN|B14_variant_C3_B14,U28538|SE_id251485|Cercopithecus_tantalus|no_sub|TAN|B14_variant_C3_B14,variantC3|len534|AFRSSA|CENTRALAFRICANREPUBLIC||">
+          <attr name="host">Cercopithecus_tantalus</attr>
+        </taxon>
+        <taxon id="U28520|SE_id251503|Cercopithecus_tantalus|no_sub|TAN|B14_variant_A14_B14,U28520|SE_id251503|Cercopithecus_tantalus|no_sub|TAN|B14_variant_A14_B14,variantA14|len534|AFRSSA|CENTRALAFRICANREPUBLIC||">
+          <attr name="host">Cercopithecus_tantalus</attr>
+        </taxon>
+        <taxon id="U28539|SE_id251484|Cercopithecus_tantalus|no_sub|TAN|B14_variant_C4_B14,U28539|SE_id251484|Cercopithecus_tantalus|no_sub|TAN|B14_variant_C4_B14,variantC4|len534|AFRSSA|CENTRALAFRICANREPUBLIC||">
+          <attr name="host">Cercopithecus_tantalus</attr>
+        </taxon>
+        <taxon id="U93770|SE_id228326|Cercopithecus_aethiops_pygerythrus|sub_given|VER|M13E09|len902|AFRSSA|TANZANIA|1985|">
+          <attr name="host">Cercopithecus_aethiops_pygerythrus</attr>
+        </taxon>
+        <taxon id="U28521|SE_id251502|Cercopithecus_tantalus|no_sub|TAN|B14_variant_A18_B14,U28521|SE_id251502|Cercopithecus_tantalus|no_sub|TAN|B14_variant_A18_B14,variantA18|len534|AFRSSA|CENTRALAFRICANREPUBLIC||">
+          <attr name="host">Cercopithecus_tantalus</attr>
+        </taxon>
+        <taxon id="U93809|SE_id228287|Cercopithecus_aethiops_pygerythrus|sub_given|VER|9649ENV08|len900|AFRSSA|TANZANIA|1985|">
+          <attr name="host">Cercopithecus_aethiops_pygerythrus</attr>
+        </taxon>
+        <taxon id="JX462413|SE_id498912|Cercopithecus_aethiops_pygerythrus|sub_given|VER|VMT16795-M_A-Gariep-Free_VMT16795-M/A-Gariep-Free|len889|AFRSSA|SOUTHAFRICA|2010|">
+          <attr name="host">Cercopithecus_aethiops_pygerythrus</attr>
+        </taxon>
+        <taxon id="AM113568|SE_id101379|Mandrillus_sphinx|no_sub|MND-1|MS21_MS21|len569|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="U28512|SE_id251511|Cercopithecus_tantalus|no_sub|TAN|B14_variant_A7_B14,U28512|SE_id251511|Cercopithecus_tantalus|no_sub|TAN|B14_variant_A7_B14,variantA7|len534|AFRSSA|CENTRALAFRICANREPUBLIC||">
+          <attr name="host">Cercopithecus_tantalus</attr>
+        </taxon>
+        <taxon id="U28507|SE_id251516|Cercopithecus_tantalus|no_sub|TAN|B14_variant_A2_B14,U28507|SE_id251516|Cercopithecus_tantalus|no_sub|TAN|B14_variant_A2_B14,variantA2|len534|AFRSSA|CENTRALAFRICANREPUBLIC||">
+          <attr name="host">Cercopithecus_tantalus</attr>
+        </taxon>
+        <taxon id="U28535|SE_id251488|Cercopithecus_tantalus|no_sub|TAN|B14_variant_B5_B14,U28535|SE_id251488|Cercopithecus_tantalus|no_sub|TAN|B14_variant_B5_B14,variantB5|len534|AFRSSA|CENTRALAFRICANREPUBLIC||">
+          <attr name="host">Cercopithecus_tantalus</attr>
+        </taxon>
+        <taxon id="JX462442|SE_id497972|Cercopithecus_aethiops_pygerythrus|sub_given|VER|VMT34884-M_A-Northway-Pietermartizburg-KwaZulu-_Natal_VMT34884-M/A-Northway-Pietermartizburg-KwaZulu-JX462442|SE_id497972|Cercopithecus_aethiops_pygerythrus|sub_given|VER|VMT34884-M_A">
+          <attr name="host">Cercopithecus_aethiops_pygerythrus</attr>
+        </taxon>
+        <taxon id="U28528|SE_id251495|Cercopithecus_tantalus|no_sub|TAN|B14_variant_A16_B14,U28528|SE_id251495|Cercopithecus_tantalus|no_sub|TAN|B14_variant_A16_B14,variantA16|len534|AFRSSA|CENTRALAFRICANREPUBLIC||">
+          <attr name="host">Cercopithecus_tantalus</attr>
+        </taxon>
+        <taxon id="AM743127|SE_id51236|Piliocolobus_badius|badius|WRC|04CI_280_04CI-280|len558|AFRSSA|COTEDIVOIRE|2004|AM743127|SE_id51236|Piliocolobus_badius|badius|WRC|04CI_280_04CI-280|len558|AFRSSA|COTEDIVOIRE|2004|">
+          <attr name="host">Piliocolobus_badius</attr>
+        </taxon>
+        <taxon id="AM743118|SE_id51245|Piliocolobus_badius|badius|WRC|04CI_268_04CI-268|len565|AFRSSA|COTEDIVOIRE|2004|AM743118|SE_id51245|Piliocolobus_badius|badius|WRC|04CI_268_04CI-268|len565|AFRSSA|COTEDIVOIRE|2004|">
+          <attr name="host">Piliocolobus_badius</attr>
+        </taxon>
+        <taxon id="AM743128|SE_id51235|Piliocolobus_badius|badius|WRC|04CI_32_04CI-32|len531|AFRSSA|COTEDIVOIRE|2004|AM743128|SE_id51235|Piliocolobus_badius|badius|WRC|04CI_32_04CI-32|len531|AFRSSA|COTEDIVOIRE|2004|">
+          <attr name="host">Piliocolobus_badius</attr>
+        </taxon>
+        <taxon id="U28525|SE_id251498|Cercopithecus_tantalus|no_sub|TAN|B14_variant_A22_B14,U28525|SE_id251498|Cercopithecus_tantalus|no_sub|TAN|B14_variant_A22_B14,variantA22|len534|AFRSSA|CENTRALAFRICANREPUBLIC||">
+          <attr name="host">Cercopithecus_tantalus</attr>
+        </taxon>
+        <taxon id="U93763|SE_id228333|Cercopithecus_aethiops_pygerythrus|sub_given|VER|M13E02_M13ENV02|len902|AFRSSA|TANZANIA|1985|">
+          <attr name="host">Cercopithecus_aethiops_pygerythrus</attr>
+        </taxon>
+        <taxon id="JX462439|SE_id498899|Cercopithecus_aethiops_pygerythrus|sub_given|VER|VMT31824-F_A-Blythedale_VMT31824-F/A-Blythedale|len898|AFRSSA|SOUTHAFRICA|2010|">
+          <attr name="host">Cercopithecus_aethiops_pygerythrus</attr>
+        </taxon>
+        <taxon id="U28529|SE_id251494|Cercopithecus_tantalus|no_sub|TAN|B14_variant_A17_B14,U28529|SE_id251494|Cercopithecus_tantalus|no_sub|TAN|B14_variant_A17_B14,variantA17|len534|AFRSSA|CENTRALAFRICANREPUBLIC||">
+          <attr name="host">Cercopithecus_tantalus</attr>
+        </taxon>
+        <taxon id="U28530|SE_id251493|Cercopithecus_tantalus|no_sub|TAN|B14_variant_B1_B14,U28530|SE_id251493|Cercopithecus_tantalus|no_sub|TAN|B14_variant_B1_B14,variantB1|len534|AFRSSA|CENTRALAFRICANREPUBLIC||">
+          <attr name="host">Cercopithecus_tantalus</attr>
+        </taxon>
+        <taxon id="AM743129|SE_id51234|Piliocolobus_badius|badius|WRC|04CI_196_04CI-196|len574|AFRSSA|COTEDIVOIRE|2004|AM743129|SE_id51234|Piliocolobus_badius|badius|WRC|04CI_196_04CI-196|len574|AFRSSA|COTEDIVOIRE|2004|">
+          <attr name="host">Piliocolobus_badius</attr>
+        </taxon>
+        <taxon id="U28540|SE_id251483|Cercopithecus_tantalus|no_sub|TAN|B14_variant_C5_B14,U28540|SE_id251483|Cercopithecus_tantalus|no_sub|TAN|B14_variant_C5_B14,variantC5|len534|AFRSSA|CENTRALAFRICANREPUBLIC||">
+          <attr name="host">Cercopithecus_tantalus</attr>
+        </taxon>
+        <taxon id="U93779|SE_id228317|Cercopithecus_aethiops_pygerythrus|sub_given|VER|M13E18|len902|AFRSSA|TANZANIA|1985|">
+          <attr name="host">Cercopithecus_aethiops_pygerythrus</attr>
+        </taxon>
+        <taxon id="JX462426|SE_id497980|Cercopithecus_aethiops_pygerythrus|sub_given|VER|VMT19243-F_A-Sandveld-Free_VMT19243-F/A-Sandveld-Free|len889|AFRSSA|SOUTHAFRICA|2010|">
+          <attr name="host">Cercopithecus_aethiops_pygerythrus</attr>
+        </taxon>
+        <taxon id="U28519|SE_id251504|Cercopithecus_tantalus|no_sub|TAN|B14_variant_A13_B14,U28519|SE_id251504|Cercopithecus_tantalus|no_sub|TAN|B14_variant_A13_B14,variantA13|len534|AFRSSA|CENTRALAFRICANREPUBLIC||">
+          <attr name="host">Cercopithecus_tantalus</attr>
+        </taxon>
+        <taxon id="AM743123|SE_id51240|Piliocolobus_badius|badius|WRC|04CI_175_04CI-175|len515|AFRSSA|COTEDIVOIRE|2004|AM743123|SE_id51240|Piliocolobus_badius|badius|WRC|04CI_175_04CI-175|len515|AFRSSA|COTEDIVOIRE|2004|">
+          <attr name="host">Piliocolobus_badius</attr>
+        </taxon>
+        <taxon id="U28527|SE_id251496|Cercopithecus_tantalus|no_sub|TAN|B14_variant_A15_B14,U28527|SE_id251496|Cercopithecus_tantalus|no_sub|TAN|B14_variant_A15_B14,variantA15|len534|AFRSSA|CENTRALAFRICANREPUBLIC||">
+          <attr name="host">Cercopithecus_tantalus</attr>
+        </taxon>
+        <taxon id="U28536|SE_id251487|Cercopithecus_tantalus|no_sub|TAN|B14_variant_C1_B14,U28536|SE_id251487|Cercopithecus_tantalus|no_sub|TAN|B14_variant_C1_B14,variantC1|len534|AFRSSA|CENTRALAFRICANREPUBLIC||">
+          <attr name="host">Cercopithecus_tantalus</attr>
+        </taxon>
+        <taxon id="DQ222476|SE_id125195|Cercopithecus_solatus||SUN|SOL-36|len627|AFRSSA|GABON|||">
+          <attr name="host">Cercopithecus_solatus</attr>
+        </taxon>
+        <taxon id="U59188|SE_id240400|Cercopithecus_aethiops_sabaeus|sub_given|SAB|C2_C2|len1026|AFRSSA|SENEGAL||">
+          <attr name="host">Cercopithecus_aethiops_sabaeus</attr>
+        </taxon>
+        <taxon id="AM113550|SE_id101397|Mandrillus_sphinx|no_sub|MND-1|MS21_MS21|len512|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="AM113552|SE_id101395|Mandrillus_sphinx|no_sub|MND-1|MS25_MS25|len510|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="AM113555|SE_id101392|Mandrillus_sphinx|no_sub|MND-1|MS30_MS30|len505|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="GQ925927|SE_id332848|Cercopithecus_mona|no_sub|MON|NG1_NG1|len684|AFRSSA|NIGERIA||">
+          <attr name="host">Cercopithecus_mona</attr>
+        </taxon>
+        <taxon id="GQ925927|SE_id332848|Cercopithecus_mona|no_sub|MON|NG1|len684|AFRSSA|NIGERIA|||">
+          <attr name="host">Cercopithecus_mona</attr>
+        </taxon>
+        <taxon id="HE591413|SE_id476617|Cercocebus_torquatus|no_sub|RCM|SIVrcm_10Gab_OM71|len722|AFRSSA|GABON||2010|">
+          <attr name="host">Cercocebus_torquatus</attr>
+        </taxon>
+        <taxon id="Y15592|SE_id242298|Cercopithecus_aethiops_sabaeus|sub_given|SAB|D30_D30|len705|AFRSSA|SENEGAL|1991|">
+          <attr name="host">Cercopithecus_aethiops_sabaeus</attr>
+        </taxon>
+        <taxon id="DQ222476|SE_id125195|Cercopithecus_solatus|no_sub|SUN|SOL-36|len627|AFRSSA|GABON||">
+          <attr name="host">Cercopithecus_solatus</attr>
+        </taxon>
+        <taxon id="AM743125|SE_id51238|Piliocolobus_badius|badius|WRC|04CI_223_04CI-223|len555|AFRSSA|COTEDIVOIRE|2004|AM743125|SE_id51238|Piliocolobus_badius|badius|WRC|04CI_223_04CI-223|len555|AFRSSA|COTEDIVOIRE|2004|">
+          <attr name="host">Piliocolobus_badius</attr>
+        </taxon>
+        <taxon id="U59192|SE_id240396|Cercopithecus_aethiops_sabaeus|sub_given|SAB|C6_C6|len1026|AFRSSA|SENEGAL||">
+          <attr name="host">Cercopithecus_aethiops_sabaeus</attr>
+        </taxon>
+        <taxon id="KC693499|SE_id575853|Cercocebus_atys|no_sub|SMM|sm753-gp41_sm753-gp41|len513|AFRSSA|COTEDIVOIRE|2006|KC693499|SE_id575853|Cercocebus_atys|no_sub|SMM|sm753-gp41_sm753-gp41|len513|AFRSSA|COTEDIVOIRE|2006|">
+          <attr name="host">Cercocebus_atys</attr>
+        </taxon>
+        <taxon id="AM113557|SE_id101390|Mandrillus_sphinx|no_sub|MND-1|MND31_MND31|len525|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="FJ895383|SE_id311665|Pan_troglodytes_schweinfurthii|sub_given|CPZ|SIVcpzTAN6_Ch-099_SIVcpzTAN6|len813|AFRSSA|TANZANIA|2005|">
+          <attr name="host">Pan_troglodytes_schweinfurthii</attr>
+        </taxon>
+        <taxon id="JQ866066|SE_id495576|Pan_troglodytes_schweinfurthii|sub_given|CPZ|EP482_EP482|len730|AFRSSA|DEMREPOFCONGO|2006|">
+          <attr name="host">Pan_troglodytes_schweinfurthii</attr>
+        </taxon>
+        <taxon id="AM113588|SE_id101359|Mandrillus_sphinx|no_sub|MND-2|MS23_MS23|len515|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="AM296492|SE_id90967|Gorilla_gorilla|gorilla|GOR|CP1436_SIVgorCP1436|len738|AFRSSA|CAMEROON|2006|">
+          <attr name="host">Gorilla_gorilla</attr>
+        </taxon>
+        <taxon id="AM113558|SE_id101389|Mandrillus_sphinx|no_sub|MND-1|MSP38_MSP38|len507|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="AM113548|SE_id101399|Mandrillus_sphinx|no_sub|MND-1|MS19_MS19|len520|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="AM113554|SE_id101393|Mandrillus_sphinx|no_sub|MND-1|MS28_MS28|len537|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="FJ895381|SE_id311667|Pan_troglodytes_schweinfurthii|sub_given|CPZ|SIVcpzTAN13_Ch-080_SIVcpzTAN13|len797|AFRSSA|TANZANIA|2006|">
+          <attr name="host">Pan_troglodytes_schweinfurthii</attr>
+        </taxon>
+        <taxon id="JN091695|SE_id415362|Pan_troglodytes_schweinfurthii|sub_given|CPZ|UG29_UG29|len728|AFRSSA|TANZANIA|2009|">
+          <attr name="host">Pan_troglodytes_schweinfurthii</attr>
+        </taxon>
+        <taxon id="AM113553|SE_id101394|Mandrillus_sphinx|no_sub|MND-1|MS27_MS27|len505|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="GU989633|SE_id354397|Cercopithecus_neglectus|no_sub|DEB|SIVdeb04CMPF2149_SIVdeb04CMPF2149|len666|AFRSSA|CAMEROON|2004|">
+          <attr name="host">Cercopithecus_neglectus</attr>
+        </taxon>
+        <taxon id="HE591410|SE_id476628|Cercocebus_torquatus|no_sub|RCM|SIVrcm_10Gab_OM32|len704|AFRSSA|GABON||2010|">
+          <attr name="host">Cercocebus_torquatus</attr>
+        </taxon>
+        <taxon id="FJ895382|SE_id311666|Pan_troglodytes_schweinfurthii|sub_given|CPZ|SIVcpzTAN5_Ch-071_SIVcpzTAN5|len806|AFRSSA|TANZANIA|2006|">
+          <attr name="host">Pan_troglodytes_schweinfurthii</attr>
+        </taxon>
+        <taxon id="KC693497|SE_id575855|Cercocebus_atys|no_sub|SMM|sm487-gp41_sm487-gp41|len510|AFRSSA|COTEDIVOIRE|2006|KC693497|SE_id575855|Cercocebus_atys|no_sub|SMM|sm487-gp41_sm487-gp41|len510|AFRSSA|COTEDIVOIRE|2006|">
+          <attr name="host">Cercocebus_atys</attr>
+        </taxon>
+        <taxon id="FJ895386|SE_id311662|Pan_troglodytes_schweinfurthii|sub_given|CPZ|SIVcpzTAN10_Ch-036_SIVcpzTAN10|len813|AFRSSA|TANZANIA|2006|">
+          <attr name="host">Pan_troglodytes_schweinfurthii</attr>
+        </taxon>
+        <taxon id="M62884|SE_id266825|Mandrillus_sphinx|no_sub|MND-1|MND122_REEA02|len697|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="U59193|SE_id240395|Cercopithecus_aethiops_sabaeus|sub_given|SAB|P1_P1|len1026|AFRSSA|SENEGAL||">
+          <attr name="host">Cercopithecus_aethiops_sabaeus</attr>
+        </taxon>
+        <taxon id="AM113559|SE_id101388|Mandrillus_sphinx|no_sub|MND-2|MSP115_MSP115|len529|AFRSSA|GABON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="HE591411|SE_id476618|Cercocebus_torquatus|no_sub|RCM|SIVrcm_10Gab_OM62|len757|AFRSSA|GABON||2010|">
+          <attr name="host">Cercocebus_torquatus</attr>
+        </taxon>
+        <taxon id="FN554939|SE_id352260|Pan_troglodytes_troglodytes|sub_given|CPZ|SIVcpzPttCP2687_SIVcpzPttCP2687|len1260|AFRSSA|CAMEROON|2007|">
+          <attr name="host">Pan_troglodytes_troglodytes</attr>
+        </taxon>
+        <taxon id="AM113589|SE_id58686|Mandrillus_sphinx|no_sub|MND-2|MND302_MND302|len531|AFRSSA|CAMEROON||">
+          <attr name="host">Mandrillus_sphinx</attr>
+        </taxon>
+        <taxon id="FM165201|SE_id258500|Procolobus_verus|no_sub|OLC|97CI12|len555|AFRSSA|COTEDIVOIRE|Tai_National_Park|1997|FM165201|SE_id258500|Procolobus_verus|no_sub|OLC|97CI12|len555|AFRSSA|COTEDIVOIRE|Tai_National_Park|1997|">
+          <attr name="host">Procolobus_verus</attr>
+        </taxon>
+        <taxon id="U59198|SE_id240390|Cercopithecus_aethiops_sabaeus|sub_given|SAB|C6_C6|len681|AFRSSA|SENEGAL||">
+          <attr name="host">Cercopithecus_aethiops_sabaeus</attr>
+        </taxon>
+        <taxon id="DQ222473|SE_id125198|Cercopithecus_albogularis|no_sub|SYK|KE44|len732|AFRSSA|KENYA||">
+          <attr name="host">Cercopithecus_albogularis</attr>
+        </taxon>
+        <taxon id="FM165201|SE_id258500|Procolobus_verus|no_sub|OLC|97CI12|len555|AFRSSA|COTEDIVOIRE|1997|FM165201|SE_id258500|Procolobus_verus|no_sub|OLC|97CI12|len555|AFRSSA|COTEDIVOIRE|1997|">
+          <attr name="host">Procolobus_verus</attr>
+        </taxon>
+        <taxon id="DQ222473|SE_id125198|Cercopithecus_albogularis|no_sub|SYK|KE44|len732|AFRSSA|KENYA|||">
+          <attr name="host">Cercopithecus_albogularis</attr>
+        </taxon>
+        <taxon id="U59199|SE_id240389|Cercopithecus_aethiops_sabaeus|sub_given|SAB|P1_P1|len681|AFRSSA|SENEGAL||">
+          <attr name="host">Cercopithecus_aethiops_sabaeus</attr>
+        </taxon>
+    </taxa>
+    <attributePatterns attribute="host" id="host.pattern">
+      <taxa idref="taxa" />
+        <generalDataType idref="host.dataType" />
+    </attributePatterns>
+    <empiricalTreeDistributionModel fileName="h24_0_empTrees_resampled.trees" id="treeModel.0">
+      <taxa idref="taxa" />
+    </empiricalTreeDistributionModel>
+    <statistic id="treeModel.0.currentTree" name="Current Tree">
+      <empiricalTreeDistributionModel idref="treeModel.0" />
+    </statistic>
+    <empiricalTreeDistributionModel fileName="h24_1_empTrees_resampled.trees" id="treeModel.1">
+      <taxa idref="taxa" />
+    </empiricalTreeDistributionModel>
+    <statistic id="treeModel.1.currentTree" name="Current Tree">
+      <empiricalTreeDistributionModel idref="treeModel.1" />
+    </statistic>
+    <empiricalTreeDistributionModel fileName="h24_2_empTrees_resampled.trees" id="treeModel.2">
+      <taxa idref="taxa" />
+    </empiricalTreeDistributionModel>
+    <statistic id="treeModel.2.currentTree" name="Current Tree">
+      <empiricalTreeDistributionModel idref="treeModel.2" />
+    </statistic>
+    <empiricalTreeDistributionModel fileName="h24_3_empTrees_resampled.trees" id="treeModel.3">
+      <taxa idref="taxa" />
+    </empiricalTreeDistributionModel>
+    <statistic id="treeModel.3.currentTree" name="Current Tree">
+      <empiricalTreeDistributionModel idref="treeModel.3" />
+    </statistic>
+    <empiricalTreeDistributionModel fileName="h24_4_empTrees_resampled.trees" id="treeModel.4">
+      <taxa idref="taxa" />
+    </empiricalTreeDistributionModel>
+    <statistic id="treeModel.4.currentTree" name="Current Tree">
+      <empiricalTreeDistributionModel idref="treeModel.4" />
+    </statistic>
+    <empiricalTreeDistributionModel fileName="h24_5_empTrees_resampled.trees" id="treeModel.5">
+      <taxa idref="taxa" />
+    </empiricalTreeDistributionModel>
+    <statistic id="treeModel.5.currentTree" name="Current Tree">
+      <empiricalTreeDistributionModel idref="treeModel.5" />
+    </statistic>
+    <empiricalTreeDistributionModel fileName="h24_6_empTrees_resampled.trees" id="treeModel.6">
+      <taxa idref="taxa" />
+    </empiricalTreeDistributionModel>
+    <statistic id="treeModel.6.currentTree" name="Current Tree">
+      <empiricalTreeDistributionModel idref="treeModel.6" />
+    </statistic>
+    <empiricalTreeDistributionModel fileName="h24_7_empTrees_resampled.trees" id="treeModel.7">
+      <taxa idref="taxa" />
+    </empiricalTreeDistributionModel>
+    <statistic id="treeModel.7.currentTree" name="Current Tree">
+      <empiricalTreeDistributionModel idref="treeModel.7" />
+    </statistic>
+    <empiricalTreeDistributionModel fileName="h24_8_empTrees_resampled.trees" id="treeModel.8">
+      <taxa idref="taxa" />
+    </empiricalTreeDistributionModel>
+    <statistic id="treeModel.8.currentTree" name="Current Tree">
+      <empiricalTreeDistributionModel idref="treeModel.8" />
+    </statistic>
+    <empiricalTreeDistributionModel fileName="h24_9_empTrees_resampled.trees" id="treeModel.9">
+      <taxa idref="taxa" />
+    </empiricalTreeDistributionModel>
+    <statistic id="treeModel.9.currentTree" name="Current Tree">
+      <empiricalTreeDistributionModel idref="treeModel.9" />
+    </statistic>
+    <empiricalTreeDistributionModel fileName="h24_10_empTrees_resampled.trees" id="treeModel.10">
+      <taxa idref="taxa" />
+    </empiricalTreeDistributionModel>
+    <statistic id="treeModel.10.currentTree" name="Current Tree">
+      <empiricalTreeDistributionModel idref="treeModel.10" />
+    </statistic>
+    <empiricalTreeDistributionModel fileName="h24_11_empTrees_resampled.trees" id="treeModel.11">
+      <taxa idref="taxa" />
+    </empiricalTreeDistributionModel>
+    <statistic id="treeModel.11.currentTree" name="Current Tree">
+      <empiricalTreeDistributionModel idref="treeModel.11" />
+    </statistic>
+    <generalSubstitutionModel id="host.model">
+      <generalDataType idref="host.dataType" />
+        <frequencies>
+          <frequencyModel id="host.frequencyModel" normalize="true">
+              <generalDataType idref="host.dataType" />
+                <frequencies>
+                  <parameter dimension="23" id="host.frequencies" />
+                </frequencies>
+            </frequencyModel>
+        </frequencies>
+        <rates>
+          <parameter dimension="506" id="host.rates" value="1.0" />
+        </rates>
+        <rateIndicator>
+          <parameter dimension="506" id="host.indicators" value="1.0" />
+        </rateIndicator>
+    </generalSubstitutionModel>
+    <sumStatistic elementwise="true" id="host.nonZeroRates">
+      <parameter idref="host.indicators" />
+    </sumStatistic>
+    <productStatistic elementwise="false" id="host.actualRates">
+      <parameter idref="host.indicators" />
+        <parameter idref="host.rates" />
+    </productStatistic>
+    <siteModel id="host.siteModel">
+      <substitutionModel>
+          <generalSubstitutionModel idref="host.model" />
+        </substitutionModel>
+        <mutationRate>
+          <parameter id="hostSiteModel.mu" lower="0.0" upper="10.0" value="0.1" />
+        </mutationRate>
+    </siteModel>
+    <ancestralTreeLikelihood id="host.treeLikelihood.0" stateTagName="host.states">
+      <attributePatterns idref="host.pattern" />
+        <treeModel idref="treeModel.0" />
+        <siteModel idref="host.siteModel" />
+        <generalSubstitutionModel idref="host.model" />
+    </ancestralTreeLikelihood>
+    <ancestralTreeLikelihood id="host.treeLikelihood.1" stateTagName="host.states">
+      <attributePatterns idref="host.pattern" />
+        <treeModel idref="treeModel.1" />
+        <siteModel idref="host.siteModel" />
+        <generalSubstitutionModel idref="host.model" />
+    </ancestralTreeLikelihood>
+    <ancestralTreeLikelihood id="host.treeLikelihood.2" stateTagName="host.states">
+      <attributePatterns idref="host.pattern" />
+        <treeModel idref="treeModel.2" />
+        <siteModel idref="host.siteModel" />
+        <generalSubstitutionModel idref="host.model" />
+    </ancestralTreeLikelihood>
+    <ancestralTreeLikelihood id="host.treeLikelihood.3" stateTagName="host.states">
+      <attributePatterns idref="host.pattern" />
+        <treeModel idref="treeModel.3" />
+        <siteModel idref="host.siteModel" />
+        <generalSubstitutionModel idref="host.model" />
+    </ancestralTreeLikelihood>
+    <ancestralTreeLikelihood id="host.treeLikelihood.4" stateTagName="host.states">
+      <attributePatterns idref="host.pattern" />
+        <treeModel idref="treeModel.4" />
+        <siteModel idref="host.siteModel" />
+        <generalSubstitutionModel idref="host.model" />
+    </ancestralTreeLikelihood>
+    <ancestralTreeLikelihood id="host.treeLikelihood.5" stateTagName="host.states">
+      <attributePatterns idref="host.pattern" />
+        <treeModel idref="treeModel.5" />
+        <siteModel idref="host.siteModel" />
+        <generalSubstitutionModel idref="host.model" />
+    </ancestralTreeLikelihood>
+    <ancestralTreeLikelihood id="host.treeLikelihood.6" stateTagName="host.states">
+      <attributePatterns idref="host.pattern" />
+        <treeModel idref="treeModel.6" />
+        <siteModel idref="host.siteModel" />
+        <generalSubstitutionModel idref="host.model" />
+    </ancestralTreeLikelihood>
+    <ancestralTreeLikelihood id="host.treeLikelihood.7" stateTagName="host.states">
+      <attributePatterns idref="host.pattern" />
+        <treeModel idref="treeModel.7" />
+        <siteModel idref="host.siteModel" />
+        <generalSubstitutionModel idref="host.model" />
+    </ancestralTreeLikelihood>
+    <ancestralTreeLikelihood id="host.treeLikelihood.8" stateTagName="host.states">
+      <attributePatterns idref="host.pattern" />
+        <treeModel idref="treeModel.8" />
+        <siteModel idref="host.siteModel" />
+        <generalSubstitutionModel idref="host.model" />
+    </ancestralTreeLikelihood>
+    <ancestralTreeLikelihood id="host.treeLikelihood.9" stateTagName="host.states">
+      <attributePatterns idref="host.pattern" />
+        <treeModel idref="treeModel.9" />
+        <siteModel idref="host.siteModel" />
+        <generalSubstitutionModel idref="host.model" />
+    </ancestralTreeLikelihood>
+    <ancestralTreeLikelihood id="host.treeLikelihood.10" stateTagName="host.states">
+      <attributePatterns idref="host.pattern" />
+        <treeModel idref="treeModel.10" />
+        <siteModel idref="host.siteModel" />
+        <generalSubstitutionModel idref="host.model" />
+    </ancestralTreeLikelihood>
+    <ancestralTreeLikelihood id="host.treeLikelihood.11" stateTagName="host.states">
+      <attributePatterns idref="host.pattern" />
+        <treeModel idref="treeModel.11" />
+        <siteModel idref="host.siteModel" />
+        <generalSubstitutionModel idref="host.model" />
+    </ancestralTreeLikelihood>
+    <operators id="operators" optimizationSchedule="log">
+      <empiricalTreeDistributionOperator weight="1">
+          <empiricalTreeDistributionModel idref="treeModel.0" />
+        </empiricalTreeDistributionOperator>
+        <empiricalTreeDistributionOperator weight="1">
+          <empiricalTreeDistributionModel idref="treeModel.1" />
+        </empiricalTreeDistributionOperator>
+        <empiricalTreeDistributionOperator weight="1">
+          <empiricalTreeDistributionModel idref="treeModel.2" />
+        </empiricalTreeDistributionOperator>
+        <empiricalTreeDistributionOperator weight="1">
+          <empiricalTreeDistributionModel idref="treeModel.3" />
+        </empiricalTreeDistributionOperator>
+        <empiricalTreeDistributionOperator weight="1">
+          <empiricalTreeDistributionModel idref="treeModel.4" />
+        </empiricalTreeDistributionOperator>
+        <empiricalTreeDistributionOperator weight="1">
+          <empiricalTreeDistributionModel idref="treeModel.5" />
+        </empiricalTreeDistributionOperator>
+        <empiricalTreeDistributionOperator weight="1">
+          <empiricalTreeDistributionModel idref="treeModel.6" />
+        </empiricalTreeDistributionOperator>
+        <empiricalTreeDistributionOperator weight="1">
+          <empiricalTreeDistributionModel idref="treeModel.7" />
+        </empiricalTreeDistributionOperator>
+        <empiricalTreeDistributionOperator weight="1">
+          <empiricalTreeDistributionModel idref="treeModel.8" />
+        </empiricalTreeDistributionOperator>
+        <empiricalTreeDistributionOperator weight="1">
+          <empiricalTreeDistributionModel idref="treeModel.9" />
+        </empiricalTreeDistributionOperator>
+        <empiricalTreeDistributionOperator weight="1">
+          <empiricalTreeDistributionModel idref="treeModel.10" />
+        </empiricalTreeDistributionOperator>
+        <empiricalTreeDistributionOperator weight="1">
+          <empiricalTreeDistributionModel idref="treeModel.11" />
+        </empiricalTreeDistributionOperator>
+        <scaleOperator autoOptimize="true" scaleAllIndependently="true" scaleFactor="0.75" weight="45">
+          <parameter idref="host.rates" />
+        </scaleOperator>
+        <bitFlipOperator weight="20">
+          <parameter idref="host.indicators" />
+        </bitFlipOperator>
+        <scaleOperator autoOptimize="true" scaleFactor="0.75" weight="5">
+          <parameter idref="hostSiteModel.mu" />
+        </scaleOperator>
+        <bitFlipInSubstitutionModelOperator autoOptimize="true" scaleFactor="0.75" weight="15">
+          <generalSubstitutionModel idref="host.model" />
+            <parameter idref="hostSiteModel.mu" />
+        </bitFlipInSubstitutionModelOperator>
+    </operators>
+    <mcmc autoOptimize="true" chainLength="25000000" id="mcmc" operatorAnalysis="discreteTraits_2017-05-04.ops">
+      <posterior id="posterior">
+          <likelihood id="likelihood">
+              <ancestralTreeLikelihood idref="host.treeLikelihood.0" />
+            <ancestralTreeLikelihood idref="host.treeLikelihood.1" />
+            <ancestralTreeLikelihood idref="host.treeLikelihood.2" />
+            <ancestralTreeLikelihood idref="host.treeLikelihood.3" />
+            <ancestralTreeLikelihood idref="host.treeLikelihood.4" />
+            <ancestralTreeLikelihood idref="host.treeLikelihood.5" />
+            <ancestralTreeLikelihood idref="host.treeLikelihood.6" />
+            <ancestralTreeLikelihood idref="host.treeLikelihood.7" />
+            <ancestralTreeLikelihood idref="host.treeLikelihood.8" />
+            <ancestralTreeLikelihood idref="host.treeLikelihood.9" />
+            <ancestralTreeLikelihood idref="host.treeLikelihood.10" />
+            <ancestralTreeLikelihood idref="host.treeLikelihood.11" />
+            </likelihood>
+            <prior id="prior">
+              <exponentialPrior mean="23" offset="0">
+                  <statistic idref="host.nonZeroRates" />
+                </exponentialPrior>
+                <uniformPrior lower="0.0" upper="1.0">
+                  <parameter idref="host.frequencies" />
+                </uniformPrior>
+                <cachedPrior>
+                  <gammaPrior offset="0.0" scale="1.0" shape="1.0">
+                      <parameter idref="host.rates" />
+                    </gammaPrior>
+                    <parameter idref="host.rates" />
+                </cachedPrior>
+                <generalSubstitutionModel idref="host.model" />
+            </prior>
+        </posterior>
+        <operators idref="operators" />
+        <logTree fileName="discreteTraits_0_2017-05-04.trees" id="treeFileLog.0" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
+          <treeModel idref="treeModel.0" />
+            <posterior idref="posterior" />
+            <trait name="host.states" tag="host">
+              <ancestralTreeLikelihood idref="host.treeLikelihood.0" />
+            </trait>
+        </logTree>
+        <logTree fileName="discreteTraits_1_2017-05-04.trees" id="treeFileLog.1" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
+          <treeModel idref="treeModel.1" />
+            <posterior idref="posterior" />
+            <trait name="host.states" tag="host">
+              <ancestralTreeLikelihood idref="host.treeLikelihood.1" />
+            </trait>
+        </logTree>
+        <logTree fileName="discreteTraits_2_2017-05-04.trees" id="treeFileLog.2" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
+          <treeModel idref="treeModel.2" />
+            <posterior idref="posterior" />
+            <trait name="host.states" tag="host">
+              <ancestralTreeLikelihood idref="host.treeLikelihood.2" />
+            </trait>
+        </logTree>
+        <logTree fileName="discreteTraits_3_2017-05-04.trees" id="treeFileLog.3" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
+          <treeModel idref="treeModel.3" />
+            <posterior idref="posterior" />
+            <trait name="host.states" tag="host">
+              <ancestralTreeLikelihood idref="host.treeLikelihood.3" />
+            </trait>
+        </logTree>
+        <logTree fileName="discreteTraits_4_2017-05-04.trees" id="treeFileLog.4" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
+          <treeModel idref="treeModel.4" />
+            <posterior idref="posterior" />
+            <trait name="host.states" tag="host">
+              <ancestralTreeLikelihood idref="host.treeLikelihood.4" />
+            </trait>
+        </logTree>
+        <logTree fileName="discreteTraits_5_2017-05-04.trees" id="treeFileLog.5" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
+          <treeModel idref="treeModel.5" />
+            <posterior idref="posterior" />
+            <trait name="host.states" tag="host">
+              <ancestralTreeLikelihood idref="host.treeLikelihood.5" />
+            </trait>
+        </logTree>
+        <logTree fileName="discreteTraits_6_2017-05-04.trees" id="treeFileLog.6" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
+          <treeModel idref="treeModel.6" />
+            <posterior idref="posterior" />
+            <trait name="host.states" tag="host">
+              <ancestralTreeLikelihood idref="host.treeLikelihood.6" />
+            </trait>
+        </logTree>
+        <logTree fileName="discreteTraits_7_2017-05-04.trees" id="treeFileLog.7" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
+          <treeModel idref="treeModel.7" />
+            <posterior idref="posterior" />
+            <trait name="host.states" tag="host">
+              <ancestralTreeLikelihood idref="host.treeLikelihood.7" />
+            </trait>
+        </logTree>
+        <logTree fileName="discreteTraits_8_2017-05-04.trees" id="treeFileLog.8" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
+          <treeModel idref="treeModel.8" />
+            <posterior idref="posterior" />
+            <trait name="host.states" tag="host">
+              <ancestralTreeLikelihood idref="host.treeLikelihood.8" />
+            </trait>
+        </logTree>
+        <logTree fileName="discreteTraits_9_2017-05-04.trees" id="treeFileLog.9" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
+          <treeModel idref="treeModel.9" />
+            <posterior idref="posterior" />
+            <trait name="host.states" tag="host">
+              <ancestralTreeLikelihood idref="host.treeLikelihood.9" />
+            </trait>
+        </logTree>
+        <logTree fileName="discreteTraits_10_2017-05-04.trees" id="treeFileLog.10" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
+          <treeModel idref="treeModel.10" />
+            <posterior idref="posterior" />
+            <trait name="host.states" tag="host">
+              <ancestralTreeLikelihood idref="host.treeLikelihood.10" />
+            </trait>
+        </logTree>
+        <logTree fileName="discreteTraits_11_2017-05-04.trees" id="treeFileLog.11" logEvery="5000" nexusFormat="true" sortTranslationTable="true">
+          <treeModel idref="treeModel.11" />
+            <posterior idref="posterior" />
+            <trait name="host.states" tag="host">
+              <ancestralTreeLikelihood idref="host.treeLikelihood.11" />
+            </trait>
+        </logTree>
+        <log id="screenLog" logEvery="10000">
+          <column dp="4" label="Posterior" width="12">
+              <posterior idref="posterior" />
+            </column>
+            <column dp="4" label="Prior" width="12">
+              <prior idref="prior" />
+            </column>
+            <column label="host.nonZeroRates" sf="6" width="12">
+              <productStatistic idref="host.nonZeroRates" />
+            </column>
+        </log>
+        <log fileName="discreteTraits_2017-05-04.log" id="fileLog" logEvery="5000" overwrite="false">
+          <sumStatistic idref="host.nonZeroRates" />
+            <ancestralTreeLikelihood idref="host.treeLikelihood.0" />
+            <ancestralTreeLikelihood idref="host.treeLikelihood.1" />
+            <ancestralTreeLikelihood idref="host.treeLikelihood.2" />
+            <ancestralTreeLikelihood idref="host.treeLikelihood.3" />
+            <ancestralTreeLikelihood idref="host.treeLikelihood.4" />
+            <ancestralTreeLikelihood idref="host.treeLikelihood.5" />
+            <ancestralTreeLikelihood idref="host.treeLikelihood.6" />
+            <ancestralTreeLikelihood idref="host.treeLikelihood.7" />
+            <ancestralTreeLikelihood idref="host.treeLikelihood.8" />
+            <ancestralTreeLikelihood idref="host.treeLikelihood.9" />
+            <ancestralTreeLikelihood idref="host.treeLikelihood.10" />
+            <ancestralTreeLikelihood idref="host.treeLikelihood.11" />
+            <posterior idref="posterior" />
+            <prior idref="prior" />
+            <parameter idref="hostSiteModel.mu" />
+            <parameter idref="host.rates" />
+            <parameter idref="host.indicators" />
+            <productStatistic idref="host.actualRates" />
+        </log>
+    </mcmc>
+    <report>
+      <property name="timer">
+          <mcmc idref="mcmc" />
+        </property>
+    </report>
+</beast>
