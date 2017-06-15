@@ -66,3 +66,7 @@ Thumbs.db
 # cluster log #
 ###############
 *.sh.*
+
+manuscript/*/*.docx
+manuscript/revis*
+manuscript/thesis/*
